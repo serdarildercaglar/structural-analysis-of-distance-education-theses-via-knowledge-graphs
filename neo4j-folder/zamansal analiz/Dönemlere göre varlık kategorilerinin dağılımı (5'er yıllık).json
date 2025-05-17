@@ -1,0 +1,142 @@
+﻿[
+  {
+    "Dönem": "1997-1999",
+    "Varlık_Türü": "STAKEHOLDER",
+    "Sayı": 13
+  },
+  {
+    "Dönem": "1997-1999",
+    "Varlık_Türü": "PROBLEM_CHALLENGE",
+    "Sayı": 12
+  },
+  {
+    "Dönem": "1997-1999",
+    "Varlık_Türü": "SOLUTION_APPROACH",
+    "Sayı": 11
+  },
+  {
+    "Dönem": "1997-1999",
+    "Varlık_Türü": "FOCUS_AREA_THEME",
+    "Sayı": 10
+  },
+  {
+    "Dönem": "2000-2004",
+    "Varlık_Türü": "SOLUTION_APPROACH",
+    "Sayı": 105
+  },
+  {
+    "Dönem": "2000-2004",
+    "Varlık_Türü": "FOCUS_AREA_THEME",
+    "Sayı": 100
+  },
+  {
+    "Dönem": "2000-2004",
+    "Varlık_Türü": "STAKEHOLDER",
+    "Sayı": 99
+  },
+  {
+    "Dönem": "2000-2004",
+    "Varlık_Türü": "PROBLEM_CHALLENGE",
+    "Sayı": 73
+  },
+  {
+    "Dönem": "2005-2009",
+    "Varlık_Türü": "FOCUS_AREA_THEME",
+    "Sayı": 73
+  },
+  {
+    "Dönem": "2005-2009",
+    "Varlık_Türü": "STAKEHOLDER",
+    "Sayı": 65
+  },
+  {
+    "Dönem": "2005-2009",
+    "Varlık_Türü": "SOLUTION_APPROACH",
+    "Sayı": 59
+  },
+  {
+    "Dönem": "2005-2009",
+    "Varlık_Türü": "PROBLEM_CHALLENGE",
+    "Sayı": 46
+  },
+  {
+    "Dönem": "2010-2014",
+    "Varlık_Türü": "SOLUTION_APPROACH",
+    "Sayı": 331
+  },
+  {
+    "Dönem": "2010-2014",
+    "Varlık_Türü": "FOCUS_AREA_THEME",
+    "Sayı": 308
+  },
+  {
+    "Dönem": "2010-2014",
+    "Varlık_Türü": "STAKEHOLDER",
+    "Sayı": 282
+  },
+  {
+    "Dönem": "2010-2014",
+    "Varlık_Türü": "PROBLEM_CHALLENGE",
+    "Sayı": 194
+  },
+  {
+    "Dönem": "2015-2019",
+    "Varlık_Türü": "STAKEHOLDER",
+    "Sayı": 438
+  },
+  {
+    "Dönem": "2015-2019",
+    "Varlık_Türü": "FOCUS_AREA_THEME",
+    "Sayı": 434
+  },
+  {
+    "Dönem": "2015-2019",
+    "Varlık_Türü": "SOLUTION_APPROACH",
+    "Sayı": 401
+  },
+  {
+    "Dönem": "2015-2019",
+    "Varlık_Türü": "PROBLEM_CHALLENGE",
+    "Sayı": 338
+  },
+  {
+    "Dönem": "2020-2024",
+    "Varlık_Türü": "SOLUTION_APPROACH",
+    "Sayı": 1870
+  },
+  {
+    "Dönem": "2020-2024",
+    "Varlık_Türü": "STAKEHOLDER",
+    "Sayı": 1772
+  },
+  {
+    "Dönem": "2020-2024",
+    "Varlık_Türü": "FOCUS_AREA_THEME",
+    "Sayı": 1734
+  },
+  {
+    "Dönem": "2020-2024",
+    "Varlık_Türü": "PROBLEM_CHALLENGE",
+    "Sayı": 1684
+  },
+  {
+    "Dönem": "2025+",
+    "Varlık_Türü": "SOLUTION_APPROACH",
+    "Sayı": 12
+  },
+  {
+    "Dönem": "2025+",
+    "Varlık_Türü": "STAKEHOLDER",
+    "Sayı": 10
+  },
+  {
+    "Dönem": "2025+",
+    "Varlık_Türü": "PROBLEM_CHALLENGE",
+    "Sayı": 8
+  },
+  {
+    "Dönem": "2025+",
+    "Varlık_Türü": "FOCUS_AREA_THEME",
+    "Sayı": 7
+  }
+]

@@ -1,0 +1,102 @@
+﻿[
+  {
+    "entity_name": "thesis",
+    "entity_type": "STAKEHOLDER",
+    "degree": 1093
+  },
+  {
+    "entity_name": "student",
+    "entity_type": "STAKEHOLDER",
+    "degree": 816
+  },
+  {
+    "entity_name": "teacher",
+    "entity_type": "STAKEHOLDER",
+    "degree": 505
+  },
+  {
+    "entity_name": "parent",
+    "entity_type": "STAKEHOLDER",
+    "degree": 169
+  },
+  {
+    "entity_name": "classroom teacher",
+    "entity_type": "STAKEHOLDER",
+    "degree": 128
+  },
+  {
+    "entity_name": "student motivation problem",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree": 117
+  },
+  {
+    "entity_name": "academic achievement",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree": 86
+  },
+  {
+    "entity_name": "attitude towards distance education",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree": 84
+  },
+  {
+    "entity_name": "lack of interaction",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree": 77
+  },
+  {
+    "entity_name": "student participation problem",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree": 76
+  },
+  {
+    "entity_name": "distance education",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree": 808
+  },
+  {
+    "entity_name": "learning management system",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree": 110
+  },
+  {
+    "entity_name": "semi-structured interview form",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree": 104
+  },
+  {
+    "entity_name": "face-to-face education",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree": 99
+  },
+  {
+    "entity_name": "questionnaire",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree": 90
+  },
+  {
+    "entity_name": "distance education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree": 1311
+  },
+  {
+    "entity_name": "academic achievement",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree": 151
+  },
+  {
+    "entity_name": "technology integration in education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree": 124
+  },
+  {
+    "entity_name": "attitude towards distance education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree": 116
+  },
+  {
+    "entity_name": "student motivation",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree": 92
+  }
+]

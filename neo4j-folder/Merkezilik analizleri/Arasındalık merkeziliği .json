@@ -1,0 +1,102 @@
+﻿[
+  {
+    "node_name": "student",
+    "node_type": "STAKEHOLDER",
+    "betweenness": 903656.3089781346
+  },
+  {
+    "node_name": "distance education",
+    "node_type": "FOCUS_AREA_THEME",
+    "betweenness": 819585.6086534704
+  },
+  {
+    "node_name": "distance education",
+    "node_type": "SOLUTION_APPROACH",
+    "betweenness": 779712.097051978
+  },
+  {
+    "node_name": "thesis",
+    "node_type": "STAKEHOLDER",
+    "betweenness": 579231.3956729046
+  },
+  {
+    "node_name": "teacher",
+    "node_type": "STAKEHOLDER",
+    "betweenness": 446668.19712560734
+  },
+  {
+    "node_name": "learning management system",
+    "node_type": "SOLUTION_APPROACH",
+    "betweenness": 97068.8743334597
+  },
+  {
+    "node_name": "parent",
+    "node_type": "STAKEHOLDER",
+    "betweenness": 69681.76285193338
+  },
+  {
+    "node_name": "academic achievement",
+    "node_type": "FOCUS_AREA_THEME",
+    "betweenness": 68151.64020255597
+  },
+  {
+    "node_name": "student motivation problem",
+    "node_type": "PROBLEM_CHALLENGE",
+    "betweenness": 65957.85089562641
+  },
+  {
+    "node_name": "instructor",
+    "node_type": "STAKEHOLDER",
+    "betweenness": 65745.01290775149
+  },
+  {
+    "node_name": "science teacher",
+    "node_type": "STAKEHOLDER",
+    "betweenness": 65694.6368228217
+  },
+  {
+    "node_name": "classroom teacher",
+    "node_type": "STAKEHOLDER",
+    "betweenness": 65467.48539283711
+  },
+  {
+    "node_name": "primary school teacher",
+    "node_type": "STAKEHOLDER",
+    "betweenness": 61075.33912034467
+  },
+  {
+    "node_name": "school administrator",
+    "node_type": "STAKEHOLDER",
+    "betweenness": 55211.56751594149
+  },
+  {
+    "node_name": "faculty member",
+    "node_type": "STAKEHOLDER",
+    "betweenness": 51126.991501908626
+  },
+  {
+    "node_name": "secondary school student",
+    "node_type": "STAKEHOLDER",
+    "betweenness": 46087.00257477954
+  },
+  {
+    "node_name": "massive open online course",
+    "node_type": "SOLUTION_APPROACH",
+    "betweenness": 45407.16806713265
+  },
+  {
+    "node_name": "distance education student",
+    "node_type": "STAKEHOLDER",
+    "betweenness": 44551.62437875982
+  },
+  {
+    "node_name": "attitude towards distance education",
+    "node_type": "FOCUS_AREA_THEME",
+    "betweenness": 43882.95834465609
+  },
+  {
+    "node_name": "academic achievement",
+    "node_type": "PROBLEM_CHALLENGE",
+    "betweenness": 43688.67567172443
+  }
+]

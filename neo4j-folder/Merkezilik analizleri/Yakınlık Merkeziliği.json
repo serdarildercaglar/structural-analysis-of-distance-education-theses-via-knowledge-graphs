@@ -1,0 +1,102 @@
+﻿[
+  {
+    "node_name": "preparation of special learning paths",
+    "node_type": "SOLUTION_APPROACH",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "discrepancy between self-reported and actual practice",
+    "node_type": "PROBLEM_CHALLENGE",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "social acceptance of transhuman",
+    "node_type": "PROBLEM_CHALLENGE",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "Multimodal Classroom Observation Checklist",
+    "node_type": "SOLUTION_APPROACH",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "candidate teacher",
+    "node_type": "STAKEHOLDER",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "sharing environment",
+    "node_type": "SOLUTION_APPROACH",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "need for new learning paths",
+    "node_type": "PROBLEM_CHALLENGE",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "inefficient public inspection",
+    "node_type": "PROBLEM_CHALLENGE",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "professional status",
+    "node_type": "FOCUS_AREA_THEME",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "insufficient promotions",
+    "node_type": "PROBLEM_CHALLENGE",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "promotion",
+    "node_type": "SOLUTION_APPROACH",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "child with special needs",
+    "node_type": "STAKEHOLDER",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "science teaching self-efficacy",
+    "node_type": "FOCUS_AREA_THEME",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "direct transfer of face-to-face assessment methods to distance education",
+    "node_type": "PROBLEM_CHALLENGE",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "public inspection",
+    "node_type": "SOLUTION_APPROACH",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "limited reference to international mechanisms",
+    "node_type": "PROBLEM_CHALLENGE",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "Science Teaching Self-efficacy Belief Scale",
+    "node_type": "SOLUTION_APPROACH",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "Convention on the Rights of the Child",
+    "node_type": "SOLUTION_APPROACH",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "assessment and evaluation environment",
+    "node_type": "SOLUTION_APPROACH",
+    "closeness": 1.0
+  },
+  {
+    "node_name": "ethical rule enforcement",
+    "node_type": "SOLUTION_APPROACH",
+    "closeness": 1.0
+  }
+]

@@ -1,0 +1,162 @@
+﻿[
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef_Varlık": "hybrid education system",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef_Varlık": "educational technology",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef_Varlık": "higher education",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "SOLUTION_APPROACH",
+    "Hedef_Varlık": "teaching technology",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef_Varlık": "digital competency",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef_Varlık": "science education",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef_Varlık": "technology integration in education",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef_Varlık": "student motivation",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef_Varlık": "course permanence",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef_Varlık": "student expectation",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef_Varlık": "distance education quality standard",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef_Varlık": "distance education management",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef_Varlık": "student attitude",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef_Varlık": "adult education",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "SOLUTION_APPROACH",
+    "Hedef_Varlık": "professional development",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef_Varlık": "open and distance learning support service",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "SOLUTION_APPROACH",
+    "Hedef_Varlık": "learning management system",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef_Varlık": "work life balance",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "PROBLEM_CHALLENGE",
+    "Hedef_Varlık": "assessment difficulty",
+    "Yol_Sayısı": 1
+  },
+  {
+    "İlişki_Türü": "EXAMINES",
+    "Kaynak_Türü": "STAKEHOLDER",
+    "Kaynak_Varlık": "thesis",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef_Varlık": "distance education",
+    "Yol_Sayısı": 1
+  }
+]

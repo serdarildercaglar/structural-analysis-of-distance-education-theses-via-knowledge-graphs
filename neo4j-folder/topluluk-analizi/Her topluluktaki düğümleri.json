@@ -1,0 +1,82 @@
+﻿[
+  {
+    "communityId": 1215,
+    "node_count": 433,
+    "sample_nodes": [
+      "National Defense University",
+      "educational institution",
+      "need for sustainable education",
+      "hybrid education model",
+      "new generation learning technology",
+      "distance education",
+      "hybrid education system",
+      "higher education",
+      "science education",
+      "equipment and environment inadequacy"
+    ]
+  },
+  {
+    "communityId": 168,
+    "node_count": 272,
+    "sample_nodes": [
+      "need for digital competency improvement",
+      "in-service training program",
+      "classroom teacher",
+      "low technological pedagogical content knowledge",
+      "technology-supported in-service training program",
+      "slide presentation",
+      "visual aid",
+      "show-and-do technique",
+      "fishbone technique",
+      "tomorrow technique"
+    ]
+  },
+  {
+    "communityId": 2555,
+    "node_count": 262,
+    "sample_nodes": [
+      "student",
+      "rapid technology adoption challenge",
+      "distance education technology",
+      "transportation problem",
+      "physical disability",
+      "lack of training matching student interest",
+      "decision maker",
+      "mobile learning",
+      "absenteeism problem",
+      "course difficulty"
+    ]
+  },
+  {
+    "communityId": 505,
+    "node_count": 203,
+    "sample_nodes": [
+      "technological tool",
+      "student motivation",
+      "course permanence",
+      "Open Education System",
+      "transactional distance",
+      "unadaptable science lessons in distance learning",
+      "inefficient education",
+      "feedback",
+      "student learning",
+      "questionnaire"
+    ]
+  },
+  {
+    "communityId": 1928,
+    "node_count": 190,
+    "sample_nodes": [
+      "thesis",
+      "teaching technology",
+      "student expectation",
+      "practitioner",
+      "adult education",
+      "teaching and learning conception",
+      "student behavior",
+      "Distance Education Students' Views of Distance Education Scale",
+      "counseling support",
+      "insufficient opportunity for spoken language practice"
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+﻿[
+  {
+    "İlişkiTürü": "CONTAINS",
+    "Sayı": 10489
+  },
+  {
+    "İlişkiTürü": "ENHANCES",
+    "Sayı": 1701
+  },
+  {
+    "İlişkiTürü": "FACES",
+    "Sayı": 1654
+  },
+  {
+    "İlişkiTürü": "ADDRESSES",
+    "Sayı": 1499
+  },
+  {
+    "İlişkiTürü": "USES",
+    "Sayı": 1370
+  },
+  {
+    "İlişkiTürü": "REQUIRES",
+    "Sayı": 1184
+  },
+  {
+    "İlişkiTürü": "HINDERS",
+    "Sayı": 450
+  },
+  {
+    "İlişkiTürü": "EXAMINES",
+    "Sayı": 393
+  },
+  {
+    "İlişkiTürü": "CAUSES",
+    "Sayı": 1
+  },
+  {
+    "İlişkiTürü": "ADRESSES",
+    "Sayı": 1
+  }
+]

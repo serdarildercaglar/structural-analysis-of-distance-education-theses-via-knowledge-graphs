@@ -1,0 +1,52 @@
+﻿[
+  {
+    "community1": 2738,
+    "community2": 1201,
+    "connection_count": 192
+  },
+  {
+    "community1": 1201,
+    "community2": 2738,
+    "connection_count": 192
+  },
+  {
+    "community1": 1201,
+    "community2": 569,
+    "connection_count": 182
+  },
+  {
+    "community1": 569,
+    "community2": 1201,
+    "connection_count": 182
+  },
+  {
+    "community1": 1456,
+    "community2": 1201,
+    "connection_count": 154
+  },
+  {
+    "community1": 1201,
+    "community2": 1456,
+    "connection_count": 154
+  },
+  {
+    "community1": 1201,
+    "community2": 385,
+    "connection_count": 153
+  },
+  {
+    "community1": 385,
+    "community2": 1201,
+    "connection_count": 153
+  },
+  {
+    "community1": 1201,
+    "community2": 1927,
+    "connection_count": 149
+  },
+  {
+    "community1": 1927,
+    "community2": 1201,
+    "connection_count": 149
+  }
+]

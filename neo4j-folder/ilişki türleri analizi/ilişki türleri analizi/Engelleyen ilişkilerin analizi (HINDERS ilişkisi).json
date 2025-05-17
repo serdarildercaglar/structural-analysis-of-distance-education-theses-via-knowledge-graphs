@@ -1,0 +1,142 @@
+﻿[
+  {
+    "Kaynak_Türü": "PROBLEM_CHALLENGE",
+    "Kaynak": "face-to-face education impossibility",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef": "professional development",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "PROBLEM_CHALLENGE",
+    "Kaynak": "face-to-face education impossibility",
+    "Hedef_Türü": "PROBLEM_CHALLENGE",
+    "Hedef": "limitation of interaction",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "FOCUS_AREA_THEME",
+    "Kaynak": "distance education",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef": "student motivation",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "FOCUS_AREA_THEME",
+    "Kaynak": "distance education",
+    "Hedef_Türü": "PROBLEM_CHALLENGE",
+    "Hedef": "lack of interaction in lessons",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "FOCUS_AREA_THEME",
+    "Kaynak": "distance education",
+    "Hedef_Türü": "PROBLEM_CHALLENGE",
+    "Hedef": "internet connectivity issue",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "FOCUS_AREA_THEME",
+    "Kaynak": "distance education",
+    "Hedef_Türü": "PROBLEM_CHALLENGE",
+    "Hedef": "student motivation problem",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "FOCUS_AREA_THEME",
+    "Kaynak": "distance education",
+    "Hedef_Türü": "PROBLEM_CHALLENGE",
+    "Hedef": "infrastructure and accessibility problem",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "FOCUS_AREA_THEME",
+    "Kaynak": "distance education",
+    "Hedef_Türü": "PROBLEM_CHALLENGE",
+    "Hedef": "assessment difficulty",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "FOCUS_AREA_THEME",
+    "Kaynak": "distance education",
+    "Hedef_Türü": "PROBLEM_CHALLENGE",
+    "Hedef": "self-regulation problem",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "FOCUS_AREA_THEME",
+    "Kaynak": "distance education",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef": "student dropout",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "FOCUS_AREA_THEME",
+    "Kaynak": "distance education",
+    "Hedef_Türü": "PROBLEM_CHALLENGE",
+    "Hedef": "interaction problem",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "FOCUS_AREA_THEME",
+    "Kaynak": "distance education",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef": "student interaction",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "FOCUS_AREA_THEME",
+    "Kaynak": "distance education",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef": "student participation",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "FOCUS_AREA_THEME",
+    "Kaynak": "distance education",
+    "Hedef_Türü": "PROBLEM_CHALLENGE",
+    "Hedef": "technical inadequacy",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "FOCUS_AREA_THEME",
+    "Kaynak": "distance education",
+    "Hedef_Türü": "FOCUS_AREA_THEME",
+    "Hedef": "teacher attitude",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "FOCUS_AREA_THEME",
+    "Kaynak": "distance education",
+    "Hedef_Türü": "PROBLEM_CHALLENGE",
+    "Hedef": "inequality of opportunity",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "FOCUS_AREA_THEME",
+    "Kaynak": "distance education",
+    "Hedef_Türü": "PROBLEM_CHALLENGE",
+    "Hedef": "difficulty in classroom management",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "FOCUS_AREA_THEME",
+    "Kaynak": "distance education",
+    "Hedef_Türü": "PROBLEM_CHALLENGE",
+    "Hedef": "inefficient education",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "FOCUS_AREA_THEME",
+    "Kaynak": "distance education",
+    "Hedef_Türü": "PROBLEM_CHALLENGE",
+    "Hedef": "digital inequality",
+    "İlişki_Sayısı": 1
+  },
+  {
+    "Kaynak_Türü": "PROBLEM_CHALLENGE",
+    "Kaynak": "face-to-face education impossibility",
+    "Hedef_Türü": "SOLUTION_APPROACH",
+    "Hedef": "professional development",
+    "İlişki_Sayısı": 1
+  }
+]
