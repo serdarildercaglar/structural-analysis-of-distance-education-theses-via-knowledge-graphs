@@ -16,11 +16,24 @@ docker run -it --rm \
   neo4j:enterprise
 ```
 
+```
+docker run -it \
+  --name neo4j-interactive \
+  -p 7474:7474 -p 7687:7687 \
+  -v $HOME/neo4j/data:/data \
+  -v $HOME/neo4j/logs:/logs \
+  -v $HOME/neo4j/import:/import \
+  -v $HOME/neo4j/plugins:/plugins \
+  -v $HOME/neo4j/licenses:/licenses \
+  --env NEO4J_AUTH=neo4j/12345678 \
+  --env NEO4J_PLUGINS='["graph-data-science", "apoc"]' \
+  --env NEO4J_ACCEPT_LICENSE_AGREEMENT=yes \
+  neo4j:enterprise
+```
 
 Container yeniden başlatıldıktan sonra, APOC'un yüklendiğini doğrulamak için Neo4j browser'da şu sorguyu çalıştırabilirsiniz:
 
-```CALL apoc.help('apoc');```
-
+``CALL apoc.help('apoc');``
 
 neo4j browser link: http://127.0.0.1:7474/browser/
 
