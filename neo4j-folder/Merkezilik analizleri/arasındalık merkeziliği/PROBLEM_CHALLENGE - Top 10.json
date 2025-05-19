@@ -1,0 +1,52 @@
+﻿[
+  {
+    "name": "academic achievement",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "betweenness_centrality": 61696.13620195766
+  },
+  {
+    "name": "transactional distance",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "betweenness_centrality": 56705.580041306865
+  },
+  {
+    "name": "student participation problem",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "betweenness_centrality": 46316.33018482685
+  },
+  {
+    "name": "attitude towards distance education",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "betweenness_centrality": 44229.34449449078
+  },
+  {
+    "name": "lack of interaction",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "betweenness_centrality": 36887.95294704383
+  },
+  {
+    "name": "student satisfaction",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "betweenness_centrality": 36379.12167846023
+  },
+  {
+    "name": "unreliable measurement and evaluation",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "betweenness_centrality": 32921.89578164175
+  },
+  {
+    "name": "technical problem",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "betweenness_centrality": 23022.568293228356
+  },
+  {
+    "name": "student attitude",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "betweenness_centrality": 20753.40869253611
+  },
+  {
+    "name": "student motivation",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "betweenness_centrality": 20408.014442940268
+  }
+]

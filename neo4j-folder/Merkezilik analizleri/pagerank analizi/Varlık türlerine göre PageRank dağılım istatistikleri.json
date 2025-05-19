@@ -1,0 +1,34 @@
+﻿[
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "node_count": 469,
+    "avg_pagerank": 0.5136986164372358,
+    "min_pagerank": 0.15000000000000002,
+    "max_pagerank": 18.596022364742225,
+    "stdev_pagerank": 1.1385719051732524
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "node_count": 850,
+    "avg_pagerank": 0.3328167162897541,
+    "min_pagerank": 0.15000000000000002,
+    "max_pagerank": 5.748961311144131,
+    "stdev_pagerank": 0.4377708769515447
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "node_count": 1407,
+    "avg_pagerank": 0.2155586633682448,
+    "min_pagerank": 0.15000000000000002,
+    "max_pagerank": 18.596022364742225,
+    "stdev_pagerank": 0.5219057171089588
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "node_count": 414,
+    "avg_pagerank": 0.17164247747042533,
+    "min_pagerank": 0.15000000000000002,
+    "max_pagerank": 1.1720061597922473,
+    "stdev_pagerank": 0.09080486666384323
+  }
+]

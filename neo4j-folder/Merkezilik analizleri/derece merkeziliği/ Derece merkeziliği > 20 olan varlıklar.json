@@ -1,0 +1,292 @@
+﻿[
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "distance education",
+    "degree_centrality": 572.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance education",
+    "degree_centrality": 572.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "student",
+    "degree_centrality": 487.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "thesis",
+    "degree_centrality": 399.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "teacher",
+    "degree_centrality": 346.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "classroom teacher",
+    "degree_centrality": 100.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "science teacher",
+    "degree_centrality": 100.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "parent",
+    "degree_centrality": 86.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "instructor",
+    "degree_centrality": 76.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "secondary school student",
+    "degree_centrality": 76.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "primary school teacher",
+    "degree_centrality": 73.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "faculty member",
+    "degree_centrality": 68.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "school administrator",
+    "degree_centrality": 51.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "school administrator",
+    "degree_centrality": 51.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "distance education student",
+    "degree_centrality": 50.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "middle school student",
+    "degree_centrality": 42.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "learning management system",
+    "degree_centrality": 41.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "learning management system",
+    "degree_centrality": 41.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "face-to-face education",
+    "degree_centrality": 40.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "face-to-face education",
+    "degree_centrality": 40.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "branch teacher",
+    "degree_centrality": 39.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "physical education teacher",
+    "degree_centrality": 38.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "preschool teacher",
+    "degree_centrality": 38.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "web-based distance education",
+    "degree_centrality": 37.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "web-based distance education",
+    "degree_centrality": 37.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "open and distance learning",
+    "degree_centrality": 35.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "open and distance learning",
+    "degree_centrality": 35.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "pre-service teacher",
+    "degree_centrality": 33.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "social studies teacher",
+    "degree_centrality": 33.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "primary school student",
+    "degree_centrality": 32.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "English teacher",
+    "degree_centrality": 31.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "learner",
+    "degree_centrality": 31.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "EFL teacher",
+    "degree_centrality": 29.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "questionnaire",
+    "degree_centrality": 28.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "EFL instructor",
+    "degree_centrality": 28.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "technology integration in education",
+    "degree_centrality": 27.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "semi-structured interview form",
+    "degree_centrality": 27.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online learning environment",
+    "degree_centrality": 27.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "mathematics teacher",
+    "degree_centrality": 27.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technology integration in education",
+    "degree_centrality": 27.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "administrator",
+    "degree_centrality": 27.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "online learning environment",
+    "degree_centrality": 27.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "emergency remote education",
+    "degree_centrality": 26.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "emergency remote education",
+    "degree_centrality": 26.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "English language instructor",
+    "degree_centrality": 26.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "academic staff",
+    "degree_centrality": 24.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "in-service training",
+    "degree_centrality": 24.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "in-service training",
+    "degree_centrality": 24.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online education",
+    "degree_centrality": 23.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "teacher candidate",
+    "degree_centrality": 23.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "Turkish teacher",
+    "degree_centrality": 23.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "Turkish teacher",
+    "degree_centrality": 23.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "online education",
+    "degree_centrality": 23.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "lecturer",
+    "degree_centrality": 22.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "secondary school mathematics teacher",
+    "degree_centrality": 22.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "open and distance learner",
+    "degree_centrality": 22.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "lecturer",
+    "degree_centrality": 22.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "high school student",
+    "degree_centrality": 21.0
+  }
+]

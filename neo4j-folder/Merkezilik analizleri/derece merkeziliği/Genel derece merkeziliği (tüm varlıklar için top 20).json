@@ -1,0 +1,102 @@
+﻿[
+  {
+    "name": "distance education",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 572.0
+  },
+  {
+    "name": "distance education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 572.0
+  },
+  {
+    "name": "student",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 487.0
+  },
+  {
+    "name": "thesis",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 399.0
+  },
+  {
+    "name": "teacher",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 346.0
+  },
+  {
+    "name": "science teacher",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 100.0
+  },
+  {
+    "name": "classroom teacher",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 100.0
+  },
+  {
+    "name": "parent",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 86.0
+  },
+  {
+    "name": "instructor",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 76.0
+  },
+  {
+    "name": "secondary school student",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 76.0
+  },
+  {
+    "name": "primary school teacher",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 73.0
+  },
+  {
+    "name": "faculty member",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 68.0
+  },
+  {
+    "name": "school administrator",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 51.0
+  },
+  {
+    "name": "school administrator",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 51.0
+  },
+  {
+    "name": "distance education student",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 50.0
+  },
+  {
+    "name": "middle school student",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 42.0
+  },
+  {
+    "name": "learning management system",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 41.0
+  },
+  {
+    "name": "learning management system",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 41.0
+  },
+  {
+    "name": "face-to-face education",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 40.0
+  },
+  {
+    "name": "face-to-face education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 40.0
+  }
+]

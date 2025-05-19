@@ -1,0 +1,52 @@
+﻿[
+  {
+    "name": "academic achievement",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "pagerank_score": 5.748961311144131
+  },
+  {
+    "name": "student motivation",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "pagerank_score": 5.4590624111617965
+  },
+  {
+    "name": "student achievement",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "pagerank_score": 4.057241611287906
+  },
+  {
+    "name": "student motivation problem",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "pagerank_score": 3.6228688172862027
+  },
+  {
+    "name": "transactional distance",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "pagerank_score": 3.459002043907659
+  },
+  {
+    "name": "attitude towards distance education",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "pagerank_score": 3.2721578879933784
+  },
+  {
+    "name": "student satisfaction",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "pagerank_score": 3.0741715260950357
+  },
+  {
+    "name": "inefficient education",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "pagerank_score": 2.2933384804527903
+  },
+  {
+    "name": "teacher attitude",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "pagerank_score": 2.013381609795107
+  },
+  {
+    "name": "student participation problem",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "pagerank_score": 1.9835261753511406
+  }
+]

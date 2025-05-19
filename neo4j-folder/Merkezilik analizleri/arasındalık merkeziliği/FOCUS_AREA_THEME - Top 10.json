@@ -1,0 +1,52 @@
+﻿[
+  {
+    "name": "distance education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 697732.630625
+  },
+  {
+    "name": "Turkish language learning",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 134145.74332908963
+  },
+  {
+    "name": "massive open online course",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 100944.02583489822
+  },
+  {
+    "name": "effectiveness of online education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 96013.95453160214
+  },
+  {
+    "name": "academic achievement",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 61696.13620195766
+  },
+  {
+    "name": "student autonomy",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 46408.495057319065
+  },
+  {
+    "name": "attitude towards distance education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 44229.34449449078
+  },
+  {
+    "name": "technology integration in education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 38263.94067606275
+  },
+  {
+    "name": "student satisfaction",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 36379.12167846023
+  },
+  {
+    "name": "mobile learning literacy",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 32396.486515121604
+  }
+]

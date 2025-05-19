@@ -1,0 +1,202 @@
+﻿[
+  {
+    "category": "STAKEHOLDER",
+    "entity_name": "thesis",
+    "n.frequency": 703
+  },
+  {
+    "category": "STAKEHOLDER",
+    "entity_name": "student",
+    "n.frequency": 314
+  },
+  {
+    "category": "STAKEHOLDER",
+    "entity_name": "teacher",
+    "n.frequency": 160
+  },
+  {
+    "category": "STAKEHOLDER",
+    "entity_name": "parent",
+    "n.frequency": 82
+  },
+  {
+    "category": "STAKEHOLDER",
+    "entity_name": "Ministry of National Education",
+    "n.frequency": 69
+  },
+  {
+    "category": "STAKEHOLDER",
+    "entity_name": "instructor",
+    "n.frequency": 41
+  },
+  {
+    "category": "STAKEHOLDER",
+    "entity_name": "expert",
+    "n.frequency": 35
+  },
+  {
+    "category": "STAKEHOLDER",
+    "entity_name": "classroom teacher",
+    "n.frequency": 28
+  },
+  {
+    "category": "STAKEHOLDER",
+    "entity_name": "researcher",
+    "n.frequency": 28
+  },
+  {
+    "category": "STAKEHOLDER",
+    "entity_name": "secondary school student",
+    "n.frequency": 25
+  },
+  {
+    "category": "PROBLEM_CHALLENGE",
+    "entity_name": "student motivation problem",
+    "n.frequency": 53
+  },
+  {
+    "category": "PROBLEM_CHALLENGE",
+    "entity_name": "student participation problem",
+    "n.frequency": 32
+  },
+  {
+    "category": "PROBLEM_CHALLENGE",
+    "entity_name": "lack of interaction",
+    "n.frequency": 30
+  },
+  {
+    "category": "PROBLEM_CHALLENGE",
+    "entity_name": "technical problem",
+    "n.frequency": 29
+  },
+  {
+    "category": "PROBLEM_CHALLENGE",
+    "entity_name": "inequality of opportunity",
+    "n.frequency": 26
+  },
+  {
+    "category": "PROBLEM_CHALLENGE",
+    "entity_name": "inefficient education",
+    "n.frequency": 23
+  },
+  {
+    "category": "PROBLEM_CHALLENGE",
+    "entity_name": "internet connectivity issue",
+    "n.frequency": 22
+  },
+  {
+    "category": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in classroom management",
+    "n.frequency": 22
+  },
+  {
+    "category": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in adaptation to change",
+    "n.frequency": 21
+  },
+  {
+    "category": "PROBLEM_CHALLENGE",
+    "entity_name": "attitude towards distance education",
+    "n.frequency": 21
+  },
+  {
+    "category": "SOLUTION_APPROACH",
+    "entity_name": "semi-structured interview form",
+    "n.frequency": 69
+  },
+  {
+    "category": "SOLUTION_APPROACH",
+    "entity_name": "distance education",
+    "n.frequency": 67
+  },
+  {
+    "category": "SOLUTION_APPROACH",
+    "entity_name": "questionnaire",
+    "n.frequency": 43
+  },
+  {
+    "category": "SOLUTION_APPROACH",
+    "entity_name": "face-to-face education",
+    "n.frequency": 43
+  },
+  {
+    "category": "SOLUTION_APPROACH",
+    "entity_name": "semi-structured interview",
+    "n.frequency": 39
+  },
+  {
+    "category": "SOLUTION_APPROACH",
+    "entity_name": "learning management system",
+    "n.frequency": 28
+  },
+  {
+    "category": "SOLUTION_APPROACH",
+    "entity_name": "in-service training",
+    "n.frequency": 25
+  },
+  {
+    "category": "SOLUTION_APPROACH",
+    "entity_name": "Google Form",
+    "n.frequency": 24
+  },
+  {
+    "category": "SOLUTION_APPROACH",
+    "entity_name": "Personal Information Form",
+    "n.frequency": 21
+  },
+  {
+    "category": "SOLUTION_APPROACH",
+    "entity_name": "Zoom",
+    "n.frequency": 20
+  },
+  {
+    "category": "FOCUS_AREA_THEME",
+    "entity_name": "distance education",
+    "n.frequency": 558
+  },
+  {
+    "category": "FOCUS_AREA_THEME",
+    "entity_name": "academic achievement",
+    "n.frequency": 60
+  },
+  {
+    "category": "FOCUS_AREA_THEME",
+    "entity_name": "teacher opinion",
+    "n.frequency": 57
+  },
+  {
+    "category": "FOCUS_AREA_THEME",
+    "entity_name": "technology integration in education",
+    "n.frequency": 53
+  },
+  {
+    "category": "FOCUS_AREA_THEME",
+    "entity_name": "student motivation",
+    "n.frequency": 47
+  },
+  {
+    "category": "FOCUS_AREA_THEME",
+    "entity_name": "attitude towards distance education",
+    "n.frequency": 44
+  },
+  {
+    "category": "FOCUS_AREA_THEME",
+    "entity_name": "higher education",
+    "n.frequency": 43
+  },
+  {
+    "category": "FOCUS_AREA_THEME",
+    "entity_name": "student participation",
+    "n.frequency": 42
+  },
+  {
+    "category": "FOCUS_AREA_THEME",
+    "entity_name": "teacher attitude",
+    "n.frequency": 42
+  },
+  {
+    "category": "FOCUS_AREA_THEME",
+    "entity_name": "student opinion",
+    "n.frequency": 40
+  }
+]

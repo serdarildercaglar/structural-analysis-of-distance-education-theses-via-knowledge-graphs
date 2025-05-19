@@ -1,0 +1,52 @@
+﻿[
+  {
+    "name": "lack of technology use due to young age",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "negative attitude towards self-learning",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "distance learning negative effect on teaching mathematics",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "personal inadequacy",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "negative attitude towards lifelong learning",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "mathematics lesson abstraction",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "direct transfer of face-to-face assessment methods to distance education",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "need for sentence construction exercise",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "need for free writing exercise",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "limited reference to international mechanisms",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "closeness_centrality": 1.0
+  }
+]

@@ -1,0 +1,142 @@
+﻿[
+  {
+    "name": "Microsoft Teams",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 2.0,
+    "betweenness_centrality": 134.20497133230091,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "personal inadequacy",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 0.0,
+    "betweenness_centrality": 0.0,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "child with autism spectrum disorder",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 5.0,
+    "betweenness_centrality": 397.6942902729116,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "need for free writing exercise",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 0.0,
+    "betweenness_centrality": 0.0,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "distance learning negative effect on teaching mathematics",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 0.0,
+    "betweenness_centrality": 0.0,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "physical education teacher",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 38.0,
+    "betweenness_centrality": 5050.905002752292,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "need for sentence construction exercise",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 0.0,
+    "betweenness_centrality": 0.0,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "mathematics lesson abstraction",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 0.0,
+    "betweenness_centrality": 0.0,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "Ministry of National Education",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 17.0,
+    "betweenness_centrality": 493.1273791354992,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "cultural distance scale",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 4.0,
+    "betweenness_centrality": 1627.9999999999998,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "hybrid education system",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 3.0,
+    "betweenness_centrality": 0.25,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "analysis and foresight",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 1.0,
+    "betweenness_centrality": 0.0,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "direct transfer of face-to-face assessment methods to distance education",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 0.0,
+    "betweenness_centrality": 0.0,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "faculty member",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 68.0,
+    "betweenness_centrality": 1633.9999999999984,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "hybrid education model",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 13.0,
+    "betweenness_centrality": 1625.9999999999995,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "patience",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 0.0,
+    "betweenness_centrality": 0.0,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "teaching and learning conception",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 0.0,
+    "betweenness_centrality": 0.0,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "pre-service teacher",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 33.0,
+    "betweenness_centrality": 3226.8053131508996,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "distance education model proposal",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 10.0,
+    "betweenness_centrality": 1627.9999999999968,
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "photography education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 2.0,
+    "betweenness_centrality": 53.37777777777778,
+    "closeness_centrality": 1.0
+  }
+]

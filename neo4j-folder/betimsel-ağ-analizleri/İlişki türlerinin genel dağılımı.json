@@ -1,0 +1,58 @@
+﻿[
+  {
+    "relation_type": "ENHANCES",
+    "count": 1955,
+    "total_weight": 2143,
+    "avg_weight": 1.0961636828644532,
+    "min_weight": 1,
+    "max_weight": 5
+  },
+  {
+    "relation_type": "FACES",
+    "count": 1702,
+    "total_weight": 2099,
+    "avg_weight": 1.2332549941245565,
+    "min_weight": 1,
+    "max_weight": 24
+  },
+  {
+    "relation_type": "ADDRESSES",
+    "count": 1606,
+    "total_weight": 1715,
+    "avg_weight": 1.0678704856787065,
+    "min_weight": 1,
+    "max_weight": 9
+  },
+  {
+    "relation_type": "USES",
+    "count": 1473,
+    "total_weight": 1689,
+    "avg_weight": 1.1466395112016303,
+    "min_weight": 1,
+    "max_weight": 8
+  },
+  {
+    "relation_type": "REQUIRES",
+    "count": 1293,
+    "total_weight": 1853,
+    "avg_weight": 1.4331013147718485,
+    "min_weight": 1,
+    "max_weight": 13
+  },
+  {
+    "relation_type": "HINDERS",
+    "count": 480,
+    "total_weight": 582,
+    "avg_weight": 1.212499999999999,
+    "min_weight": 1,
+    "max_weight": 4
+  },
+  {
+    "relation_type": "EXAMINES",
+    "count": 404,
+    "total_weight": 2110,
+    "avg_weight": 5.222772277227724,
+    "min_weight": 1,
+    "max_weight": 364
+  }
+]

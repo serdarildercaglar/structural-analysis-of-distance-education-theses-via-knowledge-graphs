@@ -1,0 +1,102 @@
+﻿[
+  {
+    "name": "distance education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 697732.630625
+  },
+  {
+    "name": "distance education",
+    "entity_type": "SOLUTION_APPROACH",
+    "betweenness_centrality": 697732.630625
+  },
+  {
+    "name": "student",
+    "entity_type": "STAKEHOLDER",
+    "betweenness_centrality": 365110.1527725175
+  },
+  {
+    "name": "teacher",
+    "entity_type": "STAKEHOLDER",
+    "betweenness_centrality": 252847.64213206063
+  },
+  {
+    "name": "Turkish language learning",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 134145.74332908963
+  },
+  {
+    "name": "massive open online course",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 100944.02583489822
+  },
+  {
+    "name": "massive open online course",
+    "entity_type": "SOLUTION_APPROACH",
+    "betweenness_centrality": 100944.02583489822
+  },
+  {
+    "name": "effectiveness of online education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 96013.95453160214
+  },
+  {
+    "name": "web-based use education",
+    "entity_type": "SOLUTION_APPROACH",
+    "betweenness_centrality": 87485.20499782733
+  },
+  {
+    "name": "academic achievement",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 61696.136201957655
+  },
+  {
+    "name": "academic achievement",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "betweenness_centrality": 61696.136201957655
+  },
+  {
+    "name": "transactional distance",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "betweenness_centrality": 56705.580041306865
+  },
+  {
+    "name": "semi-structured interview form",
+    "entity_type": "SOLUTION_APPROACH",
+    "betweenness_centrality": 54652.42891366962
+  },
+  {
+    "name": "questionnaire",
+    "entity_type": "SOLUTION_APPROACH",
+    "betweenness_centrality": 53331.07215935433
+  },
+  {
+    "name": "student autonomy",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 46408.495057319065
+  },
+  {
+    "name": "student participation problem",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "betweenness_centrality": 46316.33018482685
+  },
+  {
+    "name": "attitude towards distance education",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "betweenness_centrality": 44229.34449449078
+  },
+  {
+    "name": "attitude towards distance education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 44229.34449449078
+  },
+  {
+    "name": "instructor",
+    "entity_type": "STAKEHOLDER",
+    "betweenness_centrality": 39202.74692220151
+  },
+  {
+    "name": "technology integration in education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "betweenness_centrality": 38263.94067606275
+  }
+]

@@ -1,0 +1,52 @@
+﻿[
+  {
+    "name": "student",
+    "entity_type": "STAKEHOLDER",
+    "betweenness_centrality": 365110.1527725175
+  },
+  {
+    "name": "teacher",
+    "entity_type": "STAKEHOLDER",
+    "betweenness_centrality": 252847.6421320606
+  },
+  {
+    "name": "instructor",
+    "entity_type": "STAKEHOLDER",
+    "betweenness_centrality": 39202.74692220151
+  },
+  {
+    "name": "parent",
+    "entity_type": "STAKEHOLDER",
+    "betweenness_centrality": 34013.897306251085
+  },
+  {
+    "name": "science teacher",
+    "entity_type": "STAKEHOLDER",
+    "betweenness_centrality": 28288.92178207171
+  },
+  {
+    "name": "classroom teacher",
+    "entity_type": "STAKEHOLDER",
+    "betweenness_centrality": 27892.886386708997
+  },
+  {
+    "name": "primary school teacher",
+    "entity_type": "STAKEHOLDER",
+    "betweenness_centrality": 21312.38933661174
+  },
+  {
+    "name": "higher education institution",
+    "entity_type": "STAKEHOLDER",
+    "betweenness_centrality": 17931.886918451648
+  },
+  {
+    "name": "learner",
+    "entity_type": "STAKEHOLDER",
+    "betweenness_centrality": 17770.336773453255
+  },
+  {
+    "name": "open education system",
+    "entity_type": "STAKEHOLDER",
+    "betweenness_centrality": 14678.26308278808
+  }
+]

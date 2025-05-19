@@ -1,0 +1,52 @@
+﻿[
+  {
+    "name": "distance education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 18.59602236474223
+  },
+  {
+    "name": "student autonomy",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 9.87179207861687
+  },
+  {
+    "name": "academic achievement",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 5.748961311144131
+  },
+  {
+    "name": "student motivation",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 5.4590624111617965
+  },
+  {
+    "name": "student achievement",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 4.057241611287906
+  },
+  {
+    "name": "effectiveness of online education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 3.4020359758924283
+  },
+  {
+    "name": "student participation",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 3.3025314569337856
+  },
+  {
+    "name": "attitude towards distance education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 3.272157887993379
+  },
+  {
+    "name": "mathematics education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 3.0956131876271598
+  },
+  {
+    "name": "student satisfaction",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 3.0741715260950353
+  }
+]

@@ -1,0 +1,52 @@
+﻿[
+  {
+    "name": "distance education program",
+    "entity_type": "STAKEHOLDER",
+    "pagerank_score": 1.1720061597922473
+  },
+  {
+    "name": "student",
+    "entity_type": "STAKEHOLDER",
+    "pagerank_score": 0.9162211865014871
+  },
+  {
+    "name": "Istanbul University",
+    "entity_type": "STAKEHOLDER",
+    "pagerank_score": 0.6234142695708154
+  },
+  {
+    "name": "faculty",
+    "entity_type": "STAKEHOLDER",
+    "pagerank_score": 0.6129894407133417
+  },
+  {
+    "name": "primary school",
+    "entity_type": "STAKEHOLDER",
+    "pagerank_score": 0.6041635414269041
+  },
+  {
+    "name": "graduate",
+    "entity_type": "STAKEHOLDER",
+    "pagerank_score": 0.5921980345257961
+  },
+  {
+    "name": "open education system",
+    "entity_type": "STAKEHOLDER",
+    "pagerank_score": 0.5754049270441388
+  },
+  {
+    "name": "physical education teacher",
+    "entity_type": "STAKEHOLDER",
+    "pagerank_score": 0.5507142857142857
+  },
+  {
+    "name": "Education Information Network",
+    "entity_type": "STAKEHOLDER",
+    "pagerank_score": 0.519702502072789
+  },
+  {
+    "name": "higher education institution",
+    "entity_type": "STAKEHOLDER",
+    "pagerank_score": 0.45360929243934317
+  }
+]

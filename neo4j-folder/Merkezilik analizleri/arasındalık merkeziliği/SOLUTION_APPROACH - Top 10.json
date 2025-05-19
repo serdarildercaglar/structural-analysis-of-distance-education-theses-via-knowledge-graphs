@@ -1,0 +1,52 @@
+﻿[
+  {
+    "name": "distance education",
+    "entity_type": "SOLUTION_APPROACH",
+    "betweenness_centrality": 697732.630625
+  },
+  {
+    "name": "massive open online course",
+    "entity_type": "SOLUTION_APPROACH",
+    "betweenness_centrality": 100944.02583489822
+  },
+  {
+    "name": "web-based use education",
+    "entity_type": "SOLUTION_APPROACH",
+    "betweenness_centrality": 87485.20499782733
+  },
+  {
+    "name": "semi-structured interview form",
+    "entity_type": "SOLUTION_APPROACH",
+    "betweenness_centrality": 54652.42891366962
+  },
+  {
+    "name": "questionnaire",
+    "entity_type": "SOLUTION_APPROACH",
+    "betweenness_centrality": 53331.07215935433
+  },
+  {
+    "name": "technology integration in education",
+    "entity_type": "SOLUTION_APPROACH",
+    "betweenness_centrality": 38263.94067606275
+  },
+  {
+    "name": "learning management system",
+    "entity_type": "SOLUTION_APPROACH",
+    "betweenness_centrality": 32048.16032462952
+  },
+  {
+    "name": "in-service training",
+    "entity_type": "SOLUTION_APPROACH",
+    "betweenness_centrality": 30165.675391224217
+  },
+  {
+    "name": "Google Form",
+    "entity_type": "SOLUTION_APPROACH",
+    "betweenness_centrality": 29257.13305059846
+  },
+  {
+    "name": "professional development",
+    "entity_type": "SOLUTION_APPROACH",
+    "betweenness_centrality": 26725.072897422433
+  }
+]

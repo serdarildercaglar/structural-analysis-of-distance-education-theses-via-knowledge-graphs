@@ -1,0 +1,34 @@
+﻿[
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "node_count": 469,
+    "avg_closeness": 0.3922952409471104,
+    "min_closeness": 0.0,
+    "max_closeness": 1.0,
+    "stdev_closeness": 0.34372281787709985
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "node_count": 850,
+    "avg_closeness": 0.3225670260495472,
+    "min_closeness": 0.0,
+    "max_closeness": 1.0,
+    "stdev_closeness": 0.2846600752886225
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "node_count": 1407,
+    "avg_closeness": 0.2085643811190881,
+    "min_closeness": 0.0,
+    "max_closeness": 1.0,
+    "stdev_closeness": 0.27850510610474677
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "node_count": 414,
+    "avg_closeness": 0.05561659087130647,
+    "min_closeness": 0.0,
+    "max_closeness": 1.0,
+    "stdev_closeness": 0.18746452269991212
+  }
+]

@@ -1,0 +1,52 @@
+﻿[
+  {
+    "name": "distance education",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 572.0
+  },
+  {
+    "name": "learning management system",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 41.0
+  },
+  {
+    "name": "face-to-face education",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 40.0
+  },
+  {
+    "name": "web-based distance education",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 37.0
+  },
+  {
+    "name": "open and distance learning",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 35.0
+  },
+  {
+    "name": "questionnaire",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 28.0
+  },
+  {
+    "name": "semi-structured interview form",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 27.0
+  },
+  {
+    "name": "online learning environment",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 27.0
+  },
+  {
+    "name": "technology integration in education",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 27.0
+  },
+  {
+    "name": "emergency remote education",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 26.0
+  }
+]

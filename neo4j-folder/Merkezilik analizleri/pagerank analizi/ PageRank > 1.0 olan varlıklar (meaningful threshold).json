@@ -1,0 +1,437 @@
+﻿[
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "distance education",
+    "pagerank_score": 18.596022364742225
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance education",
+    "pagerank_score": 18.596022364742225
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student autonomy",
+    "pagerank_score": 9.87179207861687
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "academic achievement",
+    "pagerank_score": 5.7489613111441304
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "academic achievement",
+    "pagerank_score": 5.7489613111441304
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student motivation",
+    "pagerank_score": 5.4590624111617965
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "student motivation",
+    "pagerank_score": 5.4590624111617965
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student achievement",
+    "pagerank_score": 4.057241611287906
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "student achievement",
+    "pagerank_score": 4.057241611287906
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "student motivation problem",
+    "pagerank_score": 3.622868817286202
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "transactional distance",
+    "pagerank_score": 3.4590020439076583
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "effectiveness of online education",
+    "pagerank_score": 3.4020359758924283
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student participation",
+    "pagerank_score": 3.3025314569337856
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "attitude towards distance education",
+    "pagerank_score": 3.272157887993379
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "attitude towards distance education",
+    "pagerank_score": 3.272157887993379
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "mathematics education",
+    "pagerank_score": 3.0956131876271593
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student satisfaction",
+    "pagerank_score": 3.0741715260950357
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "student satisfaction",
+    "pagerank_score": 3.0741715260950357
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "technology integration in education",
+    "pagerank_score": 2.978062476292467
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technology integration in education",
+    "pagerank_score": 2.978062476292467
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "Turkish language learning",
+    "pagerank_score": 2.800843175746092
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Satisfaction Scale",
+    "pagerank_score": 2.7746458214556795
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student engagement",
+    "pagerank_score": 2.75436021715729
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "teacher satisfaction",
+    "pagerank_score": 2.3837330263054977
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "teaching and learning",
+    "pagerank_score": 2.3022094223573606
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "inefficient education",
+    "pagerank_score": 2.2933384804527903
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "learning management system",
+    "pagerank_score": 2.163675174219702
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "learning management system",
+    "pagerank_score": 2.163675174219702
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "educational content",
+    "pagerank_score": 2.1068431926318447
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "cognitive behaviour",
+    "pagerank_score": 2.104492825708716
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "psychomotor behaviour",
+    "pagerank_score": 2.104492825708716
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "clothing education",
+    "pagerank_score": 2.104492825708716
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "teacher attitude",
+    "pagerank_score": 2.0133816097951076
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "teacher attitude",
+    "pagerank_score": 2.0133816097951076
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "student participation problem",
+    "pagerank_score": 1.9835261753511406
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online questionnaire",
+    "pagerank_score": 1.9821446909745533
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "teacher performance",
+    "pagerank_score": 1.9505288314156086
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student attitude",
+    "pagerank_score": 1.9307080786773574
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "student attitude",
+    "pagerank_score": 1.9307080786773574
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "massive open online course",
+    "pagerank_score": 1.893035418188
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "massive open online course",
+    "pagerank_score": 1.893035418188
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student interaction",
+    "pagerank_score": 1.812293657232519
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of interaction",
+    "pagerank_score": 1.7471473583653725
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student success",
+    "pagerank_score": 1.6997415943325849
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "student success",
+    "pagerank_score": 1.6997415943325849
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "teacher competence",
+    "pagerank_score": 1.698974977019481
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student opinion",
+    "pagerank_score": 1.6593395791991703
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student perception",
+    "pagerank_score": 1.6556944175407975
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "professional development",
+    "pagerank_score": 1.6045526374851795
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "professional development",
+    "pagerank_score": 1.6045526374851795
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "technical problem",
+    "pagerank_score": 1.5785188676048063
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "difficulty in gaining practice proficiency",
+    "pagerank_score": 1.5751371705634247
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "distance education problem",
+    "pagerank_score": 1.5646275225223287
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "inequality of opportunity",
+    "pagerank_score": 1.4792565023623194
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "learning efficiency",
+    "pagerank_score": 1.3631849808614316
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "difficulty in communication",
+    "pagerank_score": 1.360797745751905
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "program quality",
+    "pagerank_score": 1.2963032148273124
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "course satisfaction",
+    "pagerank_score": 1.2749781675625345
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "digital competency",
+    "pagerank_score": 1.2158665246855316
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "difficulty in content preparation and transferring in distance education",
+    "pagerank_score": 1.2140712707771877
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "interaction",
+    "pagerank_score": 1.175870360955707
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "interaction",
+    "pagerank_score": 1.175870360955707
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance education program",
+    "pagerank_score": 1.1720061597922473
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "distance education program",
+    "pagerank_score": 1.1720061597922473
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "distance education program",
+    "pagerank_score": 1.1720061597922473
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "cultural diversity",
+    "pagerank_score": 1.1698518567937208
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "difference in educational practices",
+    "pagerank_score": 1.1694807782087382
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "problem in the distance education process",
+    "pagerank_score": 1.1681005683794239
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "access issue",
+    "pagerank_score": 1.1329215376198396
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "perceived learning",
+    "pagerank_score": 1.1289193460650355
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "sustainability",
+    "pagerank_score": 1.117385518868129
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of interaction in lessons",
+    "pagerank_score": 1.1059270306025901
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "assessment and evaluation",
+    "pagerank_score": 1.105129445587442
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "motivation",
+    "pagerank_score": 1.0960235055831362
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of sense of community",
+    "pagerank_score": 1.0905510687687314
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "classroom management",
+    "pagerank_score": 1.072063579111482
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "classroom management",
+    "pagerank_score": 1.072063579111482
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "assessment difficulty",
+    "pagerank_score": 1.0686138097080211
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "assessment difficulty",
+    "pagerank_score": 1.0686138097080211
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "difficulty in student support",
+    "pagerank_score": 1.0631332741135124
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "need for improvement of the system",
+    "pagerank_score": 1.0567339148745305
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "distance education quality standard",
+    "pagerank_score": 1.0353558678386132
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance education quality standard",
+    "pagerank_score": 1.0353558678386132
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "problems experienced in the distance education process",
+    "pagerank_score": 1.0231439806062048
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "difficulty in the development of social competence",
+    "pagerank_score": 1.0201965476966277
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "crisis management",
+    "pagerank_score": 1.0076683014981667
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "teacher opinion",
+    "pagerank_score": 1.0073713693073447
+  }
+]

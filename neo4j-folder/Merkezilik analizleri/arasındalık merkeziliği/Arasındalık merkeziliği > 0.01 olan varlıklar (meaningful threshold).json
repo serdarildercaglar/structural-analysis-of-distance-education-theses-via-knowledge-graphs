@@ -1,0 +1,4307 @@
+﻿[
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "distance education",
+    "betweenness_centrality": 697732.630625
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance education",
+    "betweenness_centrality": 697732.630625
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "student",
+    "betweenness_centrality": 365110.1527725175
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "teacher",
+    "betweenness_centrality": 252847.6421320606
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "Turkish language learning",
+    "betweenness_centrality": 134145.74332908963
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "massive open online course",
+    "betweenness_centrality": 100944.02583489822
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "massive open online course",
+    "betweenness_centrality": 100944.02583489822
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "effectiveness of online education",
+    "betweenness_centrality": 96013.95453160214
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "web-based use education",
+    "betweenness_centrality": 87485.20499782733
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "academic achievement",
+    "betweenness_centrality": 61696.13620195766
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "academic achievement",
+    "betweenness_centrality": 61696.13620195766
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "transactional distance",
+    "betweenness_centrality": 56705.580041306865
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "semi-structured interview form",
+    "betweenness_centrality": 54652.42891366963
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "questionnaire",
+    "betweenness_centrality": 53331.07215935433
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student autonomy",
+    "betweenness_centrality": 46408.495057319065
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "student participation problem",
+    "betweenness_centrality": 46316.33018482685
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "attitude towards distance education",
+    "betweenness_centrality": 44229.34449449078
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "attitude towards distance education",
+    "betweenness_centrality": 44229.34449449078
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "instructor",
+    "betweenness_centrality": 39202.74692220151
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "technology integration in education",
+    "betweenness_centrality": 38263.94067606275
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technology integration in education",
+    "betweenness_centrality": 38263.94067606275
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of interaction",
+    "betweenness_centrality": 36887.952947043836
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student satisfaction",
+    "betweenness_centrality": 36379.12167846023
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "student satisfaction",
+    "betweenness_centrality": 36379.12167846023
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "parent",
+    "betweenness_centrality": 34013.897306251085
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "unreliable measurement and evaluation",
+    "betweenness_centrality": 32921.89578164175
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "mobile learning literacy",
+    "betweenness_centrality": 32396.486515121604
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "learning management system",
+    "betweenness_centrality": 32048.160324629524
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "learning management system",
+    "betweenness_centrality": 32048.160324629524
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "in-service training",
+    "betweenness_centrality": 30165.675391224217
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "in-service training",
+    "betweenness_centrality": 30165.675391224217
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Google Form",
+    "betweenness_centrality": 29257.133050598455
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "science teacher",
+    "betweenness_centrality": 28288.921782071706
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "motivation",
+    "betweenness_centrality": 27943.32354634133
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "classroom teacher",
+    "betweenness_centrality": 27892.886386708997
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "professional development",
+    "betweenness_centrality": 26725.072897422433
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "professional development",
+    "betweenness_centrality": 26725.072897422433
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance education model",
+    "betweenness_centrality": 24883.223547485897
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "assessment and evaluation tools and methods",
+    "betweenness_centrality": 23121.69756765379
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "technical problem",
+    "betweenness_centrality": 23022.568293228356
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "writing skill",
+    "betweenness_centrality": 22853.937249312443
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online learning environment",
+    "betweenness_centrality": 21769.12259589676
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "online learning environment",
+    "betweenness_centrality": 21769.12259589676
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "primary school teacher",
+    "betweenness_centrality": 21312.38933661174
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student participation",
+    "betweenness_centrality": 21132.118880396647
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student attitude",
+    "betweenness_centrality": 20753.40869253611
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "student attitude",
+    "betweenness_centrality": 20753.40869253611
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online questionnaire",
+    "betweenness_centrality": 20414.301291465177
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "student motivation",
+    "betweenness_centrality": 20408.014442940268
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student motivation",
+    "betweenness_centrality": 20408.014442940268
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student interaction",
+    "betweenness_centrality": 19512.275471221423
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "higher education institution",
+    "betweenness_centrality": 17931.886918451648
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "learner",
+    "betweenness_centrality": 17770.336773453255
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "online course",
+    "betweenness_centrality": 16738.905778635846
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online course",
+    "betweenness_centrality": 16738.905778635846
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "usability issue",
+    "betweenness_centrality": 16690.946219055128
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "inefficient education",
+    "betweenness_centrality": 16290.401907320385
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "inequality of opportunity",
+    "betweenness_centrality": 16263.356428697203
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "open and distance learning",
+    "betweenness_centrality": 15573.142894503362
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "open and distance learning",
+    "betweenness_centrality": 15573.142894503362
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "assessment and evaluation",
+    "betweenness_centrality": 15571.759062483392
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "information and communication technology",
+    "betweenness_centrality": 15138.87403134224
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "information and communication technology",
+    "betweenness_centrality": 15138.87403134224
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "distance education quality standard",
+    "betweenness_centrality": 15014.039701399106
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance education quality standard",
+    "betweenness_centrality": 15014.039701399106
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "interaction",
+    "betweenness_centrality": 14808.230754159064
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "interaction",
+    "betweenness_centrality": 14808.230754159064
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "open education system",
+    "betweenness_centrality": 14678.26308278808
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "open education system",
+    "betweenness_centrality": 14678.26308278808
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "technological inadequacy",
+    "betweenness_centrality": 13397.845726458529
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "digital competency",
+    "betweenness_centrality": 13313.437798103943
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "science education",
+    "betweenness_centrality": 12372.920889746383
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "distance education management",
+    "betweenness_centrality": 11991.365129129867
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "adaptive gamification design principles",
+    "betweenness_centrality": 11925.171778567254
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of technological infrastructure",
+    "betweenness_centrality": 11457.443392684781
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "theoretical model of distance internationalization",
+    "betweenness_centrality": 11287.30909090909
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "expert",
+    "betweenness_centrality": 11226.591472227616
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "graduate",
+    "betweenness_centrality": 10960.526257952564
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "web-based distance education",
+    "betweenness_centrality": 10931.116346821897
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "web-based distance education",
+    "betweenness_centrality": 10931.116346821897
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "school principal",
+    "betweenness_centrality": 10800.917257482794
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "internet connectivity issue",
+    "betweenness_centrality": 10739.426942451417
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "interview",
+    "betweenness_centrality": 10559.683138894281
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "emergency transition to distance education",
+    "betweenness_centrality": 10364.156590835202
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "need for quality studies in distance education",
+    "betweenness_centrality": 10331.675810386447
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "social networking site",
+    "betweenness_centrality": 10283.927284141815
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of interaction in lessons",
+    "betweenness_centrality": 10064.50082075139
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "difficulty in adaptation to distance education",
+    "betweenness_centrality": 9876.863949630133
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "focus group discussion",
+    "betweenness_centrality": 9856.539463249937
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "emergency remote education",
+    "betweenness_centrality": 9608.085655588895
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "emergency remote education",
+    "betweenness_centrality": 9608.085655588895
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "software",
+    "betweenness_centrality": 9218.209599266434
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "web 2.0 tool",
+    "betweenness_centrality": 8987.07247413981
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "foreign language learning",
+    "betweenness_centrality": 8976.904003148362
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online learning",
+    "betweenness_centrality": 8972.322698027832
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "online learning",
+    "betweenness_centrality": 8972.322698027832
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "student dropout",
+    "betweenness_centrality": 8909.47262242355
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student dropout",
+    "betweenness_centrality": 8909.47262242355
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "classroom management",
+    "betweenness_centrality": 8856.636108121664
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "classroom management",
+    "betweenness_centrality": 8856.636108121664
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "communication and interaction problem",
+    "betweenness_centrality": 8791.117814147194
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "researcher",
+    "betweenness_centrality": 8660.716399921608
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "web-based distance education system",
+    "betweenness_centrality": 8324.994382748486
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "training on distance education",
+    "betweenness_centrality": 8195.70739052527
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "low technological pedagogical content knowledge",
+    "betweenness_centrality": 8142.203112002011
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "usability",
+    "betweenness_centrality": 8123.433829807811
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance education program",
+    "betweenness_centrality": 8001.593971297551
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "distance education program",
+    "betweenness_centrality": 8001.593971297551
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "distance education program",
+    "betweenness_centrality": 8001.593971297551
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "Anadolu University",
+    "betweenness_centrality": 7991.258564964441
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "online education",
+    "betweenness_centrality": 7927.125750947118
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online education",
+    "betweenness_centrality": 7927.125750947118
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "distance education center",
+    "betweenness_centrality": 7667.736448862901
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "lesson plan",
+    "betweenness_centrality": 7631.251105211776
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "web-based distance education program",
+    "betweenness_centrality": 7573.951831568887
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "Education Information Network",
+    "betweenness_centrality": 7519.573382619047
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Education Information Network",
+    "betweenness_centrality": 7519.573382619047
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "lifelong learning",
+    "betweenness_centrality": 7350.490005647859
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "solution suggestion",
+    "betweenness_centrality": 7223.909889241751
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "program evaluation",
+    "betweenness_centrality": 7004.7535383477825
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "program evaluation",
+    "betweenness_centrality": 7004.7535383477825
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "cost issue",
+    "betweenness_centrality": 6994.736448862902
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "student support",
+    "betweenness_centrality": 6898.036318278
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student support",
+    "betweenness_centrality": 6898.036318278
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "student support",
+    "betweenness_centrality": 6898.036318278
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "faculty",
+    "betweenness_centrality": 6786.110516934041
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "digital literacy course",
+    "betweenness_centrality": 6773.487799438261
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "school administrator",
+    "betweenness_centrality": 6730.597116901617
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "school administrator",
+    "betweenness_centrality": 6730.597116901617
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technical support service",
+    "betweenness_centrality": 6694.4162418101205
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance education technology",
+    "betweenness_centrality": 6563.709398200578
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "in-service training program",
+    "betweenness_centrality": 6559.966385371348
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "teacher perception",
+    "betweenness_centrality": 6179.162996261678
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "problems experienced in the distance education process",
+    "betweenness_centrality": 6149.660268420675
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "perception issue",
+    "betweenness_centrality": 6095.35997988939
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "computer",
+    "betweenness_centrality": 5980.470830404782
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "family",
+    "betweenness_centrality": 5905.153351877345
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "web based remote laboratory",
+    "betweenness_centrality": 5885.471077327841
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "professional burnout",
+    "betweenness_centrality": 5878.407083716036
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "professional burnout",
+    "betweenness_centrality": 5878.407083716036
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "AKADEMA",
+    "betweenness_centrality": 5697.258564964444
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "face-to-face education",
+    "betweenness_centrality": 5686.487265109497
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "face-to-face education",
+    "betweenness_centrality": 5686.487265109497
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "gamified online learning environment",
+    "betweenness_centrality": 5623.644216593105
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "open and distance learner",
+    "betweenness_centrality": 5608.964708838511
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "equipment inadequacy",
+    "betweenness_centrality": 5586.890986433319
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "secondary school teacher",
+    "betweenness_centrality": 5480.455225293306
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "curriculum adaptation",
+    "betweenness_centrality": 5348.278575501919
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "survey",
+    "betweenness_centrality": 5313.138374912088
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "virtual classroom environment",
+    "betweenness_centrality": 5246.304391431942
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "use of technological product",
+    "betweenness_centrality": 5103.439592976398
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "physical education teacher",
+    "betweenness_centrality": 5050.905002752292
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "face-to-face education impossibility",
+    "betweenness_centrality": 4991.443992142131
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "online learning readiness",
+    "betweenness_centrality": 4901.353246753244
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "difficulty in classroom management",
+    "betweenness_centrality": 4899.251162689602
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "machine learning",
+    "betweenness_centrality": 4877.999999999997
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "teacher self-efficacy",
+    "betweenness_centrality": 4871.999999999991
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance education system",
+    "betweenness_centrality": 4845.309065313351
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student readiness",
+    "betweenness_centrality": 4843.020408163257
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "negative attitude towards distance education",
+    "betweenness_centrality": 4824.623243687783
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of scientific research on distance education",
+    "betweenness_centrality": 4788.685067873297
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "middle school student",
+    "betweenness_centrality": 4787.952015470805
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "recommendation for family in distance education",
+    "betweenness_centrality": 4749.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "alumni information system",
+    "betweenness_centrality": 4745.748801198801
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "semi-structured interview",
+    "betweenness_centrality": 4739.377541431224
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of adoption of distance education",
+    "betweenness_centrality": 4703.142748917742
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Dynamic Emergency Distance Education Model",
+    "betweenness_centrality": 4691.208995792989
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of research on distance education",
+    "betweenness_centrality": 4689.912449374703
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "language education",
+    "betweenness_centrality": 4612.819709823022
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "intercultural communicative competence",
+    "betweenness_centrality": 4606.966376368724
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "IPTV",
+    "betweenness_centrality": 4482.691047903128
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Web Mining & Semantic Learning Management System",
+    "betweenness_centrality": 4368.61608345788
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "self-efficacy",
+    "betweenness_centrality": 4365.1315279966075
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "self-efficacy",
+    "betweenness_centrality": 4365.1315279966075
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "mathematics teacher",
+    "betweenness_centrality": 4341.946277498725
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "metacognitive activity",
+    "betweenness_centrality": 4332.235074743888
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "computer assisted instruction",
+    "betweenness_centrality": 4281.231985597202
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "computer assisted instruction",
+    "betweenness_centrality": 4281.231985597202
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "EBA Live Lesson",
+    "betweenness_centrality": 4258.521843718452
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online course interaction determination scale",
+    "betweenness_centrality": 4197.765290050647
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of technological devices",
+    "betweenness_centrality": 4183.704971332293
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "web-based education material",
+    "betweenness_centrality": 4170.5121019871995
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "accreditation criteria",
+    "betweenness_centrality": 4153.422324985106
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "flipped learning model",
+    "betweenness_centrality": 4079.1408788239505
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance self-assessment training",
+    "betweenness_centrality": 4001.215225796226
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance education application",
+    "betweenness_centrality": 3984.131366402248
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "internet based education",
+    "betweenness_centrality": 3917.0946570910996
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "educational information network",
+    "betweenness_centrality": 3872.7879663295134
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "self-regulated learning skill",
+    "betweenness_centrality": 3870.611370179845
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "e-learning system",
+    "betweenness_centrality": 3869.7328292573397
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online teacher professional development",
+    "betweenness_centrality": 3836.16074408048
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student expectation",
+    "betweenness_centrality": 3829.579544239155
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "scale",
+    "betweenness_centrality": 3827.814814814815
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "policy maker",
+    "betweenness_centrality": 3823.609523809524
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "social competence",
+    "betweenness_centrality": 3816.440060771437
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance learning system",
+    "betweenness_centrality": 3812.938528138528
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "intelligent tutoring system",
+    "betweenness_centrality": 3785.2378335949766
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "institutional support",
+    "betweenness_centrality": 3606.2795387236893
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "open source software",
+    "betweenness_centrality": 3556.364285917915
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "communication skill",
+    "betweenness_centrality": 3493.732609447632
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "communication skill",
+    "betweenness_centrality": 3493.732609447632
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "5E teaching model",
+    "betweenness_centrality": 3398.8730787853
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "technical inadequacy",
+    "betweenness_centrality": 3382.032209695064
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of infrastructure",
+    "betweenness_centrality": 3365.691109781449
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "secondary school student",
+    "betweenness_centrality": 3364.57923187923
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Zoom",
+    "betweenness_centrality": 3303.145803583563
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "difficulty in access to online education",
+    "betweenness_centrality": 3276.851898101897
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "learning analytics",
+    "betweenness_centrality": 3253.649228981807
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "learning analytics",
+    "betweenness_centrality": 3253.649228981807
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "multi-part mixed constructed distance education structuring",
+    "betweenness_centrality": 3251.999999999994
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "English communication activity",
+    "betweenness_centrality": 3250.7916666666633
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "technological leadership",
+    "betweenness_centrality": 3248.072444384286
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technological leadership",
+    "betweenness_centrality": 3248.072444384286
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of student interest",
+    "betweenness_centrality": 3247.4023285875264
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "special education",
+    "betweenness_centrality": 3240.0204081632596
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "pre-service teacher",
+    "betweenness_centrality": 3226.8053131508996
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "career support service",
+    "betweenness_centrality": 3216.665044182251
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of motivation",
+    "betweenness_centrality": 3192.8747060111837
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "internet",
+    "betweenness_centrality": 3038.347467213193
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "curriculum and instruction",
+    "betweenness_centrality": 3033.1709235402714
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "video content",
+    "betweenness_centrality": 3032.823188405797
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "connection problem",
+    "betweenness_centrality": 3010.365225293691
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "open and distance learning institution",
+    "betweenness_centrality": 2970.373762362318
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Seyyah",
+    "betweenness_centrality": 2969.4745731498697
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "MOOC platform",
+    "betweenness_centrality": 2962.4633158406177
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "open and distance education institution",
+    "betweenness_centrality": 2951.916881695203
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "collaborative learning",
+    "betweenness_centrality": 2886.8906763052123
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "English language learning",
+    "betweenness_centrality": 2881.778594104307
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "teacher motivation",
+    "betweenness_centrality": 2881.734919544303
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "teacher motivation",
+    "betweenness_centrality": 2881.734919544303
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "open courseware platform",
+    "betweenness_centrality": 2881.181818181818
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "web based training method",
+    "betweenness_centrality": 2862.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "child",
+    "betweenness_centrality": 2860.9218975468975
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "parental participation",
+    "betweenness_centrality": 2856.027553491664
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "financial problem",
+    "betweenness_centrality": 2854.9711400531737
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technology use",
+    "betweenness_centrality": 2785.3224496485027
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of pedagogical support",
+    "betweenness_centrality": 2761.236048342782
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "support service implementation",
+    "betweenness_centrality": 2676.4746268957038
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "digital literacy",
+    "betweenness_centrality": 2661.3493066634906
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "digital literacy",
+    "betweenness_centrality": 2661.3493066634906
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "speed reading technique",
+    "betweenness_centrality": 2605.908305012382
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance STEM education",
+    "betweenness_centrality": 2551.1611488511503
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "digital material",
+    "betweenness_centrality": 2549.5255998746998
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "virtual training",
+    "betweenness_centrality": 2527.0257840825275
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of technology use",
+    "betweenness_centrality": 2461.141769440489
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "virtual classroom management",
+    "betweenness_centrality": 2442.70238095238
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "virtual classroom management",
+    "betweenness_centrality": 2442.70238095238
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Online Learning Readiness Scale",
+    "betweenness_centrality": 2375.9028978400106
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance in-service training",
+    "betweenness_centrality": 2324.0079953931554
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance education software",
+    "betweenness_centrality": 2316.3883431785607
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "problem-based learning method",
+    "betweenness_centrality": 2282.605599256536
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "automatic feedback tool",
+    "betweenness_centrality": 2164.9148194026543
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "policy implementation",
+    "betweenness_centrality": 2163.6215605445313
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "ubiquitous learning",
+    "betweenness_centrality": 2163.1554002136786
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance education platform",
+    "betweenness_centrality": 2136.0321462944935
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "feedback",
+    "betweenness_centrality": 2135.576911755529
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technical support",
+    "betweenness_centrality": 2131.1494957077057
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "assessment tool",
+    "betweenness_centrality": 2100.0629107004083
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "digital tool",
+    "betweenness_centrality": 2096.376415819982
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "EBA TV course content",
+    "betweenness_centrality": 2083.828978548946
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "mobile application",
+    "betweenness_centrality": 2036.8390725148959
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "infrastructure and technical support",
+    "betweenness_centrality": 2027.4196208977623
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "infrastructure and technical support",
+    "betweenness_centrality": 2027.4196208977623
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "academic support service",
+    "betweenness_centrality": 1976.0272047319718
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "interactive video",
+    "betweenness_centrality": 1935.7623546606706
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Web 2.0 tool",
+    "betweenness_centrality": 1918.1999999999998
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "inadequate education program",
+    "betweenness_centrality": 1917.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "parent education program",
+    "betweenness_centrality": 1914.2537267080747
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance teaching model",
+    "betweenness_centrality": 1912.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "video recording",
+    "betweenness_centrality": 1908.8289377289375
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "social activity insufficiency",
+    "betweenness_centrality": 1907.5
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "expert opinion",
+    "betweenness_centrality": 1906.5514836041152
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Scale of Attitudes towards English",
+    "betweenness_centrality": 1906.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student service",
+    "betweenness_centrality": 1906.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "professional development program",
+    "betweenness_centrality": 1905.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "web based distance learning system",
+    "betweenness_centrality": 1903.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "equal opportunity",
+    "betweenness_centrality": 1890.519230769231
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "facilitation competency",
+    "betweenness_centrality": 1883.4333333333334
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "readiness",
+    "betweenness_centrality": 1878.1611488511478
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "gamification intervention",
+    "betweenness_centrality": 1860.4456332262002
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Moodle",
+    "betweenness_centrality": 1824.1399676121623
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of technical infrastructure",
+    "betweenness_centrality": 1793.478022015553
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "sense of community",
+    "betweenness_centrality": 1778.1379875026926
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "measurement and evaluation",
+    "betweenness_centrality": 1771.2612044817915
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "measurement and evaluation",
+    "betweenness_centrality": 1771.2612044817915
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "digital transformation",
+    "betweenness_centrality": 1759.7290201400288
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "ARCS Motivation Model",
+    "betweenness_centrality": 1751.5758874436783
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "mobile learning",
+    "betweenness_centrality": 1721.5662592834976
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "parental intervention",
+    "betweenness_centrality": 1720.775402798051
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "parental intervention",
+    "betweenness_centrality": 1720.775402798051
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "distance education negative effect on teaching and learning",
+    "betweenness_centrality": 1644.3270636491295
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "dropout",
+    "betweenness_centrality": 1639.0428571428574
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "dropout",
+    "betweenness_centrality": 1639.0428571428574
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "English teacher",
+    "betweenness_centrality": 1638.6284153287806
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "psycho-education program",
+    "betweenness_centrality": 1637.999999999999
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "teacher identity",
+    "betweenness_centrality": 1635.6863974555158
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "platform insufficiency",
+    "betweenness_centrality": 1634.9579975579977
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "instructional intervention",
+    "betweenness_centrality": 1634.8959520012143
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "faculty member",
+    "betweenness_centrality": 1633.9999999999984
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "peer assessment",
+    "betweenness_centrality": 1633.1387573536074
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "self-directed learning program",
+    "betweenness_centrality": 1632.3939939939928
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "digital inequality",
+    "betweenness_centrality": 1631.201360544215
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "cultural distance scale",
+    "betweenness_centrality": 1627.9999999999998
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "open educational resources",
+    "betweenness_centrality": 1627.999999999997
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance education model proposal",
+    "betweenness_centrality": 1627.9999999999968
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "home experiment with simple tools",
+    "betweenness_centrality": 1627.8476190476197
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "performance evaluation",
+    "betweenness_centrality": 1627.117647058821
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "high school student",
+    "betweenness_centrality": 1626.999999999999
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "recognition of prior learning",
+    "betweenness_centrality": 1626.0000000000002
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "hybrid education model",
+    "betweenness_centrality": 1625.9999999999995
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "face-to-face education model",
+    "betweenness_centrality": 1625.9999999999989
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "history teacher",
+    "betweenness_centrality": 1625.9999999999977
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "open and distance learning model",
+    "betweenness_centrality": 1625.9999999999973
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "cognitive flexibility",
+    "betweenness_centrality": 1625.9999999999973
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "pedagogical competence",
+    "betweenness_centrality": 1625.999999999997
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "technology attitude",
+    "betweenness_centrality": 1625.999999999997
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "online interaction",
+    "betweenness_centrality": 1624.999999999999
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "social anxiety",
+    "betweenness_centrality": 1624.9999999999975
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "equality of opportunity",
+    "betweenness_centrality": 1624.3928571428542
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "work life balance",
+    "betweenness_centrality": 1623.0204081632623
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "work life balance",
+    "betweenness_centrality": 1623.0204081632623
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "web mining",
+    "betweenness_centrality": 1622.9999999999989
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "teacher professional development",
+    "betweenness_centrality": 1622.9999999999984
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of internet infrastructure",
+    "betweenness_centrality": 1621.999999999997
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "book",
+    "betweenness_centrality": 1615.0416666666652
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "student support service",
+    "betweenness_centrality": 1613.9999999999998
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "branch teacher",
+    "betweenness_centrality": 1610.3103896103903
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "live course",
+    "betweenness_centrality": 1596.7160859649357
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "needs assessment",
+    "betweenness_centrality": 1558.2563319956664
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "communication and support",
+    "betweenness_centrality": 1546.6920065169372
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "blended learning environment",
+    "betweenness_centrality": 1538.9647352939398
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Intel Teacher Program mixed in-service training",
+    "betweenness_centrality": 1518.2368657134066
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "equipment and environment inadequacy",
+    "betweenness_centrality": 1494.9245567094802
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "asynchronous activity",
+    "betweenness_centrality": 1476.694326276352
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "cooperation",
+    "betweenness_centrality": 1469.2081346998534
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "collaborative online learning",
+    "betweenness_centrality": 1445.540467538997
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "assessment criteria",
+    "betweenness_centrality": 1427.062910700411
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "dashboard",
+    "betweenness_centrality": 1383.3702500002255
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "video modeling",
+    "betweenness_centrality": 1326.8053559467353
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "EBA",
+    "betweenness_centrality": 1245.4402755521558
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "synchronous learning system",
+    "betweenness_centrality": 1242.2218030313397
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "psychological support",
+    "betweenness_centrality": 1210.8797782085505
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "learning object",
+    "betweenness_centrality": 1210.0978845546738
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "exam automation software",
+    "betweenness_centrality": 1208.1126303599628
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online stem education",
+    "betweenness_centrality": 1144.1159098726557
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "website",
+    "betweenness_centrality": 1119.132555638709
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "educational website",
+    "betweenness_centrality": 1114.3155395688377
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technology-supported professional development",
+    "betweenness_centrality": 1111.4227951916282
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "TRT EBA TV",
+    "betweenness_centrality": 1098.5288754715295
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technology-supported in-service training program",
+    "betweenness_centrality": 1068.985266786878
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Habits of Mind",
+    "betweenness_centrality": 1055.3961907373669
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "structured on-the-job training method",
+    "betweenness_centrality": 1046.8383446317375
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "textbook",
+    "betweenness_centrality": 1031.6324839450917
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "EBA website",
+    "betweenness_centrality": 1029.6135315598262
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "audio material",
+    "betweenness_centrality": 1015.2939055966878
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "personalization",
+    "betweenness_centrality": 988.021640754555
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "program on distance education",
+    "betweenness_centrality": 976.288387813421
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "computer-mediated communication",
+    "betweenness_centrality": 970.4387969051369
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "web-based educational material",
+    "betweenness_centrality": 968.6938382051383
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Emotion and Attention Tracking System",
+    "betweenness_centrality": 968.5749036051664
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "course completion duration",
+    "betweenness_centrality": 968.3666666666667
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance learning",
+    "betweenness_centrality": 968.1388661644376
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "teaching and learning",
+    "betweenness_centrality": 967.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "rubric",
+    "betweenness_centrality": 963.3333333333334
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "professional training",
+    "betweenness_centrality": 962.1428571428571
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Likert scale survey",
+    "betweenness_centrality": 960.1701246163757
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Context, Input, Process, Product (CIPP) Evaluation Model",
+    "betweenness_centrality": 960.1654545454545
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "unstructured observation form",
+    "betweenness_centrality": 957.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online seminar",
+    "betweenness_centrality": 955.0539830539831
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "balanced scorecard",
+    "betweenness_centrality": 955.0
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "institutional deficiency",
+    "betweenness_centrality": 955.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "community of inquiry framework",
+    "betweenness_centrality": 954.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Teaching and Learning for a Sustainable Future",
+    "betweenness_centrality": 953.3428571428572
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Kolb's experiential learning theory",
+    "betweenness_centrality": 953.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "e-mail",
+    "betweenness_centrality": 953.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "user modeling",
+    "betweenness_centrality": 953.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "attention-gathering exercise",
+    "betweenness_centrality": 953.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online practical course",
+    "betweenness_centrality": 953.0
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of compulsory attendance",
+    "betweenness_centrality": 953.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "informal learning opportunity",
+    "betweenness_centrality": 953.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Google Document",
+    "betweenness_centrality": 953.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "education system",
+    "betweenness_centrality": 953.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "video lecture",
+    "betweenness_centrality": 952.6737694037465
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "family education",
+    "betweenness_centrality": 952.2
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technological tool",
+    "betweenness_centrality": 952.1333333333333
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "various tool",
+    "betweenness_centrality": 952.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "professional motivation",
+    "betweenness_centrality": 952.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "ecological approach",
+    "betweenness_centrality": 952.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "e-course",
+    "betweenness_centrality": 952.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "web-based instruction",
+    "betweenness_centrality": 952.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "reinforcing philosophical activity",
+    "betweenness_centrality": 952.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online teaching methods and techniques",
+    "betweenness_centrality": 952.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "forum",
+    "betweenness_centrality": 951.6814927343933
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online collaborative writing",
+    "betweenness_centrality": 951.2857142857142
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "3D modeling activity",
+    "betweenness_centrality": 951.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "e-learning",
+    "betweenness_centrality": 950.95731292517
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "e-learning",
+    "betweenness_centrality": 950.95731292517
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "role playing",
+    "betweenness_centrality": 949.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "POE strategy-based teaching",
+    "betweenness_centrality": 948.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "zoom",
+    "betweenness_centrality": 938.8747079448939
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "differentiated instruction",
+    "betweenness_centrality": 921.7157615518296
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "acquisition and reorganization of subjects",
+    "betweenness_centrality": 890.6150432900429
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Scale of Competencies Required by School Principals by Distance Education",
+    "betweenness_centrality": 884.0896865157547
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "discussion forum",
+    "betweenness_centrality": 883.9322755618664
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "program on technology leadership",
+    "betweenness_centrality": 880.8331727311135
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "printed material",
+    "betweenness_centrality": 877.373753785109
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "supporting service insufficiency",
+    "betweenness_centrality": 850.2349672757351
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "gamification",
+    "betweenness_centrality": 842.6743790026387
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "gamification",
+    "betweenness_centrality": 842.6743790026387
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "tablet",
+    "betweenness_centrality": 824.7052631578935
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "technological infrastructure",
+    "betweenness_centrality": 820.9440196078419
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technological infrastructure",
+    "betweenness_centrality": 820.9440196078419
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "eTwinning platform",
+    "betweenness_centrality": 813.0244704384032
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "hardware",
+    "betweenness_centrality": 809.4999999999985
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "question-answer technique",
+    "betweenness_centrality": 803.774597430684
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of peer education",
+    "betweenness_centrality": 801.5932773109232
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "different teaching methods and techniques",
+    "betweenness_centrality": 790.234583732519
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "program assessment",
+    "betweenness_centrality": 785.1971717171715
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "family participation",
+    "betweenness_centrality": 767.788620505335
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "family participation",
+    "betweenness_centrality": 767.788620505335
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Community of Inquiry framework",
+    "betweenness_centrality": 762.3644782633943
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Delphi technique",
+    "betweenness_centrality": 759.5774501630201
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "integration of technology",
+    "betweenness_centrality": 727.7158882862094
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "reading skill",
+    "betweenness_centrality": 667.117721090399
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "artificial intelligence-based distance education environment",
+    "betweenness_centrality": 638.9952159438606
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "digital platform",
+    "betweenness_centrality": 617.0059440801786
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "applied course",
+    "betweenness_centrality": 573.4688950324204
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Likert-type measurement tool",
+    "betweenness_centrality": 564.2305904306821
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "educational technology",
+    "betweenness_centrality": 559.4165330626138
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "educational technology",
+    "betweenness_centrality": 559.4165330626138
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "foreign language distance education curriculum",
+    "betweenness_centrality": 540.119999999999
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "education on technology use",
+    "betweenness_centrality": 534.132718990239
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "content development",
+    "betweenness_centrality": 526.8104034014204
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "content development",
+    "betweenness_centrality": 526.8104034014204
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "animation",
+    "betweenness_centrality": 522.2215873763872
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "training on emergency distance education technologies",
+    "betweenness_centrality": 520.4603207771956
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "virtual world",
+    "betweenness_centrality": 507.40870041466206
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "EBA TV",
+    "betweenness_centrality": 499.6969115704805
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "Ministry of National Education",
+    "betweenness_centrality": 493.1273791354992
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "improvement of technological infrastructure",
+    "betweenness_centrality": 492.5232533883894
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "periodic informative instant message",
+    "betweenness_centrality": 483.3941903324149
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "online distance education program",
+    "betweenness_centrality": 478.92112467818146
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online distance education program",
+    "betweenness_centrality": 478.92112467818146
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "applicability of distance education",
+    "betweenness_centrality": 477.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "applicability of distance education",
+    "betweenness_centrality": 477.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "bibliometric analysis",
+    "betweenness_centrality": 476.5
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "VOSviewer",
+    "betweenness_centrality": 476.5
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "keyword analysis",
+    "betweenness_centrality": 476.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "scientific mapping method",
+    "betweenness_centrality": 476.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "course development",
+    "betweenness_centrality": 476.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "faculty support",
+    "betweenness_centrality": 476.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "course development",
+    "betweenness_centrality": 476.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "faculty support",
+    "betweenness_centrality": 476.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "ARTIMAT",
+    "betweenness_centrality": 475.6016712235134
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "system improvement",
+    "betweenness_centrality": 475.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "teacher training",
+    "betweenness_centrality": 474.5
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "teacher training",
+    "betweenness_centrality": 474.5
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "search engine",
+    "betweenness_centrality": 474.33333333333337
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "adult education",
+    "betweenness_centrality": 474.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "European Standards and Guidelines",
+    "betweenness_centrality": 473.5
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "televised studying program",
+    "betweenness_centrality": 472.8888888888889
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "STEM activity",
+    "betweenness_centrality": 466.03611198479587
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technological literacy skill development",
+    "betweenness_centrality": 463.49320679320687
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "open education program",
+    "betweenness_centrality": 463.30239130197936
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "use of technology",
+    "betweenness_centrality": 457.6221971761638
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "course design",
+    "betweenness_centrality": 454.1167573167573
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "course design",
+    "betweenness_centrality": 454.1167573167573
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "resource increase in course preparation",
+    "betweenness_centrality": 435.0763906926839
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "simulation",
+    "betweenness_centrality": 434.034588450765
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "video support",
+    "betweenness_centrality": 428.65919476455525
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Content-Integrated Social Interaction System",
+    "betweenness_centrality": 428.2520259613283
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "science TV programme",
+    "betweenness_centrality": 428.1270259613283
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "guidance",
+    "betweenness_centrality": 427.1270259613283
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "education program rearrangement",
+    "betweenness_centrality": 427.1270259613283
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "parent support",
+    "betweenness_centrality": 426.3975284448427
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "instructional material",
+    "betweenness_centrality": 426.1270259613283
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "intervention process",
+    "betweenness_centrality": 421.261204258418
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "visual aid",
+    "betweenness_centrality": 410.66455061176475
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "child with autism spectrum disorder",
+    "betweenness_centrality": 397.6942902729116
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "demonstration method",
+    "betweenness_centrality": 397.6926338891425
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "course content",
+    "betweenness_centrality": 393.1189260991663
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "device support",
+    "betweenness_centrality": 389.401765842368
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "video conference program",
+    "betweenness_centrality": 375.3046798785581
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "case study",
+    "betweenness_centrality": 352.2673887960481
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Digital Literacy Scale",
+    "betweenness_centrality": 323.3769209090634
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "blended education model",
+    "betweenness_centrality": 304.8832607161095
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "visual communication design",
+    "betweenness_centrality": 303.5313749530436
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technological equipment",
+    "betweenness_centrality": 301.311990069878
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "technological equipment",
+    "betweenness_centrality": 301.311990069878
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online teaching",
+    "betweenness_centrality": 292.676809175859
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "measurement and evaluation tools and methods",
+    "betweenness_centrality": 288.24517211413
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "material and content development",
+    "betweenness_centrality": 286.71268666861806
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "material and content development",
+    "betweenness_centrality": 286.71268666861806
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "conceptual framework",
+    "betweenness_centrality": 284.2866882948722
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "scalable and applicable standards",
+    "betweenness_centrality": 284.2866882948722
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "information technology",
+    "betweenness_centrality": 283.676041328664
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "information technology",
+    "betweenness_centrality": 283.676041328664
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "internet-based application",
+    "betweenness_centrality": 282.53833897512493
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "WhatsApp",
+    "betweenness_centrality": 280.4719008241678
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Twitter",
+    "betweenness_centrality": 269.54301086404337
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technological resource",
+    "betweenness_centrality": 260.14723761500665
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "arduino activity",
+    "betweenness_centrality": 254.73348124098123
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "personal computer",
+    "betweenness_centrality": 252.25963512727225
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "curriculum implementation issue",
+    "betweenness_centrality": 235.58283441485997
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "platform",
+    "betweenness_centrality": 222.01045474186773
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "interactive e-content",
+    "betweenness_centrality": 221.63136066030953
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "videoconferencing system",
+    "betweenness_centrality": 218.3437880752011
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "professional training program",
+    "betweenness_centrality": 210.10856036949647
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "systemic problem",
+    "betweenness_centrality": 207.05506959516913
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "multi-media presentation",
+    "betweenness_centrality": 194.4254762144131
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "student motivation problem",
+    "betweenness_centrality": 192.76963626030127
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "instructional method",
+    "betweenness_centrality": 192.67127596613992
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Sense of Community Scale in Online Distance Education Environments",
+    "betweenness_centrality": 192.67127596613992
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "interactive learning scenario",
+    "betweenness_centrality": 187.01260516444347
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "security-enhanced online exam system",
+    "betweenness_centrality": 181.14571290740065
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "framing nudge strategy",
+    "betweenness_centrality": 172.43333333333334
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "Open Education System",
+    "betweenness_centrality": 171.949078583622
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Satisfaction Scale",
+    "betweenness_centrality": 171.22859362859361
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "psychologist support",
+    "betweenness_centrality": 171.0690927092523
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "motivating activity",
+    "betweenness_centrality": 171.0690927092523
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "increasing technological and pedagogical knowledge and experience",
+    "betweenness_centrality": 167.00976800976812
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online platform",
+    "betweenness_centrality": 166.52448281078733
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance education coordinator",
+    "betweenness_centrality": 164.5244828107875
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "material support",
+    "betweenness_centrality": 163.4343134327333
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "supportive material",
+    "betweenness_centrality": 163.4343134327333
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technological support",
+    "betweenness_centrality": 162.17823363070605
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "teaching material",
+    "betweenness_centrality": 161.60469424969924
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "teaching material",
+    "betweenness_centrality": 161.60469424969924
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "motivation strategy",
+    "betweenness_centrality": 161.3281296260673
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "support for communication",
+    "betweenness_centrality": 160.23734762076762
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online communication",
+    "betweenness_centrality": 160.23734762076762
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "professional seniority",
+    "betweenness_centrality": 156.80305194805197
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Attitude Scale towards Distance Education",
+    "betweenness_centrality": 152.727633194423
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "regulation to increase student participation",
+    "betweenness_centrality": 152.4939031850627
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "computer education",
+    "betweenness_centrality": 148.94397506465953
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "computer education",
+    "betweenness_centrality": 148.94397506465953
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "English learning material",
+    "betweenness_centrality": 147.46985098419793
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "evaluation inventory",
+    "betweenness_centrality": 146.490703104956
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "three-dimensional design application",
+    "betweenness_centrality": 141.12113195374218
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "equipment support",
+    "betweenness_centrality": 138.49161300667976
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of material",
+    "betweenness_centrality": 134.20497133230091
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Microsoft Teams",
+    "betweenness_centrality": 134.20497133230091
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "communication model",
+    "betweenness_centrality": 133.20702509155296
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "training on technology use",
+    "betweenness_centrality": 131.6471620906766
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "teaching material and content",
+    "betweenness_centrality": 116.65642416734475
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Perception Scale for Distance Education",
+    "betweenness_centrality": 116.01626106377992
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "educational comic",
+    "betweenness_centrality": 113.24605282400493
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "system-centered learning environment",
+    "betweenness_centrality": 109.44574928087529
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "teacher-centered learning environment",
+    "betweenness_centrality": 109.44574928087529
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "assistive technology",
+    "betweenness_centrality": 104.1557458404203
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "asynchronous learning system",
+    "betweenness_centrality": 104.13693424302038
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Education Administration System",
+    "betweenness_centrality": 100.93143976740929
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of financial support",
+    "betweenness_centrality": 100.87446859126428
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "assessment difficulty",
+    "betweenness_centrality": 98.11888888888886
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "assessment difficulty",
+    "betweenness_centrality": 98.11888888888886
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "ICT tool",
+    "betweenness_centrality": 97.39970333838326
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Self-Efficacy Perception Scale for Technology Integration",
+    "betweenness_centrality": 96.80625248448696
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "activity paper",
+    "betweenness_centrality": 94.89716816114901
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "internet-based distance learning system",
+    "betweenness_centrality": 93.41666666666667
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "scale to identify the problems experienced in the distance education process",
+    "betweenness_centrality": 89.2304374483783
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "multicultural education",
+    "betweenness_centrality": 81.97662337662338
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "educational computer game",
+    "betweenness_centrality": 64.35420066035005
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "learner autonomy",
+    "betweenness_centrality": 62.333333333333336
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "learner autonomy",
+    "betweenness_centrality": 62.333333333333336
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "photography education",
+    "betweenness_centrality": 53.37777777777778
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "activity to be carried out at home",
+    "betweenness_centrality": 50.4457144631325
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "training",
+    "betweenness_centrality": 49.5400314391264
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of experience",
+    "betweenness_centrality": 46.69928538061974
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "lesson study model",
+    "betweenness_centrality": 45.2026026604974
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "database supported web based course home page",
+    "betweenness_centrality": 37.97819786298046
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "school management system",
+    "betweenness_centrality": 33.13431568431568
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "feedback system",
+    "betweenness_centrality": 29.012465970790576
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "learner-assessment interaction",
+    "betweenness_centrality": 28.285397637315796
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "limited interaction",
+    "betweenness_centrality": 26.490607317729
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "internet access issue",
+    "betweenness_centrality": 26.38971481734639
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "social media",
+    "betweenness_centrality": 26.00039025302183
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "computer adaptive test",
+    "betweenness_centrality": 24.587936507936508
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "multiple choice question",
+    "betweenness_centrality": 20.93957708957709
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Anadolu University Call Center Services Associate Degree Program Evaluation Questionnaire",
+    "betweenness_centrality": 20.475511789797512
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Attitude Scale towards Distance Mathematics Education",
+    "betweenness_centrality": 20.422405226352595
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of quality standards",
+    "betweenness_centrality": 19.53586823804215
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "system approach",
+    "betweenness_centrality": 18.462338633233777
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "hardware and software component problem",
+    "betweenness_centrality": 18.33399968820057
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "infrastructure and accessibility problem",
+    "betweenness_centrality": 17.992923596870973
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "synchronous virtual classroom",
+    "betweenness_centrality": 17.895690652656597
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "learning strategy",
+    "betweenness_centrality": 17.796338672768876
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "learning strategy",
+    "betweenness_centrality": 17.796338672768876
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Microsoft Office application",
+    "betweenness_centrality": 17.779509379509378
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Distance Education Attitude Scale",
+    "betweenness_centrality": 16.659903268336432
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "course material",
+    "betweenness_centrality": 16.60719379124469
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "handicapped student",
+    "betweenness_centrality": 16.285714285714285
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "limited interest and attention",
+    "betweenness_centrality": 15.732710647269279
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "instructional design",
+    "betweenness_centrality": 15.727016506528697
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "experiment",
+    "betweenness_centrality": 15.062735027171879
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "collaboration",
+    "betweenness_centrality": 15.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "synchronous chat",
+    "betweenness_centrality": 14.94854987118145
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of accreditation standards",
+    "betweenness_centrality": 14.774960127591706
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "lesson assistance model",
+    "betweenness_centrality": 14.760413133289845
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "technostress",
+    "betweenness_centrality": 14.736221632773354
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "course design model",
+    "betweenness_centrality": 14.726129426129425
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "distance education center official",
+    "betweenness_centrality": 14.5
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "technical infrastructure problem",
+    "betweenness_centrality": 14.20295618247299
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Attitude Scale Towards Distance Education",
+    "betweenness_centrality": 13.331453823953824
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "seminar",
+    "betweenness_centrality": 13.189610389610388
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance self-training",
+    "betweenness_centrality": 13.142857142857142
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "3 Dakikada Türkçe web site",
+    "betweenness_centrality": 13.114285714285717
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "standard",
+    "betweenness_centrality": 12.94467587777084
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "formative assessment",
+    "betweenness_centrality": 12.823231216188788
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "open-ended question",
+    "betweenness_centrality": 12.628415328782774
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "artificial neural network",
+    "betweenness_centrality": 12.476470588235292
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "support service",
+    "betweenness_centrality": 12.363895669910708
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "support service",
+    "betweenness_centrality": 12.363895669910708
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "face-to-face instruction",
+    "betweenness_centrality": 12.028846153846153
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "technological problem",
+    "betweenness_centrality": 11.92822684561814
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technology",
+    "betweenness_centrality": 11.227254013493512
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "technology",
+    "betweenness_centrality": 11.227254013493512
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "homework",
+    "betweenness_centrality": 10.635714285714284
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of technical knowledge",
+    "betweenness_centrality": 10.613492063492064
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "telecollaborative exchange",
+    "betweenness_centrality": 10.5
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "EBA live lesson platform",
+    "betweenness_centrality": 10.061833185971118
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Educational Mobile Application Usage for Foreign Language of Children scale",
+    "betweenness_centrality": 10.042094017094017
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "entertaining lesson video",
+    "betweenness_centrality": 9.867016806722688
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "management model",
+    "betweenness_centrality": 9.644444444444444
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance education environment",
+    "betweenness_centrality": 9.281343885076074
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "web based learning scale",
+    "betweenness_centrality": 9.055555555555554
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Hammond program evaluation model",
+    "betweenness_centrality": 8.890476190476189
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of knowledge",
+    "betweenness_centrality": 8.301443001442998
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "discussion technique",
+    "betweenness_centrality": 8.094753151035848
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Attitude Scale of Physical Education Teachers towards their Profession",
+    "betweenness_centrality": 8.08695652173913
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of access to online education",
+    "betweenness_centrality": 8.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "elaboration theory",
+    "betweenness_centrality": 8.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technical infrastructure",
+    "betweenness_centrality": 7.923809523809524
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Social Presence Scale",
+    "betweenness_centrality": 7.8941903324151275
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "extracurricular activity",
+    "betweenness_centrality": 7.885714285714284
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Self-Efficacy Perception Scale for Online Technologies",
+    "betweenness_centrality": 7.724590888987173
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "systems approach",
+    "betweenness_centrality": 7.533333333333333
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "communication technology",
+    "betweenness_centrality": 7.5
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "covid-19 anxiety",
+    "betweenness_centrality": 7.249648290377568
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "covid-19 fear",
+    "betweenness_centrality": 7.249648290377568
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "blind learner",
+    "betweenness_centrality": 7.224050024050027
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "activity design framework",
+    "betweenness_centrality": 7.222222222222221
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "UbD",
+    "betweenness_centrality": 7.166666666666666
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Crisis Management Skills Scale of Primary School Principals",
+    "betweenness_centrality": 7.067967664519388
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "program evaluation questionnaire",
+    "betweenness_centrality": 7.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "evaluation criteria",
+    "betweenness_centrality": 6.943003226067742
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "open and distance learning support service",
+    "betweenness_centrality": 6.666666666666666
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "five stage model",
+    "betweenness_centrality": 6.6000000000000005
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "self-assessment",
+    "betweenness_centrality": 6.3942398816540695
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "television",
+    "betweenness_centrality": 6.297727272727273
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "television",
+    "betweenness_centrality": 6.297727272727273
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Personal Information Form",
+    "betweenness_centrality": 6.285714285714286
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "lecture video",
+    "betweenness_centrality": 6.198484848484847
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Perceived Self-Regulation Scale",
+    "betweenness_centrality": 6.12
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Distance Education Online program",
+    "betweenness_centrality": 6.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "individual with physical disability",
+    "betweenness_centrality": 6.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "active learning",
+    "betweenness_centrality": 5.934930153970634
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "active learning",
+    "betweenness_centrality": 5.934930153970634
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "student misbehavior in synchronous lessons",
+    "betweenness_centrality": 5.619114182554864
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "z-book",
+    "betweenness_centrality": 5.573113042871107
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "technology acceptance",
+    "betweenness_centrality": 5.533333333333333
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online assessment and evaluation",
+    "betweenness_centrality": 5.483726708074534
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "decision process",
+    "betweenness_centrality": 5.476190476190476
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "teaching strategy",
+    "betweenness_centrality": 5.145593869731801
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "e-learning environment",
+    "betweenness_centrality": 5.095238095238095
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "project",
+    "betweenness_centrality": 5.094753151035846
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "problem solving technique",
+    "betweenness_centrality": 5.094753151035846
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "ICAP framework",
+    "betweenness_centrality": 5.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Nearpod",
+    "betweenness_centrality": 5.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "employee",
+    "betweenness_centrality": 5.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "teacher-centered instruction",
+    "betweenness_centrality": 4.726717485413137
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "teacher-centered instruction",
+    "betweenness_centrality": 4.726717485413137
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "attitude survey",
+    "betweenness_centrality": 4.7117327117327115
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "scenario-based learning",
+    "betweenness_centrality": 4.485714285714286
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "central solution",
+    "betweenness_centrality": 4.361904761904762
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Simultaneous Virtual Classroom Acceptance Scale",
+    "betweenness_centrality": 4.32887965623657
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Instructional Management System Acceptance Scale",
+    "betweenness_centrality": 4.32887965623657
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technology support",
+    "betweenness_centrality": 4.32887965623657
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "family information and support education service",
+    "betweenness_centrality": 4.2
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of pedagogical knowledge",
+    "betweenness_centrality": 4.146825396825397
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "automated online course interaction level detection system",
+    "betweenness_centrality": 4.117647058823529
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "open and distance education",
+    "betweenness_centrality": 4.059523809523809
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Reference Framework of Competences for Democratic Culture",
+    "betweenness_centrality": 4.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "strategy implementation",
+    "betweenness_centrality": 4.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "tutoring",
+    "betweenness_centrality": 4.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Technological Pedagogical Content Knowledge Scale",
+    "betweenness_centrality": 4.0
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "family-related problem",
+    "betweenness_centrality": 3.9583333333333326
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Second Life",
+    "betweenness_centrality": 3.923809523809524
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "synchronous online lesson",
+    "betweenness_centrality": 3.8013772175536893
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "active dictionary",
+    "betweenness_centrality": 3.8001858435681957
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "flipped learning",
+    "betweenness_centrality": 3.723809523809524
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "administrative support",
+    "betweenness_centrality": 3.721739130434783
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "academic support",
+    "betweenness_centrality": 3.721739130434783
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "multimedia",
+    "betweenness_centrality": 3.6237510716234125
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "e-school",
+    "betweenness_centrality": 3.5952318678125126
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "lesson recording",
+    "betweenness_centrality": 3.5518207282913163
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "differentiated instruction strategy",
+    "betweenness_centrality": 3.50922190827314
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "student competency",
+    "betweenness_centrality": 3.333333333333333
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "direct instruction",
+    "betweenness_centrality": 3.3059113300492613
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "school facility",
+    "betweenness_centrality": 3.2992424242424243
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "interactive exercise",
+    "betweenness_centrality": 3.2666666666666666
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "open high school",
+    "betweenness_centrality": 3.142857142857143
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "open high school",
+    "betweenness_centrality": 3.142857142857143
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "EBA Platform",
+    "betweenness_centrality": 3.127946127946128
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "digital environment",
+    "betweenness_centrality": 3.125
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "digital environment",
+    "betweenness_centrality": 3.125
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "remote education tool",
+    "betweenness_centrality": 3.0825396825396822
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "strategic plan",
+    "betweenness_centrality": 3.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "guide preparation",
+    "betweenness_centrality": 3.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Pre-Services Teachers' Acceptance and Use of Technology Scale",
+    "betweenness_centrality": 3.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "small group study",
+    "betweenness_centrality": 2.6666666666666665
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "cooperative learning",
+    "betweenness_centrality": 2.6391495929982103
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Teacher Motivation Scale",
+    "betweenness_centrality": 2.625526107879049
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Classdojo",
+    "betweenness_centrality": 2.56315289648623
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "awareness campaign",
+    "betweenness_centrality": 2.5
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "authentic learning strategy",
+    "betweenness_centrality": 2.2857142857142856
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "educational guidance",
+    "betweenness_centrality": 2.2509803921568627
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "open learning system",
+    "betweenness_centrality": 2.142857142857143
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "mastery learning",
+    "betweenness_centrality": 2.0416666666666665
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "barrier to online learning",
+    "betweenness_centrality": 2.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "PLATFORM SEÇİMİ application",
+    "betweenness_centrality": 2.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "online student connectedness",
+    "betweenness_centrality": 2.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "program design",
+    "betweenness_centrality": 2.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "criteria development",
+    "betweenness_centrality": 2.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "information summative test",
+    "betweenness_centrality": 2.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "support for learner autonomy",
+    "betweenness_centrality": 2.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "system design",
+    "betweenness_centrality": 2.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "telephone",
+    "betweenness_centrality": 2.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "graphic tablet",
+    "betweenness_centrality": 2.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technology use in education",
+    "betweenness_centrality": 2.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "intense communication",
+    "betweenness_centrality": 2.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technology leadership",
+    "betweenness_centrality": 2.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "context-based learning approach",
+    "betweenness_centrality": 2.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "live lesson platform",
+    "betweenness_centrality": 2.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "audio narration",
+    "betweenness_centrality": 2.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "reflective diary",
+    "betweenness_centrality": 2.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "citizenship education",
+    "betweenness_centrality": 1.8969696969696965
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Distance Education Competencies Scale of Physical Education Teachers",
+    "betweenness_centrality": 1.8807932263814615
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "quality standards",
+    "betweenness_centrality": 1.8095238095238093
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "quality standards",
+    "betweenness_centrality": 1.8095238095238093
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "quality standards",
+    "betweenness_centrality": 1.8095238095238093
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "questionnaire form",
+    "betweenness_centrality": 1.7703081232492999
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "internet based adult training program",
+    "betweenness_centrality": 1.6666666666666665
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "audio-visual material",
+    "betweenness_centrality": 1.5700333979745746
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Readiness and Expectation Level for the E-Learning Process Scale",
+    "betweenness_centrality": 1.5
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "sustainability framework for open educational resources",
+    "betweenness_centrality": 1.4
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "distance learning negative effect on teaching reading",
+    "betweenness_centrality": 1.3808302808302808
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "spending too much time on technological devices",
+    "betweenness_centrality": 1.3428571428571427
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "audio recording",
+    "betweenness_centrality": 1.3333333333333333
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "limited course time",
+    "betweenness_centrality": 1.3333333333333333
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "cooperative performance task",
+    "betweenness_centrality": 1.3314927343935288
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "preparation and reflection activity",
+    "betweenness_centrality": 1.2857142857142856
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "social activity",
+    "betweenness_centrality": 1.25
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "social activity",
+    "betweenness_centrality": 1.25
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "role modeling",
+    "betweenness_centrality": 1.2
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "lesson video",
+    "betweenness_centrality": 1.1984848484848487
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "smart board",
+    "betweenness_centrality": 1.1936507936507939
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Motivation Scale",
+    "betweenness_centrality": 1.167576384967689
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "data collection tool",
+    "betweenness_centrality": 1.1295546558704452
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Padlet",
+    "betweenness_centrality": 1.1292824822236585
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Mersin University Distance Education Platform",
+    "betweenness_centrality": 1.1254901960784314
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "observation form",
+    "betweenness_centrality": 1.0384862884862884
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Internet Use Self-Efficacy Scale",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "document analysis",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technology-supported case-based activity",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "school culture",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Self-regulated Learning Skills Scale",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "reduced attendance",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "written and visual information",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "autonomous learning",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "blended mentoring program",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "accreditation",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "new communication technology",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "face-to-face in-service learning",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distanced in-service learning",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "3D OpenSim environment",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "community of inquiry",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "community of inquiry",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Social-Emotional Foreign Language Learning Scale",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of personal computer",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Satisfaction Scale for the E-Learning Process",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Learner Autonomy in Distance Education Questionnaire",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "co-learning",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "ecological art activity",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "approach that encourages healthy living and physical activity",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "document sharing",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "video sharing",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Inventory of Distance Education Standards",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distant in-service learning",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance learning multimedia teacher education program",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "database access",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "chatbot",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "computer mediated communication",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "product evaluation scale",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "process evaluation scale",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "academic consultation service",
+    "betweenness_centrality": 1.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "instructional technology",
+    "betweenness_centrality": 0.9196428571428571
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "instructional technology",
+    "betweenness_centrality": 0.9196428571428571
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "education technology",
+    "betweenness_centrality": 0.875
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "education technology",
+    "betweenness_centrality": 0.875
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "constant communication with student",
+    "betweenness_centrality": 0.8557476836888601
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of skill",
+    "betweenness_centrality": 0.8151515151515152
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "virtual classroom",
+    "betweenness_centrality": 0.7963386727688784
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "learning to teach implementation evaluation form",
+    "betweenness_centrality": 0.7936507936507936
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online assessment",
+    "betweenness_centrality": 0.7857142857142856
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "teaching method",
+    "betweenness_centrality": 0.75
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "teaching method",
+    "betweenness_centrality": 0.75
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "plan for crisis period",
+    "betweenness_centrality": 0.7428571428571428
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "additional study",
+    "betweenness_centrality": 0.7428571428571428
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "copyright concerns",
+    "betweenness_centrality": 0.7238214959145193
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "teacher education",
+    "betweenness_centrality": 0.6870748299319728
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "technology-oriented teaching preference",
+    "betweenness_centrality": 0.6857142857142857
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "vocational identity perception scale",
+    "betweenness_centrality": 0.6857142857142857
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "School culture scale",
+    "betweenness_centrality": 0.6857142857142857
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Technology Acceptance Measure for Teachers",
+    "betweenness_centrality": 0.6857142857142857
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "visual element",
+    "betweenness_centrality": 0.6666666666666666
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "motivation scale",
+    "betweenness_centrality": 0.6666666666666666
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance education training",
+    "betweenness_centrality": 0.6666666666666666
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "name": "open education high school",
+    "betweenness_centrality": 0.6357142857142857
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "open education high school",
+    "betweenness_centrality": 0.6357142857142857
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "registration service",
+    "betweenness_centrality": 0.6000000000000001
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "examination service",
+    "betweenness_centrality": 0.6000000000000001
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "counseling and communication service",
+    "betweenness_centrality": 0.6000000000000001
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "distance practicum",
+    "betweenness_centrality": 0.6000000000000001
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "social interaction",
+    "betweenness_centrality": 0.5714285714285714
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "web environment",
+    "betweenness_centrality": 0.5079365079365079
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "performance evaluation system",
+    "betweenness_centrality": 0.5
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Tinkercad",
+    "betweenness_centrality": 0.5
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "smartphone addiction",
+    "betweenness_centrality": 0.5
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "self-regulation",
+    "betweenness_centrality": 0.5
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "web enhanced mathematics instruction",
+    "betweenness_centrality": 0.5
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of technical equipment",
+    "betweenness_centrality": 0.49411764705882355
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of attendance",
+    "betweenness_centrality": 0.49411764705882355
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "teacher leadership",
+    "betweenness_centrality": 0.47619047619047616
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "industry 4.0",
+    "betweenness_centrality": 0.4
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "parental indifference",
+    "betweenness_centrality": 0.3666666666666667
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "preparation of technological material",
+    "betweenness_centrality": 0.34285714285714286
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Attitude Towards Distance Education Scale",
+    "betweenness_centrality": 0.3386243386243386
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "MyGrammarLab",
+    "betweenness_centrality": 0.3333333333333333
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "video conferencing tool",
+    "betweenness_centrality": 0.3333333333333333
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "radio",
+    "betweenness_centrality": 0.3333333333333333
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online mentoring program",
+    "betweenness_centrality": 0.3333333333333333
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "problem in the applied curriculum",
+    "betweenness_centrality": 0.3333333333333333
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "online lesson recording",
+    "betweenness_centrality": 0.3333333333333333
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "immediate feedback",
+    "betweenness_centrality": 0.31974921630094044
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of information technology tools",
+    "betweenness_centrality": 0.3151515151515152
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "pandemic period",
+    "betweenness_centrality": 0.27040816326530615
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "pandemic period",
+    "betweenness_centrality": 0.27040816326530615
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "attendance list",
+    "betweenness_centrality": 0.25098039215686274
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "hybrid education system",
+    "betweenness_centrality": 0.25
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "education program",
+    "betweenness_centrality": 0.25
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "hybrid education system",
+    "betweenness_centrality": 0.25
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Distance Education Scale",
+    "betweenness_centrality": 0.2
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "individual activity",
+    "betweenness_centrality": 0.2
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "drama",
+    "betweenness_centrality": 0.2
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "learning by doing",
+    "betweenness_centrality": 0.2
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "Digital Literacy Self-Efficacy Scale",
+    "betweenness_centrality": 0.18181818181818182
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "social justice",
+    "betweenness_centrality": 0.02040816326530612
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "name": "labor education",
+    "betweenness_centrality": 0.02040816326530612
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "name": "digital content",
+    "betweenness_centrality": 0.02040816326530612
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "lack of technological equipment",
+    "betweenness_centrality": 0.02040816326530612
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "name": "internet infrastructure problem",
+    "betweenness_centrality": 0.02040816326530612
+  }
+]

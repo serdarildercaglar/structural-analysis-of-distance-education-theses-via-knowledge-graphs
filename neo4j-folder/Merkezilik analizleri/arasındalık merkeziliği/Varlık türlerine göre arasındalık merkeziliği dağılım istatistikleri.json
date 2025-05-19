@@ -1,0 +1,34 @@
+﻿[
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "node_count": 469,
+    "avg_betweenness": 4094.2778494587783,
+    "min_betweenness": 0.0,
+    "max_betweenness": 697732.630625,
+    "stdev_betweenness": 33896.613366511396
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "node_count": 414,
+    "avg_betweenness": 2330.9657630027145,
+    "min_betweenness": 0.0,
+    "max_betweenness": 365110.1527725175,
+    "stdev_betweenness": 22092.63038608048
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "node_count": 1407,
+    "avg_betweenness": 1398.137458473406,
+    "min_betweenness": 0.0,
+    "max_betweenness": 697732.630625,
+    "stdev_betweenness": 19214.328923547695
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "node_count": 850,
+    "avg_betweenness": 779.0181866454435,
+    "min_betweenness": 0.0,
+    "max_betweenness": 61696.13620195766,
+    "stdev_betweenness": 4624.37758790874
+  }
+]

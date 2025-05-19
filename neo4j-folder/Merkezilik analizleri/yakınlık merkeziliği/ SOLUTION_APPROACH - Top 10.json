@@ -1,0 +1,52 @@
+﻿[
+  {
+    "name": "motivation scale",
+    "entity_type": "SOLUTION_APPROACH",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "Microsoft Teams",
+    "entity_type": "SOLUTION_APPROACH",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "open-ended question",
+    "entity_type": "SOLUTION_APPROACH",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "task-based assessment",
+    "entity_type": "SOLUTION_APPROACH",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "hybrid education model",
+    "entity_type": "SOLUTION_APPROACH",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "distance education model proposal",
+    "entity_type": "SOLUTION_APPROACH",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "analysis and foresight",
+    "entity_type": "SOLUTION_APPROACH",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "cultural distance scale",
+    "entity_type": "SOLUTION_APPROACH",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "patience",
+    "entity_type": "SOLUTION_APPROACH",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "reflective diary",
+    "entity_type": "SOLUTION_APPROACH",
+    "closeness_centrality": 1.0
+  }
+]

@@ -1,0 +1,52 @@
+﻿[
+  {
+    "name": "attitude towards distance education",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 13.0
+  },
+  {
+    "name": "digital literacy",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 9.0
+  },
+  {
+    "name": "infrastructure and technical support",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 7.0
+  },
+  {
+    "name": "technological inadequacy",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 5.0
+  },
+  {
+    "name": "internet connectivity issue",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 5.0
+  },
+  {
+    "name": "academic achievement",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 5.0
+  },
+  {
+    "name": "face-to-face education impossibility",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 5.0
+  },
+  {
+    "name": "unreliable measurement and evaluation",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 4.0
+  },
+  {
+    "name": "lack of interaction",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 4.0
+  },
+  {
+    "name": "student attitude",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 4.0
+  }
+]

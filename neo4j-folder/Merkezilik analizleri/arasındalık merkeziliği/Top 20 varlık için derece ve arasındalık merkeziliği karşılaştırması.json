@@ -1,0 +1,142 @@
+﻿[
+  {
+    "name": "distance education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 572.0,
+    "betweenness_centrality": 697732.630625,
+    "betweenness_per_degree": 1219.8122913024476
+  },
+  {
+    "name": "distance education",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 572.0,
+    "betweenness_centrality": 697732.630625,
+    "betweenness_per_degree": 1219.8122913024476
+  },
+  {
+    "name": "student",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 487.0,
+    "betweenness_centrality": 365110.1527725175,
+    "betweenness_per_degree": 749.7128393686191
+  },
+  {
+    "name": "teacher",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 346.0,
+    "betweenness_centrality": 252847.64213206063,
+    "betweenness_per_degree": 730.7735321735856
+  },
+  {
+    "name": "Turkish language learning",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 2.0,
+    "betweenness_centrality": 134145.74332908963,
+    "betweenness_per_degree": 67072.87166454481
+  },
+  {
+    "name": "massive open online course",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 18.0,
+    "betweenness_centrality": 100944.02583489822,
+    "betweenness_per_degree": 5608.001435272123
+  },
+  {
+    "name": "massive open online course",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 18.0,
+    "betweenness_centrality": 100944.02583489822,
+    "betweenness_per_degree": 5608.001435272123
+  },
+  {
+    "name": "effectiveness of online education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 4.0,
+    "betweenness_centrality": 96013.95453160214,
+    "betweenness_per_degree": 24003.488632900535
+  },
+  {
+    "name": "web-based use education",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 4.0,
+    "betweenness_centrality": 87485.20499782733,
+    "betweenness_per_degree": 21871.301249456832
+  },
+  {
+    "name": "academic achievement",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 5.0,
+    "betweenness_centrality": 61696.136201957655,
+    "betweenness_per_degree": 12339.22724039153
+  },
+  {
+    "name": "academic achievement",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 5.0,
+    "betweenness_centrality": 61696.136201957655,
+    "betweenness_per_degree": 12339.22724039153
+  },
+  {
+    "name": "transactional distance",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 3.0,
+    "betweenness_centrality": 56705.580041306865,
+    "betweenness_per_degree": 18901.860013768954
+  },
+  {
+    "name": "semi-structured interview form",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 27.0,
+    "betweenness_centrality": 54652.42891366963,
+    "betweenness_per_degree": 2024.164033839616
+  },
+  {
+    "name": "questionnaire",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 28.0,
+    "betweenness_centrality": 53331.07215935433,
+    "betweenness_per_degree": 1904.6811485483688
+  },
+  {
+    "name": "student autonomy",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 3.0,
+    "betweenness_centrality": 46408.495057319065,
+    "betweenness_per_degree": 15469.498352439688
+  },
+  {
+    "name": "student participation problem",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 2.0,
+    "betweenness_centrality": 46316.33018482685,
+    "betweenness_per_degree": 23158.165092413426
+  },
+  {
+    "name": "attitude towards distance education",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 13.0,
+    "betweenness_centrality": 44229.34449449078,
+    "betweenness_per_degree": 3402.257268806983
+  },
+  {
+    "name": "attitude towards distance education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 13.0,
+    "betweenness_centrality": 44229.34449449078,
+    "betweenness_per_degree": 3402.257268806983
+  },
+  {
+    "name": "instructor",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 76.0,
+    "betweenness_centrality": 39202.74692220152,
+    "betweenness_per_degree": 515.8256173973884
+  },
+  {
+    "name": "technology integration in education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 27.0,
+    "betweenness_centrality": 38263.94067606275,
+    "betweenness_per_degree": 1417.1829880023242
+  }
+]

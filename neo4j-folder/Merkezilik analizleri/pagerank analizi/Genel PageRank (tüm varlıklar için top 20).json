@@ -1,0 +1,102 @@
+﻿[
+  {
+    "name": "distance education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 18.596022364742225
+  },
+  {
+    "name": "distance education",
+    "entity_type": "SOLUTION_APPROACH",
+    "pagerank_score": 18.596022364742225
+  },
+  {
+    "name": "student autonomy",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 9.87179207861687
+  },
+  {
+    "name": "academic achievement",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 5.748961311144132
+  },
+  {
+    "name": "academic achievement",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "pagerank_score": 5.748961311144132
+  },
+  {
+    "name": "student motivation",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "pagerank_score": 5.4590624111617965
+  },
+  {
+    "name": "student motivation",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 5.4590624111617965
+  },
+  {
+    "name": "student achievement",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 4.057241611287906
+  },
+  {
+    "name": "student achievement",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "pagerank_score": 4.057241611287906
+  },
+  {
+    "name": "student motivation problem",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "pagerank_score": 3.622868817286202
+  },
+  {
+    "name": "transactional distance",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "pagerank_score": 3.4590020439076574
+  },
+  {
+    "name": "effectiveness of online education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 3.4020359758924283
+  },
+  {
+    "name": "student participation",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 3.3025314569337856
+  },
+  {
+    "name": "attitude towards distance education",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "pagerank_score": 3.2721578879933784
+  },
+  {
+    "name": "attitude towards distance education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 3.2721578879933784
+  },
+  {
+    "name": "mathematics education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 3.0956131876271598
+  },
+  {
+    "name": "student satisfaction",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "pagerank_score": 3.0741715260950344
+  },
+  {
+    "name": "student satisfaction",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 3.0741715260950344
+  },
+  {
+    "name": "technology integration in education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "pagerank_score": 2.978062476292467
+  },
+  {
+    "name": "technology integration in education",
+    "entity_type": "SOLUTION_APPROACH",
+    "pagerank_score": 2.9780624762924663
+  }
+]

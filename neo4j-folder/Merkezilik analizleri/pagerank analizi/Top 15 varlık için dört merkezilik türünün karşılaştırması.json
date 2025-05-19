@@ -1,0 +1,122 @@
+﻿[
+  {
+    "name": "distance education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 572.0,
+    "betweenness_centrality": 697732.630625,
+    "closeness_centrality": 0.38186923385479343,
+    "pagerank_score": 18.596022364742225
+  },
+  {
+    "name": "distance education",
+    "entity_type": "SOLUTION_APPROACH",
+    "degree_centrality": 572.0,
+    "betweenness_centrality": 697732.630625,
+    "closeness_centrality": 0.38186923385479343,
+    "pagerank_score": 18.596022364742225
+  },
+  {
+    "name": "student autonomy",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 3.0,
+    "betweenness_centrality": 46408.495057319065,
+    "closeness_centrality": 0.30454254638515676,
+    "pagerank_score": 9.87179207861687
+  },
+  {
+    "name": "academic achievement",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 5.0,
+    "betweenness_centrality": 61696.13620195766,
+    "closeness_centrality": 0.34643377001455605,
+    "pagerank_score": 5.748961311144131
+  },
+  {
+    "name": "academic achievement",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 5.0,
+    "betweenness_centrality": 61696.13620195766,
+    "closeness_centrality": 0.34643377001455605,
+    "pagerank_score": 5.748961311144131
+  },
+  {
+    "name": "student motivation",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 1.0,
+    "betweenness_centrality": 20408.014442940268,
+    "closeness_centrality": 0.3174391463821274,
+    "pagerank_score": 5.4590624111617965
+  },
+  {
+    "name": "student motivation",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 1.0,
+    "betweenness_centrality": 20408.014442940268,
+    "closeness_centrality": 0.3174391463821274,
+    "pagerank_score": 5.4590624111617965
+  },
+  {
+    "name": "student achievement",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 0.0,
+    "betweenness_centrality": 0.0,
+    "closeness_centrality": 0.30855365474339036,
+    "pagerank_score": 4.057241611287906
+  },
+  {
+    "name": "student achievement",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 0.0,
+    "betweenness_centrality": 0.0,
+    "closeness_centrality": 0.30855365474339036,
+    "pagerank_score": 4.057241611287906
+  },
+  {
+    "name": "student motivation problem",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 2.0,
+    "betweenness_centrality": 192.76963626030127,
+    "closeness_centrality": 0.3031055900621118,
+    "pagerank_score": 3.622868817286203
+  },
+  {
+    "name": "transactional distance",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 3.0,
+    "betweenness_centrality": 56705.580041306865,
+    "closeness_centrality": 0.24180848361696725,
+    "pagerank_score": 3.459002043907658
+  },
+  {
+    "name": "effectiveness of online education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 4.0,
+    "betweenness_centrality": 96013.95453160214,
+    "closeness_centrality": 0.3019346653980336,
+    "pagerank_score": 3.4020359758924283
+  },
+  {
+    "name": "student participation",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 2.0,
+    "betweenness_centrality": 21132.118880396647,
+    "closeness_centrality": 0.30493273542600896,
+    "pagerank_score": 3.302531456933785
+  },
+  {
+    "name": "attitude towards distance education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "degree_centrality": 13.0,
+    "betweenness_centrality": 44229.34449449078,
+    "closeness_centrality": 0.2970358814352574,
+    "pagerank_score": 3.2721578879933784
+  },
+  {
+    "name": "attitude towards distance education",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "degree_centrality": 13.0,
+    "betweenness_centrality": 44229.34449449078,
+    "closeness_centrality": 0.2970358814352574,
+    "pagerank_score": 3.2721578879933784
+  }
+]

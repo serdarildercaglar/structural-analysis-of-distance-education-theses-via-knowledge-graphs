@@ -1,0 +1,26 @@
+﻿[
+  {
+    "entity_type": "STAKEHOLDER",
+    "thesis_count": 703,
+    "total_occurrences": 2679,
+    "avg_per_thesis": 3.810810810810811
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "thesis_count": 703,
+    "total_occurrences": 2355,
+    "avg_per_thesis": 3.3499288762446655
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "thesis_count": 703,
+    "total_occurrences": 2789,
+    "avg_per_thesis": 3.9672830725462305
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "thesis_count": 703,
+    "total_occurrences": 2666,
+    "avg_per_thesis": 3.7923186344238977
+  }
+]

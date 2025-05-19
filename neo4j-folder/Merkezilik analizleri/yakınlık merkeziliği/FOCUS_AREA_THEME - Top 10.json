@@ -1,0 +1,52 @@
+﻿[
+  {
+    "name": "instructor readiness",
+    "entity_type": "FOCUS_AREA_THEME",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "human rights education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "industry 4.0",
+    "entity_type": "FOCUS_AREA_THEME",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "professional happiness",
+    "entity_type": "FOCUS_AREA_THEME",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "teaching and learning conception",
+    "entity_type": "FOCUS_AREA_THEME",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "visual arts education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "photography education",
+    "entity_type": "FOCUS_AREA_THEME",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "hybrid education system",
+    "entity_type": "FOCUS_AREA_THEME",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "school administrator opinion",
+    "entity_type": "FOCUS_AREA_THEME",
+    "closeness_centrality": 1.0
+  },
+  {
+    "name": "attitude towards environment",
+    "entity_type": "FOCUS_AREA_THEME",
+    "closeness_centrality": 1.0
+  }
+]

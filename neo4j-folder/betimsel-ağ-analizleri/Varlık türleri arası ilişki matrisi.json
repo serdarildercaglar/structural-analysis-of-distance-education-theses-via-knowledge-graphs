@@ -1,0 +1,212 @@
+﻿[
+  {
+    "source_type": "STAKEHOLDER",
+    "relation_type": "FACES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 1488,
+    "total_weight": 1847
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "ADDRESSES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 1218,
+    "total_weight": 1280
+  },
+  {
+    "source_type": "STAKEHOLDER",
+    "relation_type": "USES",
+    "target_type": "SOLUTION_APPROACH",
+    "frequency": 1172,
+    "total_weight": 1319
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "ENHANCES",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 884,
+    "total_weight": 948
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "REQUIRES",
+    "target_type": "SOLUTION_APPROACH",
+    "frequency": 391,
+    "total_weight": 521
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "REQUIRES",
+    "target_type": "SOLUTION_APPROACH",
+    "frequency": 365,
+    "total_weight": 494
+  },
+  {
+    "source_type": "STAKEHOLDER",
+    "relation_type": "EXAMINES",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 320,
+    "total_weight": 1370
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "ENHANCES",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 303,
+    "total_weight": 349
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "ENHANCES",
+    "target_type": "SOLUTION_APPROACH",
+    "frequency": 280,
+    "total_weight": 313
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "ENHANCES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 198,
+    "total_weight": 207
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "REQUIRES",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 194,
+    "total_weight": 305
+  },
+  {
+    "source_type": "STAKEHOLDER",
+    "relation_type": "USES",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 175,
+    "total_weight": 239
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "ADDRESSES",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 170,
+    "total_weight": 198
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "REQUIRES",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 169,
+    "total_weight": 281
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "ADDRESSES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 148,
+    "total_weight": 160
+  },
+  {
+    "source_type": "PROBLEM_CHALLENGE",
+    "relation_type": "HINDERS",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 121,
+    "total_weight": 133
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "HINDERS",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 112,
+    "total_weight": 138
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "HINDERS",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 87,
+    "total_weight": 113
+  },
+  {
+    "source_type": "STAKEHOLDER",
+    "relation_type": "FACES",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 86,
+    "total_weight": 113
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "ENHANCES",
+    "target_type": "SOLUTION_APPROACH",
+    "frequency": 72,
+    "total_weight": 92
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "ENHANCES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 69,
+    "total_weight": 74
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "FACES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 65,
+    "total_weight": 70
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "REQUIRES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 50,
+    "total_weight": 81
+  },
+  {
+    "source_type": "PROBLEM_CHALLENGE",
+    "relation_type": "HINDERS",
+    "target_type": "SOLUTION_APPROACH",
+    "frequency": 49,
+    "total_weight": 60
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "REQUIRES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 48,
+    "total_weight": 79
+  },
+  {
+    "source_type": "STAKEHOLDER",
+    "relation_type": "EXAMINES",
+    "target_type": "SOLUTION_APPROACH",
+    "frequency": 48,
+    "total_weight": 532
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "USES",
+    "target_type": "SOLUTION_APPROACH",
+    "frequency": 41,
+    "total_weight": 42
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "ENHANCES",
+    "target_type": "STAKEHOLDER",
+    "frequency": 41,
+    "total_weight": 43
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "FACES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 38,
+    "total_weight": 38
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "HINDERS",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 37,
+    "total_weight": 50
+  }
+]

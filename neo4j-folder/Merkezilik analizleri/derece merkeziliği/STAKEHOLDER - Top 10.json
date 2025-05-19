@@ -1,0 +1,52 @@
+﻿[
+  {
+    "name": "student",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 487.0
+  },
+  {
+    "name": "thesis",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 399.0
+  },
+  {
+    "name": "teacher",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 346.0
+  },
+  {
+    "name": "classroom teacher",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 100.0
+  },
+  {
+    "name": "science teacher",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 100.0
+  },
+  {
+    "name": "parent",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 86.0
+  },
+  {
+    "name": "secondary school student",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 76.0
+  },
+  {
+    "name": "instructor",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 76.0
+  },
+  {
+    "name": "primary school teacher",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 73.0
+  },
+  {
+    "name": "faculty member",
+    "entity_type": "STAKEHOLDER",
+    "degree_centrality": 68.0
+  }
+]
