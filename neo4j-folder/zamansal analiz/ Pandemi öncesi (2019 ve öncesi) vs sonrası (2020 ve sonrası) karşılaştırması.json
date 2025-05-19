@@ -1,0 +1,58 @@
+﻿[
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "period": "Pandemic",
+    "unique_entities": 284,
+    "total_frequency": 1741,
+    "avg_frequency_per_entity": 6.130281690140843
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "period": "Pre-pandemic",
+    "unique_entities": 309,
+    "total_frequency": 925,
+    "avg_frequency_per_entity": 2.993527508090613
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "period": "Pandemic",
+    "unique_entities": 584,
+    "total_frequency": 1692,
+    "avg_frequency_per_entity": 2.897260273972605
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "period": "Pre-pandemic",
+    "unique_entities": 423,
+    "total_frequency": 663,
+    "avg_frequency_per_entity": 1.5673758865248224
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "period": "Pandemic",
+    "unique_entities": 910,
+    "total_frequency": 1882,
+    "avg_frequency_per_entity": 2.0681318681318657
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "period": "Pre-pandemic",
+    "unique_entities": 645,
+    "total_frequency": 907,
+    "avg_frequency_per_entity": 1.4062015503875966
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "period": "Pandemic",
+    "unique_entities": 253,
+    "total_frequency": 1782,
+    "avg_frequency_per_entity": 7.043478260869566
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "period": "Pre-pandemic",
+    "unique_entities": 249,
+    "total_frequency": 897,
+    "avg_frequency_per_entity": 3.6024096385542177
+  }
+]

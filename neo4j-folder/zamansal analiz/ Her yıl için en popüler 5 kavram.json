@@ -1,0 +1,812 @@
+﻿[
+  {
+    "year": 1997,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 2,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "open high school student",
+        "frequency": 2,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "tutoring",
+        "frequency": 1,
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "face-to-face education",
+        "frequency": 1,
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "difficulty in pacing delivery",
+        "frequency": 1,
+        "type": "PROBLEM_CHALLENGE"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "top_entities_info": [
+      {
+        "name": "inadequate education program",
+        "frequency": 1,
+        "type": "PROBLEM_CHALLENGE"
+      },
+      {
+        "name": "Turkish Telecommunication Company",
+        "frequency": 1,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "Post Administration",
+        "frequency": 1,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "staff",
+        "frequency": 1,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "management",
+        "frequency": 1,
+        "type": "STAKEHOLDER"
+      }
+    ]
+  },
+  {
+    "year": 2000,
+    "top_entities_info": [
+      {
+        "name": "lack of quality standards",
+        "frequency": 1,
+        "type": "PROBLEM_CHALLENGE"
+      },
+      {
+        "name": "questionnaire form",
+        "frequency": 1,
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "difficulty in adaptation to distance education",
+        "frequency": 1,
+        "type": "PROBLEM_CHALLENGE"
+      },
+      {
+        "name": "need for improvement of the system",
+        "frequency": 1,
+        "type": "PROBLEM_CHALLENGE"
+      },
+      {
+        "name": "thesis",
+        "frequency": 1,
+        "type": "STAKEHOLDER"
+      }
+    ]
+  },
+  {
+    "year": 2001,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 4,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "student",
+        "frequency": 2,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "lack of textbook in open basic education",
+        "frequency": 2,
+        "type": "PROBLEM_CHALLENGE"
+      },
+      {
+        "name": "researcher",
+        "frequency": 2,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "government",
+        "frequency": 1,
+        "type": "STAKEHOLDER"
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 11,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "student",
+        "frequency": 6,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "teacher",
+        "frequency": 3,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "questionnaire",
+        "frequency": 2,
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "difficulty in course content",
+        "frequency": 2,
+        "type": "PROBLEM_CHALLENGE"
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 10,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "student",
+        "frequency": 8,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "Likert scale survey",
+        "frequency": 3,
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "internet",
+        "frequency": 2,
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "internet based education",
+        "frequency": 2,
+        "type": "SOLUTION_APPROACH"
+      }
+    ]
+  },
+  {
+    "year": 2004,
+    "top_entities_info": [
+      {
+        "name": "difficulty in achieving course efficiency",
+        "frequency": 1,
+        "type": "PROBLEM_CHALLENGE"
+      },
+      {
+        "name": "university student",
+        "frequency": 1,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "thesis",
+        "frequency": 1,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "elaboration theory",
+        "frequency": 1,
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "web-based distance education system",
+        "frequency": 1,
+        "type": "SOLUTION_APPROACH"
+      }
+    ]
+  },
+  {
+    "year": 2006,
+    "top_entities_info": [
+      {
+        "name": "independent autistic children education centre",
+        "frequency": 1,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "parent education program",
+        "frequency": 1,
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "handbook",
+        "frequency": 1,
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "video recording",
+        "frequency": 1,
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "thesis",
+        "frequency": 1,
+        "type": "STAKEHOLDER"
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 5,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "student",
+        "frequency": 2,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "Ministry of National Education",
+        "frequency": 2,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "difficulty in computer use skill",
+        "frequency": 2,
+        "type": "PROBLEM_CHALLENGE"
+      },
+      {
+        "name": "in-service training",
+        "frequency": 2,
+        "type": "SOLUTION_APPROACH"
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 6,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "student",
+        "frequency": 2,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "teacher",
+        "frequency": 2,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "website",
+        "frequency": 1,
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "student motivation problem",
+        "frequency": 1,
+        "type": "PROBLEM_CHALLENGE"
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 7,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "student",
+        "frequency": 2,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "university",
+        "frequency": 2,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "learning management system",
+        "frequency": 2,
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "educational institution",
+        "frequency": 2,
+        "type": "STAKEHOLDER"
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 17,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "student",
+        "frequency": 8,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education",
+        "frequency": 7,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "teacher",
+        "frequency": 4,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "technology integration in education",
+        "frequency": 3,
+        "type": "FOCUS_AREA_THEME"
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 14,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education",
+        "frequency": 13,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "frequency": 8,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "student opinion",
+        "frequency": 3,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "academic achievement",
+        "frequency": 3,
+        "type": "FOCUS_AREA_THEME"
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 13,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "student",
+        "frequency": 6,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education",
+        "frequency": 6,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "online learning environment",
+        "frequency": 4,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "forum",
+        "frequency": 2,
+        "type": "SOLUTION_APPROACH"
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 9,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education",
+        "frequency": 7,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "frequency": 3,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "lack of quality standards",
+        "frequency": 2,
+        "type": "PROBLEM_CHALLENGE"
+      },
+      {
+        "name": "social presence",
+        "frequency": 2,
+        "type": "FOCUS_AREA_THEME"
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 24,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education",
+        "frequency": 19,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "frequency": 11,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "expert",
+        "frequency": 5,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "teacher",
+        "frequency": 4,
+        "type": "STAKEHOLDER"
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 19,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education",
+        "frequency": 10,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "frequency": 9,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "faculty member",
+        "frequency": 3,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "technology integration in education",
+        "frequency": 3,
+        "type": "FOCUS_AREA_THEME"
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 16,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education",
+        "frequency": 13,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "frequency": 6,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "academic achievement",
+        "frequency": 4,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "technology integration in education",
+        "frequency": 3,
+        "type": "FOCUS_AREA_THEME"
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 24,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education",
+        "frequency": 17,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "frequency": 12,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "teacher",
+        "frequency": 6,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "online learning environment",
+        "frequency": 4,
+        "type": "FOCUS_AREA_THEME"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 19,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education",
+        "frequency": 15,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "frequency": 7,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "instructor",
+        "frequency": 4,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "academic achievement",
+        "frequency": 4,
+        "type": "FOCUS_AREA_THEME"
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 30,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education",
+        "frequency": 18,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "frequency": 7,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "open and distance learning",
+        "frequency": 6,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "digital transformation",
+        "frequency": 4,
+        "type": "FOCUS_AREA_THEME"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 24,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education",
+        "frequency": 16,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "frequency": 11,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "teacher",
+        "frequency": 8,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education",
+        "frequency": 4,
+        "type": "SOLUTION_APPROACH"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 152,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education",
+        "frequency": 126,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "frequency": 60,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "teacher",
+        "frequency": 35,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "parent",
+        "frequency": 26,
+        "type": "STAKEHOLDER"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 194,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education",
+        "frequency": 159,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "frequency": 84,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "teacher",
+        "frequency": 46,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "parent",
+        "frequency": 37,
+        "type": "STAKEHOLDER"
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 87,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education",
+        "frequency": 83,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "frequency": 52,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "teacher",
+        "frequency": 32,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "semi-structured interview form",
+        "frequency": 26,
+        "type": "SOLUTION_APPROACH"
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "top_entities_info": [
+      {
+        "name": "thesis",
+        "frequency": 10,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education",
+        "frequency": 9,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "frequency": 6,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "teacher",
+        "frequency": 4,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "semi-structured interview form",
+        "frequency": 3,
+        "type": "SOLUTION_APPROACH"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "top_entities_info": [
+      {
+        "name": "distance education",
+        "frequency": 2,
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "thesis",
+        "frequency": 2,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "student",
+        "frequency": 1,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "higher education institution",
+        "frequency": 1,
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education center official",
+        "frequency": 1,
+        "type": "STAKEHOLDER"
+      }
+    ]
+  }
+]

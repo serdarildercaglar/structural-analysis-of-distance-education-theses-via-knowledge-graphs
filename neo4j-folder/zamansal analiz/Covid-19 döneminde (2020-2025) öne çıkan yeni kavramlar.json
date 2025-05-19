@@ -1,0 +1,212 @@
+﻿[
+  {
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "thesis",
+    "pre_covid": 234,
+    "covid_era": 469,
+    "covid_impact_ratio": 2.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "distance education",
+    "pre_covid": 163,
+    "covid_era": 395,
+    "covid_impact_ratio": 2.42
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "student",
+    "pre_covid": 100,
+    "covid_era": 214,
+    "covid_impact_ratio": 2.14
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "teacher",
+    "pre_covid": 35,
+    "covid_era": 125,
+    "covid_impact_ratio": 3.57
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "parent",
+    "pre_covid": 6,
+    "covid_era": 76,
+    "covid_impact_ratio": 12.67
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "semi-structured interview form",
+    "pre_covid": 3,
+    "covid_era": 66,
+    "covid_impact_ratio": 22.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "distance education",
+    "pre_covid": 5,
+    "covid_era": 62,
+    "covid_impact_ratio": 12.4
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "Ministry of National Education",
+    "pre_covid": 12,
+    "covid_era": 57,
+    "covid_impact_ratio": 4.75
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "teacher opinion",
+    "pre_covid": 4,
+    "covid_era": 53,
+    "covid_impact_ratio": 13.25
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "student motivation problem",
+    "pre_covid": 9,
+    "covid_era": 44,
+    "covid_impact_ratio": 4.89
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student motivation",
+    "pre_covid": 5,
+    "covid_era": 42,
+    "covid_impact_ratio": 8.4
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "attitude towards distance education",
+    "pre_covid": 4,
+    "covid_era": 40,
+    "covid_impact_ratio": 10.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "teacher attitude",
+    "pre_covid": 2,
+    "covid_era": 40,
+    "covid_impact_ratio": 20.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student participation",
+    "pre_covid": 5,
+    "covid_era": 37,
+    "covid_impact_ratio": 7.4
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "face-to-face education",
+    "pre_covid": 7,
+    "covid_era": 36,
+    "covid_impact_ratio": 5.14
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "technology integration in education",
+    "pre_covid": 19,
+    "covid_era": 34,
+    "covid_impact_ratio": 1.79
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "science education",
+    "pre_covid": 6,
+    "covid_era": 33,
+    "covid_impact_ratio": 5.5
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "teaching and learning",
+    "pre_covid": 8,
+    "covid_era": 32,
+    "covid_impact_ratio": 4.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "academic achievement",
+    "pre_covid": 29,
+    "covid_era": 31,
+    "covid_impact_ratio": 1.07
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "semi-structured interview",
+    "pre_covid": 8,
+    "covid_era": 31,
+    "covid_impact_ratio": 3.88
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "student participation problem",
+    "pre_covid": 4,
+    "covid_era": 28,
+    "covid_impact_ratio": 7.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "classroom teacher",
+    "pre_covid": 1,
+    "covid_era": 27,
+    "covid_impact_ratio": 27.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "language education",
+    "pre_covid": 2,
+    "covid_era": 26,
+    "covid_impact_ratio": 13.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "higher education",
+    "pre_covid": 17,
+    "covid_era": 26,
+    "covid_impact_ratio": 1.53
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "instructor",
+    "pre_covid": 16,
+    "covid_era": 25,
+    "covid_impact_ratio": 1.56
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "technical problem",
+    "pre_covid": 4,
+    "covid_era": 25,
+    "covid_impact_ratio": 6.25
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "inequality of opportunity",
+    "pre_covid": 1,
+    "covid_era": 25,
+    "covid_impact_ratio": 25.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student opinion",
+    "pre_covid": 15,
+    "covid_era": 25,
+    "covid_impact_ratio": 1.67
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "questionnaire",
+    "pre_covid": 18,
+    "covid_era": 25,
+    "covid_impact_ratio": 1.39
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "secondary school student",
+    "pre_covid": 1,
+    "covid_era": 24,
+    "covid_impact_ratio": 24.0
+  }
+]

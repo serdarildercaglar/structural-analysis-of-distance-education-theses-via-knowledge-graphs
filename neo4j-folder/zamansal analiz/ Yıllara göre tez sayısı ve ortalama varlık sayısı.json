@@ -1,0 +1,164 @@
+﻿[
+  {
+    "year": 1997,
+    "thesis_count": 2,
+    "total_entities": 33,
+    "avg_entities_per_thesis": 16.5
+  },
+  {
+    "year": 1999,
+    "thesis_count": 1,
+    "total_entities": 13,
+    "avg_entities_per_thesis": 13.0
+  },
+  {
+    "year": 2000,
+    "thesis_count": 1,
+    "total_entities": 16,
+    "avg_entities_per_thesis": 16.0
+  },
+  {
+    "year": 2001,
+    "thesis_count": 4,
+    "total_entities": 67,
+    "avg_entities_per_thesis": 16.75
+  },
+  {
+    "year": 2002,
+    "thesis_count": 11,
+    "total_entities": 158,
+    "avg_entities_per_thesis": 14.36
+  },
+  {
+    "year": 2003,
+    "thesis_count": 10,
+    "total_entities": 127,
+    "avg_entities_per_thesis": 12.7
+  },
+  {
+    "year": 2004,
+    "thesis_count": 1,
+    "total_entities": 9,
+    "avg_entities_per_thesis": 9.0
+  },
+  {
+    "year": 2006,
+    "thesis_count": 1,
+    "total_entities": 13,
+    "avg_entities_per_thesis": 13.0
+  },
+  {
+    "year": 2007,
+    "thesis_count": 5,
+    "total_entities": 68,
+    "avg_entities_per_thesis": 13.6
+  },
+  {
+    "year": 2008,
+    "thesis_count": 6,
+    "total_entities": 63,
+    "avg_entities_per_thesis": 10.5
+  },
+  {
+    "year": 2009,
+    "thesis_count": 7,
+    "total_entities": 99,
+    "avg_entities_per_thesis": 14.14
+  },
+  {
+    "year": 2010,
+    "thesis_count": 17,
+    "total_entities": 217,
+    "avg_entities_per_thesis": 12.76
+  },
+  {
+    "year": 2011,
+    "thesis_count": 14,
+    "total_entities": 222,
+    "avg_entities_per_thesis": 15.86
+  },
+  {
+    "year": 2012,
+    "thesis_count": 13,
+    "total_entities": 180,
+    "avg_entities_per_thesis": 13.85
+  },
+  {
+    "year": 2013,
+    "thesis_count": 9,
+    "total_entities": 139,
+    "avg_entities_per_thesis": 15.44
+  },
+  {
+    "year": 2014,
+    "thesis_count": 24,
+    "total_entities": 357,
+    "avg_entities_per_thesis": 14.88
+  },
+  {
+    "year": 2015,
+    "thesis_count": 19,
+    "total_entities": 296,
+    "avg_entities_per_thesis": 15.58
+  },
+  {
+    "year": 2016,
+    "thesis_count": 16,
+    "total_entities": 215,
+    "avg_entities_per_thesis": 13.44
+  },
+  {
+    "year": 2017,
+    "thesis_count": 24,
+    "total_entities": 381,
+    "avg_entities_per_thesis": 15.88
+  },
+  {
+    "year": 2018,
+    "thesis_count": 19,
+    "total_entities": 294,
+    "avg_entities_per_thesis": 15.47
+  },
+  {
+    "year": 2019,
+    "thesis_count": 30,
+    "total_entities": 425,
+    "avg_entities_per_thesis": 14.17
+  },
+  {
+    "year": 2020,
+    "thesis_count": 24,
+    "total_entities": 382,
+    "avg_entities_per_thesis": 15.92
+  },
+  {
+    "year": 2021,
+    "thesis_count": 152,
+    "total_entities": 2426,
+    "avg_entities_per_thesis": 15.96
+  },
+  {
+    "year": 2022,
+    "thesis_count": 194,
+    "total_entities": 2861,
+    "avg_entities_per_thesis": 14.75
+  },
+  {
+    "year": 2023,
+    "thesis_count": 87,
+    "total_entities": 1264,
+    "avg_entities_per_thesis": 14.53
+  },
+  {
+    "year": 2024,
+    "thesis_count": 10,
+    "total_entities": 127,
+    "avg_entities_per_thesis": 12.7
+  },
+  {
+    "year": 2025,
+    "thesis_count": 2,
+    "total_entities": 37,
+    "avg_entities_per_thesis": 18.5
+  }
+]

@@ -1,0 +1,1802 @@
+﻿[
+  {
+    "period": "1997-2005",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "thesis",
+    "frequency": 30
+  },
+  {
+    "period": "1997-2005",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "distance education",
+    "frequency": 24
+  },
+  {
+    "period": "1997-2005",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "student",
+    "frequency": 17
+  },
+  {
+    "period": "1997-2005",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "online education",
+    "frequency": 10
+  },
+  {
+    "period": "1997-2005",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "teacher",
+    "frequency": 6
+  },
+  {
+    "period": "1997-2005",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "internet",
+    "frequency": 5
+  },
+  {
+    "period": "1997-2005",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "academic achievement",
+    "frequency": 4
+  },
+  {
+    "period": "1997-2005",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "Sakarya University",
+    "frequency": 3
+  },
+  {
+    "period": "1997-2005",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in adaptation to distance education",
+    "frequency": 3
+  },
+  {
+    "period": "1997-2005",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "Likert scale survey",
+    "frequency": 3
+  },
+  {
+    "period": "1997-2005",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "questionnaire",
+    "frequency": 3
+  },
+  {
+    "period": "1997-2005",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "questionnaire form",
+    "frequency": 3
+  },
+  {
+    "period": "1997-2005",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "internet based education",
+    "frequency": 3
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "thesis",
+    "frequency": 36
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "distance education",
+    "frequency": 21
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "student",
+    "frequency": 14
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "teacher",
+    "frequency": 7
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "online education",
+    "frequency": 6
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "Ministry of National Education",
+    "frequency": 5
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in computer use skill",
+    "frequency": 5
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "technology integration in education",
+    "frequency": 5
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "information and communication technology",
+    "frequency": 4
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "questionnaire",
+    "frequency": 4
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student opinion",
+    "frequency": 4
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "learning management system",
+    "frequency": 4
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in designing course content",
+    "frequency": 3
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "teacher opinion",
+    "frequency": 3
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "course design",
+    "frequency": 3
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "online learning environment",
+    "frequency": 3
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "in-service training",
+    "frequency": 3
+  },
+  {
+    "period": "2006-2010",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "Anadolu University",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "thesis",
+    "frequency": 79
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "distance education",
+    "frequency": 55
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "student",
+    "frequency": 37
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "academic achievement",
+    "frequency": 13
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "teacher",
+    "frequency": 10
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "expert",
+    "frequency": 9
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "higher education",
+    "frequency": 8
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "learning management system",
+    "frequency": 7
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student achievement",
+    "frequency": 7
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "questionnaire",
+    "frequency": 6
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "online course",
+    "frequency": 6
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student opinion",
+    "frequency": 6
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "web-based distance education",
+    "frequency": 6
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in adaptation to distance education",
+    "frequency": 5
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "English language learning",
+    "frequency": 5
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "higher education institution",
+    "frequency": 5
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "interaction",
+    "frequency": 5
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "online learning environment",
+    "frequency": 5
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "technology integration in education",
+    "frequency": 5
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "attitude towards lesson",
+    "frequency": 5
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "motivation",
+    "frequency": 5
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "distance education student",
+    "frequency": 5
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "Ministry of National Education",
+    "frequency": 4
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "assessment and evaluation",
+    "frequency": 4
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "faculty member",
+    "frequency": 4
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "accreditation",
+    "frequency": 4
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "scale",
+    "frequency": 4
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "course permanence",
+    "frequency": 4
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "Karadeniz Technical University",
+    "frequency": 4
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "distance education center",
+    "frequency": 4
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "program evaluation",
+    "frequency": 4
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "foreign language learning",
+    "frequency": 4
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student satisfaction",
+    "frequency": 4
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "teaching staff",
+    "frequency": 4
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "semi-structured interview",
+    "frequency": 4
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "instructor",
+    "frequency": 4
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in achieving course efficiency",
+    "frequency": 4
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in communication",
+    "frequency": 4
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "teaching and learning",
+    "frequency": 4
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "traditional teaching method",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "computer-mediated communication",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "Sakarya University",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "semi-structured interview form",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "faculty member opinion",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "diary",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "lack of accreditation standards",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "open education system",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "animation",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "Moodle",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "lack of quality standards",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "researcher",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in assessment and evaluation",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "distance education program",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "web-based distance education program",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "student attitude",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "accreditation criteria",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "Delphi technique",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "interview",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "in-service training",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "administrator",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "university",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "feedback",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "distance education expert",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "technical problem",
+    "frequency": 3
+  },
+  {
+    "period": "2011-2015",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "student achievement",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "thesis",
+    "frequency": 89
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "distance education",
+    "frequency": 63
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "student",
+    "frequency": 32
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "open and distance learning",
+    "frequency": 13
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "teacher",
+    "frequency": 12
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "online learning environment",
+    "frequency": 12
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "academic achievement",
+    "frequency": 12
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "instructor",
+    "frequency": 10
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "distance education student",
+    "frequency": 9
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "higher education institution",
+    "frequency": 8
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "university",
+    "frequency": 8
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "Anadolu University Open Education System",
+    "frequency": 8
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "higher education",
+    "frequency": 7
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "motivation",
+    "frequency": 7
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "technology integration in education",
+    "frequency": 7
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "open and distance learning institution",
+    "frequency": 7
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "expert",
+    "frequency": 7
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "educational institution",
+    "frequency": 6
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "student motivation problem",
+    "frequency": 6
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "online education",
+    "frequency": 6
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student satisfaction",
+    "frequency": 6
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "learning management system",
+    "frequency": 5
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "open education system",
+    "frequency": 5
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "questionnaire",
+    "frequency": 5
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student engagement",
+    "frequency": 5
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "massive open online course",
+    "frequency": 5
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "learner",
+    "frequency": 5
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "undergraduate student",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "sense of community",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "faculty member",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "English language learning",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student opinion",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "professional development",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "semi-structured interview",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "systemic problem",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "online learning environment",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "student participation problem",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "open and distance learner",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in course design",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student motivation",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "education system",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "distance education management",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student achievement",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "Anadolu University",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "digital transformation",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in adaptation to distance education",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "transactional distance",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "attitude towards distance education",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student participation",
+    "frequency": 4
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "perception of transactional distance",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "course design",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "public education center",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in using technology for educational purposes",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "need for improvement of the system",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "problem in the distance education process",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "student satisfaction problem",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "field expert",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "mobile learning",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "lack of interaction",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "cost issue",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "Gazi University",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "attitude towards distance education",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "face-to-face education",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "English language instructor",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in predicting academic achievement",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in applying teaching method in distance education",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "administrator",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "researcher",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "focus group discussion",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "assessment and evaluation",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "lecturer",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "Sakarya University",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in participation",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "survey",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "parent",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "distance education technology",
+    "frequency": 3
+  },
+  {
+    "period": "2016-2019",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "Personal Information Form",
+    "frequency": 3
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "thesis",
+    "frequency": 469
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "distance education",
+    "frequency": 395
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "student",
+    "frequency": 214
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "teacher",
+    "frequency": 125
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "parent",
+    "frequency": 76
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "semi-structured interview form",
+    "frequency": 66
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "distance education",
+    "frequency": 62
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "Ministry of National Education",
+    "frequency": 57
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "teacher opinion",
+    "frequency": 53
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "student motivation problem",
+    "frequency": 44
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student motivation",
+    "frequency": 42
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "attitude towards distance education",
+    "frequency": 40
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "teacher attitude",
+    "frequency": 40
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student participation",
+    "frequency": 37
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "face-to-face education",
+    "frequency": 36
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "technology integration in education",
+    "frequency": 34
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "science education",
+    "frequency": 33
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "teaching and learning",
+    "frequency": 32
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "academic achievement",
+    "frequency": 31
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "semi-structured interview",
+    "frequency": 31
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "student participation problem",
+    "frequency": 28
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "classroom teacher",
+    "frequency": 27
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "language education",
+    "frequency": 26
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "higher education",
+    "frequency": 26
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student opinion",
+    "frequency": 25
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "technical problem",
+    "frequency": 25
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "questionnaire",
+    "frequency": 25
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "inequality of opportunity",
+    "frequency": 25
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "instructor",
+    "frequency": 25
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "primary school",
+    "frequency": 24
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "mathematics education",
+    "frequency": 24
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student attitude",
+    "frequency": 24
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "secondary school student",
+    "frequency": 24
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "Google Form",
+    "frequency": 23
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "public school",
+    "frequency": 23
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "internet connectivity issue",
+    "frequency": 22
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "lack of interaction",
+    "frequency": 22
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "inefficient education",
+    "frequency": 21
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "professional development",
+    "frequency": 21
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in adaptation to change",
+    "frequency": 21
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "in-service training",
+    "frequency": 20
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "primary school teacher",
+    "frequency": 20
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in the distance education process",
+    "frequency": 20
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "Zoom",
+    "frequency": 20
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in classroom management",
+    "frequency": 20
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "researcher",
+    "frequency": 20
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "school administrator",
+    "frequency": 19
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "secondary school",
+    "frequency": 19
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "science teacher",
+    "frequency": 19
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "assessment difficulty",
+    "frequency": 18
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "classroom management",
+    "frequency": 17
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "negative attitude towards distance education",
+    "frequency": 17
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "expert",
+    "frequency": 17
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "problems experienced in the distance education process",
+    "frequency": 17
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "Personal Information Form",
+    "frequency": 17
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "Attitude Scale towards Distance Education",
+    "frequency": 16
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "private school",
+    "frequency": 16
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "parent experience",
+    "frequency": 16
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student experience",
+    "frequency": 16
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "teacher perception",
+    "frequency": 16
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "attitude towards distance education",
+    "frequency": 16
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "emergency transition to distance education",
+    "frequency": 15
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "technological inadequacy",
+    "frequency": 15
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "digital competency",
+    "frequency": 15
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "infrastructure and accessibility problem",
+    "frequency": 14
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "face-to-face education impossibility",
+    "frequency": 14
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "state university",
+    "frequency": 14
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "writing skill",
+    "frequency": 14
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "pandemic period",
+    "frequency": 13
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "in-service training program",
+    "frequency": 13
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "live course",
+    "frequency": 13
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "Distance Education Attitude Scale",
+    "frequency": 13
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "lack of interaction in lessons",
+    "frequency": 13
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in gaining practice proficiency",
+    "frequency": 13
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "Anadolu University",
+    "frequency": 13
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "communication and interaction problem",
+    "frequency": 13
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "personal information form",
+    "frequency": 13
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "online learning",
+    "frequency": 12
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "lack of preparedness for emergency transition",
+    "frequency": 12
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "Turkish language learning",
+    "frequency": 12
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "EBA",
+    "frequency": 12
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "emergency remote education",
+    "frequency": 12
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "Education Information Network",
+    "frequency": 12
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "open and distance learning",
+    "frequency": 12
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "primary school student",
+    "frequency": 12
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "school",
+    "frequency": 12
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student interaction",
+    "frequency": 12
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "lack of internet infrastructure",
+    "frequency": 11
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "reading skill",
+    "frequency": 11
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "lack of motivation",
+    "frequency": 11
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "emergency remote education",
+    "frequency": 11
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "social studies education",
+    "frequency": 11
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "learning management system",
+    "frequency": 11
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "English language learning",
+    "frequency": 11
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "equality of opportunity",
+    "frequency": 11
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "lack of technological infrastructure",
+    "frequency": 11
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student perception",
+    "frequency": 11
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "English teacher",
+    "frequency": 11
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "educational institution",
+    "frequency": 11
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student learning",
+    "frequency": 11
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "infrastructure and technical support",
+    "frequency": 11
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "distance education negative effect on teaching and learning",
+    "frequency": 11
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "access issue",
+    "frequency": 10
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "lack of student participation",
+    "frequency": 10
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "middle school student",
+    "frequency": 10
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "field expert",
+    "frequency": 10
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "educational technology",
+    "frequency": 10
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "academic staff",
+    "frequency": 10
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "online education",
+    "frequency": 10
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "teacher motivation",
+    "frequency": 10
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "focus group discussion",
+    "frequency": 10
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "lack of experience",
+    "frequency": 10
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "foundation university",
+    "frequency": 10
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "preschool teacher",
+    "frequency": 10
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "hybrid education model",
+    "frequency": 9
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "difficulty in the development of writing skill",
+    "frequency": 9
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "course satisfaction",
+    "frequency": 9
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "private primary school",
+    "frequency": 9
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "support service implementation",
+    "frequency": 9
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "pre-service teacher",
+    "frequency": 9
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "equipment and environment inadequacy",
+    "frequency": 9
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "systemic problem",
+    "frequency": 9
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "feedback",
+    "frequency": 9
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "information and communication technology",
+    "frequency": 9
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "unreliable measurement and evaluation",
+    "frequency": 9
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "pre-school education",
+    "frequency": 9
+  },
+  {
+    "period": "2020-2025",
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "child",
+    "frequency": 9
+  }
+]

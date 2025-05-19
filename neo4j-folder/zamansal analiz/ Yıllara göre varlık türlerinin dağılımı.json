@@ -1,0 +1,542 @@
+﻿[
+  {
+    "year": 1997,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 7
+  },
+  {
+    "year": 1997,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 10
+  },
+  {
+    "year": 1997,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 9
+  },
+  {
+    "year": 1997,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 7
+  },
+  {
+    "year": 1999,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 3
+  },
+  {
+    "year": 1999,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 2
+  },
+  {
+    "year": 1999,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 2
+  },
+  {
+    "year": 1999,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 6
+  },
+  {
+    "year": 2000,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 4
+  },
+  {
+    "year": 2000,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 3
+  },
+  {
+    "year": 2000,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 4
+  },
+  {
+    "year": 2000,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 5
+  },
+  {
+    "year": 2001,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 11
+  },
+  {
+    "year": 2001,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 9
+  },
+  {
+    "year": 2001,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 25
+  },
+  {
+    "year": 2001,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 22
+  },
+  {
+    "year": 2002,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 45
+  },
+  {
+    "year": 2002,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 33
+  },
+  {
+    "year": 2002,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 47
+  },
+  {
+    "year": 2002,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 33
+  },
+  {
+    "year": 2003,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 37
+  },
+  {
+    "year": 2003,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 27
+  },
+  {
+    "year": 2003,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 27
+  },
+  {
+    "year": 2003,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 36
+  },
+  {
+    "year": 2004,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 3
+  },
+  {
+    "year": 2004,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 1
+  },
+  {
+    "year": 2004,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 2
+  },
+  {
+    "year": 2004,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 3
+  },
+  {
+    "year": 2006,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 4
+  },
+  {
+    "year": 2006,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 1
+  },
+  {
+    "year": 2006,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 5
+  },
+  {
+    "year": 2006,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 3
+  },
+  {
+    "year": 2007,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 19
+  },
+  {
+    "year": 2007,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 14
+  },
+  {
+    "year": 2007,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 18
+  },
+  {
+    "year": 2007,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 17
+  },
+  {
+    "year": 2008,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 18
+  },
+  {
+    "year": 2008,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 10
+  },
+  {
+    "year": 2008,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 16
+  },
+  {
+    "year": 2008,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 19
+  },
+  {
+    "year": 2009,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 32
+  },
+  {
+    "year": 2009,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 21
+  },
+  {
+    "year": 2009,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 20
+  },
+  {
+    "year": 2009,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 26
+  },
+  {
+    "year": 2010,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 63
+  },
+  {
+    "year": 2010,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 41
+  },
+  {
+    "year": 2010,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 60
+  },
+  {
+    "year": 2010,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 53
+  },
+  {
+    "year": 2011,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 64
+  },
+  {
+    "year": 2011,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 42
+  },
+  {
+    "year": 2011,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 60
+  },
+  {
+    "year": 2011,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 56
+  },
+  {
+    "year": 2012,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 48
+  },
+  {
+    "year": 2012,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 31
+  },
+  {
+    "year": 2012,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 53
+  },
+  {
+    "year": 2012,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 48
+  },
+  {
+    "year": 2013,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 39
+  },
+  {
+    "year": 2013,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 24
+  },
+  {
+    "year": 2013,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 42
+  },
+  {
+    "year": 2013,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 34
+  },
+  {
+    "year": 2014,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 94
+  },
+  {
+    "year": 2014,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 56
+  },
+  {
+    "year": 2014,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 116
+  },
+  {
+    "year": 2014,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 91
+  },
+  {
+    "year": 2015,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 84
+  },
+  {
+    "year": 2015,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 65
+  },
+  {
+    "year": 2015,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 77
+  },
+  {
+    "year": 2015,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 70
+  },
+  {
+    "year": 2016,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 60
+  },
+  {
+    "year": 2016,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 33
+  },
+  {
+    "year": 2016,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 59
+  },
+  {
+    "year": 2016,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 63
+  },
+  {
+    "year": 2017,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 96
+  },
+  {
+    "year": 2017,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 90
+  },
+  {
+    "year": 2017,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 82
+  },
+  {
+    "year": 2017,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 113
+  },
+  {
+    "year": 2018,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 80
+  },
+  {
+    "year": 2018,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 59
+  },
+  {
+    "year": 2018,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 80
+  },
+  {
+    "year": 2018,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 75
+  },
+  {
+    "year": 2019,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 114
+  },
+  {
+    "year": 2019,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 91
+  },
+  {
+    "year": 2019,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 103
+  },
+  {
+    "year": 2019,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 117
+  },
+  {
+    "year": 2020,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 96
+  },
+  {
+    "year": 2020,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 97
+  },
+  {
+    "year": 2020,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 91
+  },
+  {
+    "year": 2020,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 98
+  },
+  {
+    "year": 2021,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 643
+  },
+  {
+    "year": 2021,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 528
+  },
+  {
+    "year": 2021,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 672
+  },
+  {
+    "year": 2021,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 583
+  },
+  {
+    "year": 2022,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 688
+  },
+  {
+    "year": 2022,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 683
+  },
+  {
+    "year": 2022,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 752
+  },
+  {
+    "year": 2022,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 738
+  },
+  {
+    "year": 2023,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 279
+  },
+  {
+    "year": 2023,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 338
+  },
+  {
+    "year": 2023,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 327
+  },
+  {
+    "year": 2023,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 320
+  },
+  {
+    "year": 2024,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 28
+  },
+  {
+    "year": 2024,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 38
+  },
+  {
+    "year": 2024,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 28
+  },
+  {
+    "year": 2024,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 33
+  },
+  {
+    "year": 2025,
+    "entity_type": "FOCUS_AREA_THEME",
+    "frequency": 7
+  },
+  {
+    "year": 2025,
+    "entity_type": "PROBLEM_CHALLENGE",
+    "frequency": 8
+  },
+  {
+    "year": 2025,
+    "entity_type": "SOLUTION_APPROACH",
+    "frequency": 12
+  },
+  {
+    "year": 2025,
+    "entity_type": "STAKEHOLDER",
+    "frequency": 10
+  }
+]

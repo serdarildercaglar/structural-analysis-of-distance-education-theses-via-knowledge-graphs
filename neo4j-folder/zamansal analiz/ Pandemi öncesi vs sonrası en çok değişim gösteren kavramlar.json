@@ -1,0 +1,162 @@
+﻿[
+  {
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "classroom teacher",
+    "pre_pandemic": 1,
+    "pandemic": 27,
+    "absolute_change": 26,
+    "growth_ratio": 27.0
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "inequality of opportunity",
+    "pre_pandemic": 1,
+    "pandemic": 25,
+    "absolute_change": 24,
+    "growth_ratio": 25.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "secondary school student",
+    "pre_pandemic": 1,
+    "pandemic": 24,
+    "absolute_change": 23,
+    "growth_ratio": 24.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "Google Form",
+    "pre_pandemic": 1,
+    "pandemic": 23,
+    "absolute_change": 22,
+    "growth_ratio": 23.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "semi-structured interview form",
+    "pre_pandemic": 3,
+    "pandemic": 66,
+    "absolute_change": 63,
+    "growth_ratio": 22.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "teacher attitude",
+    "pre_pandemic": 2,
+    "pandemic": 40,
+    "absolute_change": 38,
+    "growth_ratio": 20.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "science teacher",
+    "pre_pandemic": 1,
+    "pandemic": 19,
+    "absolute_change": 18,
+    "growth_ratio": 19.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "private school",
+    "pre_pandemic": 1,
+    "pandemic": 16,
+    "absolute_change": 15,
+    "growth_ratio": 16.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "digital competency",
+    "pre_pandemic": 1,
+    "pandemic": 15,
+    "absolute_change": 14,
+    "growth_ratio": 15.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "writing skill",
+    "pre_pandemic": 1,
+    "pandemic": 14,
+    "absolute_change": 13,
+    "growth_ratio": 14.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "teacher opinion",
+    "pre_pandemic": 4,
+    "pandemic": 53,
+    "absolute_change": 49,
+    "growth_ratio": 13.25
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "communication and interaction problem",
+    "pre_pandemic": 1,
+    "pandemic": 13,
+    "absolute_change": 12,
+    "growth_ratio": 13.0
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "lack of interaction in lessons",
+    "pre_pandemic": 1,
+    "pandemic": 13,
+    "absolute_change": 12,
+    "growth_ratio": 13.0
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "in-service training program",
+    "pre_pandemic": 1,
+    "pandemic": 13,
+    "absolute_change": 12,
+    "growth_ratio": 13.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "language education",
+    "pre_pandemic": 2,
+    "pandemic": 26,
+    "absolute_change": 24,
+    "growth_ratio": 13.0
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "parent",
+    "pre_pandemic": 6,
+    "pandemic": 76,
+    "absolute_change": 70,
+    "growth_ratio": 12.666666666666666
+  },
+  {
+    "entity_type": "SOLUTION_APPROACH",
+    "entity_name": "distance education",
+    "pre_pandemic": 5,
+    "pandemic": 62,
+    "absolute_change": 57,
+    "growth_ratio": 12.4
+  },
+  {
+    "entity_type": "STAKEHOLDER",
+    "entity_name": "primary school student",
+    "pre_pandemic": 1,
+    "pandemic": 12,
+    "absolute_change": 11,
+    "growth_ratio": 12.0
+  },
+  {
+    "entity_type": "FOCUS_AREA_THEME",
+    "entity_name": "student learning",
+    "pre_pandemic": 1,
+    "pandemic": 11,
+    "absolute_change": 10,
+    "growth_ratio": 11.0
+  },
+  {
+    "entity_type": "PROBLEM_CHALLENGE",
+    "entity_name": "inefficient education",
+    "pre_pandemic": 2,
+    "pandemic": 21,
+    "absolute_change": 19,
+    "growth_ratio": 10.5
+  }
+]
