@@ -1,0 +1,72 @@
+﻿[
+  {
+    "community_id": 2066,
+    "community_size": 10,
+    "internal_edges": 12,
+    "density": 0.26666666666666666,
+    "avg_degree_internal": 1
+  },
+  {
+    "community_id": 765,
+    "community_size": 10,
+    "internal_edges": 11,
+    "density": 0.24444444444444444,
+    "avg_degree_internal": 1
+  },
+  {
+    "community_id": 735,
+    "community_size": 10,
+    "internal_edges": 9,
+    "density": 0.2,
+    "avg_degree_internal": 0
+  },
+  {
+    "community_id": 236,
+    "community_size": 15,
+    "internal_edges": 20,
+    "density": 0.19047619047619047,
+    "avg_degree_internal": 1
+  },
+  {
+    "community_id": 974,
+    "community_size": 11,
+    "internal_edges": 10,
+    "density": 0.18181818181818182,
+    "avg_degree_internal": 0
+  },
+  {
+    "community_id": 1863,
+    "community_size": 10,
+    "internal_edges": 8,
+    "density": 0.17777777777777778,
+    "avg_degree_internal": 0
+  },
+  {
+    "community_id": 2574,
+    "community_size": 19,
+    "internal_edges": 24,
+    "density": 0.14035087719298245,
+    "avg_degree_internal": 1
+  },
+  {
+    "community_id": 852,
+    "community_size": 24,
+    "internal_edges": 35,
+    "density": 0.12681159420289856,
+    "avg_degree_internal": 1
+  },
+  {
+    "community_id": 2828,
+    "community_size": 19,
+    "internal_edges": 21,
+    "density": 0.12280701754385964,
+    "avg_degree_internal": 1
+  },
+  {
+    "community_id": 1967,
+    "community_size": 20,
+    "internal_edges": 23,
+    "density": 0.12105263157894737,
+    "avg_degree_internal": 1
+  }
+]

@@ -1,0 +1,83 @@
+﻿[
+  {
+    "relation_type": "ENHANCES",
+    "count": 1955,
+    "total_weight": 2143,
+    "avg_weight": 1.0961636828644532,
+    "min_weight": 1,
+    "max_weight": 5,
+    "stdev_weight": 0.4133897789317269
+  },
+  {
+    "relation_type": "FACES",
+    "count": 1702,
+    "total_weight": 2099,
+    "avg_weight": 1.2332549941245565,
+    "min_weight": 1,
+    "max_weight": 24,
+    "stdev_weight": 0.8936373720329917
+  },
+  {
+    "relation_type": "ADDRESSES",
+    "count": 1606,
+    "total_weight": 1715,
+    "avg_weight": 1.0678704856787065,
+    "min_weight": 1,
+    "max_weight": 9,
+    "stdev_weight": 0.4306064093679958
+  },
+  {
+    "relation_type": "USES",
+    "count": 1473,
+    "total_weight": 1689,
+    "avg_weight": 1.1466395112016303,
+    "min_weight": 1,
+    "max_weight": 8,
+    "stdev_weight": 0.651256032257618
+  },
+  {
+    "relation_type": "REQUIRES",
+    "count": 1293,
+    "total_weight": 1853,
+    "avg_weight": 1.4331013147718485,
+    "min_weight": 1,
+    "max_weight": 13,
+    "stdev_weight": 1.3017799388057931
+  },
+  {
+    "relation_type": "HINDERS",
+    "count": 480,
+    "total_weight": 582,
+    "avg_weight": 1.212499999999999,
+    "min_weight": 1,
+    "max_weight": 4,
+    "stdev_weight": 0.5857119216089276
+  },
+  {
+    "relation_type": "EXAMINES",
+    "count": 404,
+    "total_weight": 2110,
+    "avg_weight": 5.222772277227724,
+    "min_weight": 1,
+    "max_weight": 364,
+    "stdev_weight": 25.929755773609426
+  },
+  {
+    "relation_type": "INTER_COMMUNITY",
+    "count": 19,
+    "total_weight": 2845,
+    "avg_weight": 149.73684210526315,
+    "min_weight": 51,
+    "max_weight": 385,
+    "stdev_weight": 96.01726818376831
+  },
+  {
+    "relation_type": "CONNECTED",
+    "count": 19,
+    "total_weight": 2845,
+    "avg_weight": 149.73684210526315,
+    "min_weight": 51,
+    "max_weight": 385,
+    "stdev_weight": 96.01726818376831
+  }
+]

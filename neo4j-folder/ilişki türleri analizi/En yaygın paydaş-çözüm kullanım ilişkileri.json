@@ -1,0 +1,122 @@
+﻿[
+  {
+    "stakeholder": "student",
+    "solution": "learning management system",
+    "frequency": 8,
+    "thesis_count": 8
+  },
+  {
+    "stakeholder": "student",
+    "solution": "online learning environment",
+    "frequency": 8,
+    "thesis_count": 8
+  },
+  {
+    "stakeholder": "student",
+    "solution": "distance education",
+    "frequency": 7,
+    "thesis_count": 7
+  },
+  {
+    "stakeholder": "teacher",
+    "solution": "distance education",
+    "frequency": 7,
+    "thesis_count": 7
+  },
+  {
+    "stakeholder": "teacher",
+    "solution": "in-service training",
+    "frequency": 6,
+    "thesis_count": 6
+  },
+  {
+    "stakeholder": "teacher",
+    "solution": "educational information network",
+    "frequency": 5,
+    "thesis_count": 5
+  },
+  {
+    "stakeholder": "teacher",
+    "solution": "Attitude Scale towards Distance Education",
+    "frequency": 5,
+    "thesis_count": 5
+  },
+  {
+    "stakeholder": "teacher",
+    "solution": "Distance Education Attitude Scale",
+    "frequency": 5,
+    "thesis_count": 5
+  },
+  {
+    "stakeholder": "teacher",
+    "solution": "information and communication technology",
+    "frequency": 4,
+    "thesis_count": 4
+  },
+  {
+    "stakeholder": "student",
+    "solution": "traditional teaching method",
+    "frequency": 4,
+    "thesis_count": 4
+  },
+  {
+    "stakeholder": "student",
+    "solution": "questionnaire",
+    "frequency": 4,
+    "thesis_count": 4
+  },
+  {
+    "stakeholder": "student",
+    "solution": "online learning",
+    "frequency": 4,
+    "thesis_count": 4
+  },
+  {
+    "stakeholder": "parent",
+    "solution": "distance education",
+    "frequency": 4,
+    "thesis_count": 4
+  },
+  {
+    "stakeholder": "teacher",
+    "solution": "different teaching methods and techniques",
+    "frequency": 3,
+    "thesis_count": 3
+  },
+  {
+    "stakeholder": "teacher",
+    "solution": "question-answer technique",
+    "frequency": 3,
+    "thesis_count": 3
+  },
+  {
+    "stakeholder": "teacher",
+    "solution": "semi-structured interview form",
+    "frequency": 3,
+    "thesis_count": 3
+  },
+  {
+    "stakeholder": "teacher",
+    "solution": "EBA Live Lesson",
+    "frequency": 3,
+    "thesis_count": 3
+  },
+  {
+    "stakeholder": "student",
+    "solution": "survey",
+    "frequency": 3,
+    "thesis_count": 3
+  },
+  {
+    "stakeholder": "classroom teacher",
+    "solution": "semi-structured interview form",
+    "frequency": 3,
+    "thesis_count": 3
+  },
+  {
+    "stakeholder": "student",
+    "solution": "face-to-face education",
+    "frequency": 3,
+    "thesis_count": 3
+  }
+]

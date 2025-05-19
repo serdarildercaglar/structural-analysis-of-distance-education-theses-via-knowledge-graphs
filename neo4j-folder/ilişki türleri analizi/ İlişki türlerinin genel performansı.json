@@ -1,0 +1,74 @@
+﻿[
+  {
+    "relation_type": "INTER_COMMUNITY",
+    "relation_count": 19,
+    "avg_weight": 149.73684210526315,
+    "max_weight": 385,
+    "total_weight": 2845,
+    "impact_score": 2845.0
+  },
+  {
+    "relation_type": "CONNECTED",
+    "relation_count": 19,
+    "avg_weight": 149.73684210526315,
+    "max_weight": 385,
+    "total_weight": 2845,
+    "impact_score": 2845.0
+  },
+  {
+    "relation_type": "ENHANCES",
+    "relation_count": 1955,
+    "avg_weight": 1.0961636828644532,
+    "max_weight": 5,
+    "total_weight": 2143,
+    "impact_score": 2143.000000000006
+  },
+  {
+    "relation_type": "EXAMINES",
+    "relation_count": 404,
+    "avg_weight": 5.222772277227724,
+    "max_weight": 364,
+    "total_weight": 2110,
+    "impact_score": 2110.0000000000005
+  },
+  {
+    "relation_type": "FACES",
+    "relation_count": 1702,
+    "avg_weight": 1.2332549941245565,
+    "max_weight": 24,
+    "total_weight": 2099,
+    "impact_score": 2098.999999999995
+  },
+  {
+    "relation_type": "REQUIRES",
+    "relation_count": 1293,
+    "avg_weight": 1.4331013147718485,
+    "max_weight": 13,
+    "total_weight": 1853,
+    "impact_score": 1853.0000000000002
+  },
+  {
+    "relation_type": "ADDRESSES",
+    "relation_count": 1606,
+    "avg_weight": 1.0678704856787065,
+    "max_weight": 9,
+    "total_weight": 1715,
+    "impact_score": 1715.0000000000025
+  },
+  {
+    "relation_type": "USES",
+    "relation_count": 1473,
+    "avg_weight": 1.1466395112016303,
+    "max_weight": 8,
+    "total_weight": 1689,
+    "impact_score": 1689.0000000000014
+  },
+  {
+    "relation_type": "HINDERS",
+    "relation_count": 480,
+    "avg_weight": 1.212499999999999,
+    "max_weight": 4,
+    "total_weight": 582,
+    "impact_score": 581.9999999999995
+  }
+]

@@ -1,0 +1,122 @@
+﻿[
+  {
+    "stakeholder": "student",
+    "problem": "student motivation problem",
+    "frequency": 24,
+    "thesis_count": 24
+  },
+  {
+    "stakeholder": "student",
+    "problem": "student participation problem",
+    "frequency": 11,
+    "thesis_count": 11
+  },
+  {
+    "stakeholder": "student",
+    "problem": "internet connectivity issue",
+    "frequency": 8,
+    "thesis_count": 8
+  },
+  {
+    "stakeholder": "student",
+    "problem": "inequality of opportunity",
+    "frequency": 7,
+    "thesis_count": 7
+  },
+  {
+    "stakeholder": "teacher",
+    "problem": "negative attitude towards distance education",
+    "frequency": 7,
+    "thesis_count": 7
+  },
+  {
+    "stakeholder": "student",
+    "problem": "lack of interaction in lessons",
+    "frequency": 6,
+    "thesis_count": 6
+  },
+  {
+    "stakeholder": "student",
+    "problem": "technical problem",
+    "frequency": 6,
+    "thesis_count": 6
+  },
+  {
+    "stakeholder": "student",
+    "problem": "difficulty in adaptation to distance education",
+    "frequency": 6,
+    "thesis_count": 6
+  },
+  {
+    "stakeholder": "teacher",
+    "problem": "problems experienced in the distance education process",
+    "frequency": 5,
+    "thesis_count": 5
+  },
+  {
+    "stakeholder": "teacher",
+    "problem": "attitude towards distance education",
+    "frequency": 5,
+    "thesis_count": 5
+  },
+  {
+    "stakeholder": "student",
+    "problem": "lack of motivation",
+    "frequency": 5,
+    "thesis_count": 5
+  },
+  {
+    "stakeholder": "student",
+    "problem": "lack of internet infrastructure",
+    "frequency": 5,
+    "thesis_count": 5
+  },
+  {
+    "stakeholder": "teacher",
+    "problem": "inequality of opportunity",
+    "frequency": 5,
+    "thesis_count": 5
+  },
+  {
+    "stakeholder": "student",
+    "problem": "student feeling of isolation",
+    "frequency": 4,
+    "thesis_count": 4
+  },
+  {
+    "stakeholder": "student",
+    "problem": "self-regulation problem",
+    "frequency": 4,
+    "thesis_count": 4
+  },
+  {
+    "stakeholder": "student",
+    "problem": "difficulty in learning",
+    "frequency": 4,
+    "thesis_count": 4
+  },
+  {
+    "stakeholder": "student",
+    "problem": "lack of interaction",
+    "frequency": 4,
+    "thesis_count": 4
+  },
+  {
+    "stakeholder": "student",
+    "problem": "student engagement problem",
+    "frequency": 4,
+    "thesis_count": 4
+  },
+  {
+    "stakeholder": "student",
+    "problem": "inefficient education",
+    "frequency": 4,
+    "thesis_count": 4
+  },
+  {
+    "stakeholder": "student",
+    "problem": "infrastructure and accessibility problem",
+    "frequency": 4,
+    "thesis_count": 4
+  }
+]

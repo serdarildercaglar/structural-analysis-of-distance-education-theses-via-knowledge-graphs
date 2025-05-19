@@ -1,0 +1,82 @@
+﻿[
+  {
+    "community_id": 3104,
+    "size": 7,
+    "internal_edges": 9,
+    "total_edges_incident": 9,
+    "internal_ratio": 1.0,
+    "internal_density": 0.42857142857142855
+  },
+  {
+    "community_id": 2317,
+    "size": 6,
+    "internal_edges": 5,
+    "total_edges_incident": 6,
+    "internal_ratio": 0.8333333333333334,
+    "internal_density": 0.3333333333333333
+  },
+  {
+    "community_id": 2984,
+    "size": 6,
+    "internal_edges": 5,
+    "total_edges_incident": 7,
+    "internal_ratio": 0.7142857142857143,
+    "internal_density": 0.3333333333333333
+  },
+  {
+    "community_id": 2083,
+    "size": 7,
+    "internal_edges": 6,
+    "total_edges_incident": 9,
+    "internal_ratio": 0.6666666666666666,
+    "internal_density": 0.2857142857142857
+  },
+  {
+    "community_id": 1177,
+    "size": 5,
+    "internal_edges": 4,
+    "total_edges_incident": 7,
+    "internal_ratio": 0.5714285714285714,
+    "internal_density": 0.4
+  },
+  {
+    "community_id": 1012,
+    "size": 9,
+    "internal_edges": 9,
+    "total_edges_incident": 16,
+    "internal_ratio": 0.5625,
+    "internal_density": 0.25
+  },
+  {
+    "community_id": 2484,
+    "size": 7,
+    "internal_edges": 5,
+    "total_edges_incident": 9,
+    "internal_ratio": 0.5555555555555556,
+    "internal_density": 0.23809523809523808
+  },
+  {
+    "community_id": 1685,
+    "size": 9,
+    "internal_edges": 9,
+    "total_edges_incident": 18,
+    "internal_ratio": 0.5,
+    "internal_density": 0.25
+  },
+  {
+    "community_id": 2997,
+    "size": 5,
+    "internal_edges": 4,
+    "total_edges_incident": 8,
+    "internal_ratio": 0.5,
+    "internal_density": 0.4
+  },
+  {
+    "community_id": 672,
+    "size": 5,
+    "internal_edges": 6,
+    "total_edges_incident": 13,
+    "internal_ratio": 0.46153846153846156,
+    "internal_density": 0.6
+  }
+]

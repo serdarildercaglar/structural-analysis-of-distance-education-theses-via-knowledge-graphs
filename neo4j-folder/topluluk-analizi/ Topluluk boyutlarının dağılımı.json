@@ -1,0 +1,234 @@
+﻿[
+  {
+    "community_size": 329,
+    "number_of_communities": 1,
+    "sample_community_ids": [
+      493
+    ]
+  },
+  {
+    "community_size": 296,
+    "number_of_communities": 1,
+    "sample_community_ids": [
+      1491
+    ]
+  },
+  {
+    "community_size": 228,
+    "number_of_communities": 1,
+    "sample_community_ids": [
+      1541
+    ]
+  },
+  {
+    "community_size": 153,
+    "number_of_communities": 1,
+    "sample_community_ids": [
+      2345
+    ]
+  },
+  {
+    "community_size": 119,
+    "number_of_communities": 1,
+    "sample_community_ids": [
+      199
+    ]
+  },
+  {
+    "community_size": 111,
+    "number_of_communities": 1,
+    "sample_community_ids": [
+      2257
+    ]
+  },
+  {
+    "community_size": 63,
+    "number_of_communities": 1,
+    "sample_community_ids": [
+      418
+    ]
+  },
+  {
+    "community_size": 49,
+    "number_of_communities": 1,
+    "sample_community_ids": [
+      1424
+    ]
+  },
+  {
+    "community_size": 48,
+    "number_of_communities": 2,
+    "sample_community_ids": [
+      1281,
+      73
+    ]
+  },
+  {
+    "community_size": 39,
+    "number_of_communities": 1,
+    "sample_community_ids": [
+      2727
+    ]
+  },
+  {
+    "community_size": 36,
+    "number_of_communities": 1,
+    "sample_community_ids": [
+      640
+    ]
+  },
+  {
+    "community_size": 33,
+    "number_of_communities": 1,
+    "sample_community_ids": [
+      786
+    ]
+  },
+  {
+    "community_size": 24,
+    "number_of_communities": 1,
+    "sample_community_ids": [
+      852
+    ]
+  },
+  {
+    "community_size": 20,
+    "number_of_communities": 1,
+    "sample_community_ids": [
+      1967
+    ]
+  },
+  {
+    "community_size": 19,
+    "number_of_communities": 2,
+    "sample_community_ids": [
+      2574,
+      2828
+    ]
+  },
+  {
+    "community_size": 16,
+    "number_of_communities": 1,
+    "sample_community_ids": [
+      1699
+    ]
+  },
+  {
+    "community_size": 15,
+    "number_of_communities": 1,
+    "sample_community_ids": [
+      236
+    ]
+  },
+  {
+    "community_size": 11,
+    "number_of_communities": 1,
+    "sample_community_ids": [
+      974
+    ]
+  },
+  {
+    "community_size": 10,
+    "number_of_communities": 4,
+    "sample_community_ids": [
+      735,
+      765,
+      2066,
+      1863
+    ]
+  },
+  {
+    "community_size": 9,
+    "number_of_communities": 2,
+    "sample_community_ids": [
+      1012,
+      1685
+    ]
+  },
+  {
+    "community_size": 8,
+    "number_of_communities": 3,
+    "sample_community_ids": [
+      310,
+      2724,
+      1586
+    ]
+  },
+  {
+    "community_size": 7,
+    "number_of_communities": 5,
+    "sample_community_ids": [
+      862,
+      1797,
+      2083,
+      2484,
+      3104
+    ]
+  },
+  {
+    "community_size": 6,
+    "number_of_communities": 6,
+    "sample_community_ids": [
+      1890,
+      2099,
+      239,
+      882,
+      2317
+    ]
+  },
+  {
+    "community_size": 5,
+    "number_of_communities": 8,
+    "sample_community_ids": [
+      1936,
+      635,
+      672,
+      996,
+      1177
+    ]
+  },
+  {
+    "community_size": 4,
+    "number_of_communities": 17,
+    "sample_community_ids": [
+      1865,
+      459,
+      320,
+      1666,
+      557
+    ]
+  },
+  {
+    "community_size": 3,
+    "number_of_communities": 25,
+    "sample_community_ids": [
+      5,
+      137,
+      718,
+      906,
+      1165
+    ]
+  },
+  {
+    "community_size": 2,
+    "number_of_communities": 111,
+    "sample_community_ids": [
+      106,
+      107,
+      133,
+      138,
+      193
+    ]
+  },
+  {
+    "community_size": 1,
+    "number_of_communities": 906,
+    "sample_community_ids": [
+      9,
+      15,
+      18,
+      28,
+      29
+    ]
+  }
+]

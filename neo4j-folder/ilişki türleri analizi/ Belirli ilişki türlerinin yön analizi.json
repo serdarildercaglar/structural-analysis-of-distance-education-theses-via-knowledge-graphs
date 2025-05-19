@@ -1,0 +1,92 @@
+﻿[
+  {
+    "stakeholder": "Education Information Network",
+    "enhanced_type": "FOCUS_AREA_THEME",
+    "enhanced_entity": "distance education",
+    "frequency": 3
+  },
+  {
+    "stakeholder": "Education Information Network",
+    "enhanced_type": "SOLUTION_APPROACH",
+    "enhanced_entity": "distance education",
+    "frequency": 3
+  },
+  {
+    "stakeholder": "private school",
+    "enhanced_type": "STAKEHOLDER",
+    "enhanced_entity": "teacher",
+    "frequency": 2
+  },
+  {
+    "stakeholder": "Education Information Network",
+    "enhanced_type": "FOCUS_AREA_THEME",
+    "enhanced_entity": "teaching and learning",
+    "frequency": 2
+  },
+  {
+    "stakeholder": "parent",
+    "enhanced_type": "FOCUS_AREA_THEME",
+    "enhanced_entity": "academic achievement",
+    "frequency": 1
+  },
+  {
+    "stakeholder": "parent",
+    "enhanced_type": "PROBLEM_CHALLENGE",
+    "enhanced_entity": "academic achievement",
+    "frequency": 1
+  },
+  {
+    "stakeholder": "student",
+    "enhanced_type": "FOCUS_AREA_THEME",
+    "enhanced_entity": "speaking skill",
+    "frequency": 1
+  },
+  {
+    "stakeholder": "teacher",
+    "enhanced_type": "STAKEHOLDER",
+    "enhanced_entity": "student",
+    "frequency": 1
+  },
+  {
+    "stakeholder": "parent",
+    "enhanced_type": "SOLUTION_APPROACH",
+    "enhanced_entity": "distance education",
+    "frequency": 1
+  },
+  {
+    "stakeholder": "teacher",
+    "enhanced_type": "STAKEHOLDER",
+    "enhanced_entity": "parent",
+    "frequency": 1
+  },
+  {
+    "stakeholder": "teacher",
+    "enhanced_type": "FOCUS_AREA_THEME",
+    "enhanced_entity": "teacher role",
+    "frequency": 1
+  },
+  {
+    "stakeholder": "teacher",
+    "enhanced_type": "FOCUS_AREA_THEME",
+    "enhanced_entity": "teacher performance",
+    "frequency": 1
+  },
+  {
+    "stakeholder": "teacher",
+    "enhanced_type": "FOCUS_AREA_THEME",
+    "enhanced_entity": "attitude towards distance education",
+    "frequency": 1
+  },
+  {
+    "stakeholder": "teacher",
+    "enhanced_type": "PROBLEM_CHALLENGE",
+    "enhanced_entity": "attitude towards distance education",
+    "frequency": 1
+  },
+  {
+    "stakeholder": "parent",
+    "enhanced_type": "FOCUS_AREA_THEME",
+    "enhanced_entity": "social development",
+    "frequency": 1
+  }
+]

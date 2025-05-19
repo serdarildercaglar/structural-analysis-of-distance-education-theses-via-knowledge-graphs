@@ -1,0 +1,121 @@
+﻿[
+  {
+    "source_type": "Community",
+    "target_type": "Community",
+    "edge_count": 38,
+    "total_weight": 5690,
+    "avg_weight_per_edge": 149
+  },
+  {
+    "source_type": "STAKEHOLDER",
+    "target_type": "PROBLEM_CHALLENGE",
+    "edge_count": 1542,
+    "total_weight": 2068,
+    "avg_weight_per_edge": 1
+  },
+  {
+    "source_type": "STAKEHOLDER",
+    "target_type": "SOLUTION_APPROACH",
+    "edge_count": 1266,
+    "total_weight": 1905,
+    "avg_weight_per_edge": 1
+  },
+  {
+    "source_type": "STAKEHOLDER",
+    "target_type": "FOCUS_AREA_THEME",
+    "edge_count": 633,
+    "total_weight": 1777,
+    "avg_weight_per_edge": 2
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "target_type": "PROBLEM_CHALLENGE",
+    "edge_count": 1614,
+    "total_weight": 1742,
+    "avg_weight_per_edge": 1
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "target_type": "FOCUS_AREA_THEME",
+    "edge_count": 1263,
+    "total_weight": 1480,
+    "avg_weight_per_edge": 1
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "target_type": "SOLUTION_APPROACH",
+    "edge_count": 715,
+    "total_weight": 881,
+    "avg_weight_per_edge": 1
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "target_type": "FOCUS_AREA_THEME",
+    "edge_count": 557,
+    "total_weight": 728,
+    "avg_weight_per_edge": 1
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "target_type": "SOLUTION_APPROACH",
+    "edge_count": 483,
+    "total_weight": 633,
+    "avg_weight_per_edge": 1
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "target_type": "PROBLEM_CHALLENGE",
+    "edge_count": 419,
+    "total_weight": 498,
+    "avg_weight_per_edge": 1
+  },
+  {
+    "source_type": "PROBLEM_CHALLENGE",
+    "target_type": "FOCUS_AREA_THEME",
+    "edge_count": 150,
+    "total_weight": 164,
+    "avg_weight_per_edge": 1
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "target_type": "STAKEHOLDER",
+    "edge_count": 67,
+    "total_weight": 77,
+    "avg_weight_per_edge": 1
+  },
+  {
+    "source_type": "PROBLEM_CHALLENGE",
+    "target_type": "SOLUTION_APPROACH",
+    "edge_count": 62,
+    "total_weight": 75,
+    "avg_weight_per_edge": 1
+  },
+  {
+    "source_type": "STAKEHOLDER",
+    "target_type": "STAKEHOLDER",
+    "edge_count": 66,
+    "total_weight": 74,
+    "avg_weight_per_edge": 1
+  },
+  {
+    "source_type": "PROBLEM_CHALLENGE",
+    "target_type": "PROBLEM_CHALLENGE",
+    "edge_count": 45,
+    "total_weight": 50,
+    "avg_weight_per_edge": 1
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "target_type": "STAKEHOLDER",
+    "edge_count": 24,
+    "total_weight": 32,
+    "avg_weight_per_edge": 1
+  },
+  {
+    "source_type": "PROBLEM_CHALLENGE",
+    "target_type": "STAKEHOLDER",
+    "edge_count": 7,
+    "total_weight": 7,
+    "avg_weight_per_edge": 1
+  }
+]

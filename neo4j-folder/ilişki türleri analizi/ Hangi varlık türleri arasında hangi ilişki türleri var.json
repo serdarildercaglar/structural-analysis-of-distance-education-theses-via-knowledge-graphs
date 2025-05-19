@@ -1,0 +1,242 @@
+﻿[
+  {
+    "source_type": "STAKEHOLDER",
+    "relation_type": "FACES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 1488,
+    "total_weight": 1847,
+    "avg_weight": 1.2412634408602168
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "ADDRESSES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 1218,
+    "total_weight": 1280,
+    "avg_weight": 1.050903119868636
+  },
+  {
+    "source_type": "STAKEHOLDER",
+    "relation_type": "USES",
+    "target_type": "SOLUTION_APPROACH",
+    "frequency": 1172,
+    "total_weight": 1319,
+    "avg_weight": 1.1254266211604096
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "ENHANCES",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 884,
+    "total_weight": 948,
+    "avg_weight": 1.0723981900452468
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "REQUIRES",
+    "target_type": "SOLUTION_APPROACH",
+    "frequency": 391,
+    "total_weight": 521,
+    "avg_weight": 1.3324808184143215
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "REQUIRES",
+    "target_type": "SOLUTION_APPROACH",
+    "frequency": 365,
+    "total_weight": 494,
+    "avg_weight": 1.3534246575342472
+  },
+  {
+    "source_type": "STAKEHOLDER",
+    "relation_type": "EXAMINES",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 320,
+    "total_weight": 1370,
+    "avg_weight": 4.281249999999998
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "ENHANCES",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 303,
+    "total_weight": 349,
+    "avg_weight": 1.1518151815181528
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "ENHANCES",
+    "target_type": "SOLUTION_APPROACH",
+    "frequency": 280,
+    "total_weight": 313,
+    "avg_weight": 1.1178571428571427
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "ENHANCES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 198,
+    "total_weight": 207,
+    "avg_weight": 1.0454545454545454
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "REQUIRES",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 194,
+    "total_weight": 305,
+    "avg_weight": 1.5721649484536073
+  },
+  {
+    "source_type": "STAKEHOLDER",
+    "relation_type": "USES",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 175,
+    "total_weight": 239,
+    "avg_weight": 1.365714285714285
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "ADDRESSES",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 170,
+    "total_weight": 198,
+    "avg_weight": 1.1647058823529415
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "REQUIRES",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 169,
+    "total_weight": 281,
+    "avg_weight": 1.6627218934911248
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "ADDRESSES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 148,
+    "total_weight": 160,
+    "avg_weight": 1.0810810810810814
+  },
+  {
+    "source_type": "PROBLEM_CHALLENGE",
+    "relation_type": "HINDERS",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 121,
+    "total_weight": 133,
+    "avg_weight": 1.0991735537190082
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "HINDERS",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 112,
+    "total_weight": 138,
+    "avg_weight": 1.2321428571428572
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "HINDERS",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 87,
+    "total_weight": 113,
+    "avg_weight": 1.2988505747126435
+  },
+  {
+    "source_type": "STAKEHOLDER",
+    "relation_type": "FACES",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 86,
+    "total_weight": 113,
+    "avg_weight": 1.3139534883720931
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "ENHANCES",
+    "target_type": "SOLUTION_APPROACH",
+    "frequency": 72,
+    "total_weight": 92,
+    "avg_weight": 1.2777777777777777
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "ENHANCES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 69,
+    "total_weight": 74,
+    "avg_weight": 1.0724637681159417
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "FACES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 65,
+    "total_weight": 70,
+    "avg_weight": 1.076923076923077
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "REQUIRES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 50,
+    "total_weight": 81,
+    "avg_weight": 1.6200000000000006
+  },
+  {
+    "source_type": "PROBLEM_CHALLENGE",
+    "relation_type": "HINDERS",
+    "target_type": "SOLUTION_APPROACH",
+    "frequency": 49,
+    "total_weight": 60,
+    "avg_weight": 1.2244897959183676
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "REQUIRES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 48,
+    "total_weight": 79,
+    "avg_weight": 1.645833333333334
+  },
+  {
+    "source_type": "STAKEHOLDER",
+    "relation_type": "EXAMINES",
+    "target_type": "SOLUTION_APPROACH",
+    "frequency": 48,
+    "total_weight": 532,
+    "avg_weight": 11.083333333333334
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "USES",
+    "target_type": "SOLUTION_APPROACH",
+    "frequency": 41,
+    "total_weight": 42,
+    "avg_weight": 1.024390243902439
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "ENHANCES",
+    "target_type": "STAKEHOLDER",
+    "frequency": 41,
+    "total_weight": 43,
+    "avg_weight": 1.0487804878048785
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "relation_type": "FACES",
+    "target_type": "PROBLEM_CHALLENGE",
+    "frequency": 38,
+    "total_weight": 38,
+    "avg_weight": 1.0
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "relation_type": "HINDERS",
+    "target_type": "FOCUS_AREA_THEME",
+    "frequency": 37,
+    "total_weight": 50,
+    "avg_weight": 1.3513513513513513
+  }
+]

@@ -1,0 +1,122 @@
+﻿[
+  {
+    "stakeholder": "student",
+    "problem": "student motivation problem",
+    "solution": "gamification intervention",
+    "faces_weight": 24,
+    "addresses_weight": 2,
+    "total_chain_weight": 26
+  },
+  {
+    "stakeholder": "student",
+    "problem": "student motivation problem",
+    "solution": "gamified online learning environment",
+    "faces_weight": 24,
+    "addresses_weight": 2,
+    "total_chain_weight": 26
+  },
+  {
+    "stakeholder": "student",
+    "problem": "student motivation problem",
+    "solution": "ARCS Motivation Model",
+    "faces_weight": 24,
+    "addresses_weight": 2,
+    "total_chain_weight": 26
+  },
+  {
+    "stakeholder": "student",
+    "problem": "student motivation problem",
+    "solution": "gamification",
+    "faces_weight": 24,
+    "addresses_weight": 2,
+    "total_chain_weight": 26
+  },
+  {
+    "stakeholder": "student",
+    "problem": "student motivation problem",
+    "solution": "support service implementation",
+    "faces_weight": 24,
+    "addresses_weight": 1,
+    "total_chain_weight": 25
+  },
+  {
+    "stakeholder": "student",
+    "problem": "student motivation problem",
+    "solution": "feedback",
+    "faces_weight": 24,
+    "addresses_weight": 1,
+    "total_chain_weight": 25
+  },
+  {
+    "stakeholder": "student",
+    "problem": "student motivation problem",
+    "solution": "questionnaire",
+    "faces_weight": 24,
+    "addresses_weight": 1,
+    "total_chain_weight": 25
+  },
+  {
+    "stakeholder": "student",
+    "problem": "student motivation problem",
+    "solution": "framing nudge strategy",
+    "faces_weight": 24,
+    "addresses_weight": 1,
+    "total_chain_weight": 25
+  },
+  {
+    "stakeholder": "student",
+    "problem": "student motivation problem",
+    "solution": "solution suggestion",
+    "faces_weight": 24,
+    "addresses_weight": 1,
+    "total_chain_weight": 25
+  },
+  {
+    "stakeholder": "student",
+    "problem": "student motivation problem",
+    "solution": "synchronous learning system",
+    "faces_weight": 24,
+    "addresses_weight": 1,
+    "total_chain_weight": 25
+  },
+  {
+    "stakeholder": "student",
+    "problem": "student motivation problem",
+    "solution": "Dynamic Emergency Distance Education Model",
+    "faces_weight": 24,
+    "addresses_weight": 1,
+    "total_chain_weight": 25
+  },
+  {
+    "stakeholder": "student",
+    "problem": "student motivation problem",
+    "solution": "activity to boost motivation",
+    "faces_weight": 24,
+    "addresses_weight": 1,
+    "total_chain_weight": 25
+  },
+  {
+    "stakeholder": "student",
+    "problem": "student motivation problem",
+    "solution": "digital tool",
+    "faces_weight": 24,
+    "addresses_weight": 1,
+    "total_chain_weight": 25
+  },
+  {
+    "stakeholder": "student",
+    "problem": "student motivation problem",
+    "solution": "Teacher Motivation Scale",
+    "faces_weight": 24,
+    "addresses_weight": 1,
+    "total_chain_weight": 25
+  },
+  {
+    "stakeholder": "student",
+    "problem": "student motivation problem",
+    "solution": "Padlet",
+    "faces_weight": 24,
+    "addresses_weight": 1,
+    "total_chain_weight": 25
+  }
+]

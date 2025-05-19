@@ -1,0 +1,107 @@
+﻿[
+  {
+    "community1": 1491,
+    "community2": 1541,
+    "inter_community_edges": 385,
+    "total_weight": 1281,
+    "avg_edge_weight": 3
+  },
+  {
+    "community1": 1541,
+    "community2": 1491,
+    "inter_community_edges": 314,
+    "total_weight": 490,
+    "avg_edge_weight": 1
+  },
+  {
+    "community1": 1541,
+    "community2": 493,
+    "inter_community_edges": 277,
+    "total_weight": 456,
+    "avg_edge_weight": 1
+  },
+  {
+    "community1": 1491,
+    "community2": 493,
+    "inter_community_edges": 268,
+    "total_weight": 712,
+    "avg_edge_weight": 2
+  },
+  {
+    "community1": 493,
+    "community2": 1541,
+    "inter_community_edges": 212,
+    "total_weight": 241,
+    "avg_edge_weight": 1
+  },
+  {
+    "community1": 493,
+    "community2": 1491,
+    "inter_community_edges": 156,
+    "total_weight": 168,
+    "avg_edge_weight": 1
+  },
+  {
+    "community1": 2257,
+    "community2": 493,
+    "inter_community_edges": 143,
+    "total_weight": 201,
+    "avg_edge_weight": 1
+  },
+  {
+    "community1": 2345,
+    "community2": 1491,
+    "inter_community_edges": 142,
+    "total_weight": 184,
+    "avg_edge_weight": 1
+  },
+  {
+    "community1": 1541,
+    "community2": 2345,
+    "inter_community_edges": 131,
+    "total_weight": 203,
+    "avg_edge_weight": 1
+  },
+  {
+    "community1": 2345,
+    "community2": 493,
+    "inter_community_edges": 105,
+    "total_weight": 135,
+    "avg_edge_weight": 1
+  },
+  {
+    "community1": 2257,
+    "community2": 1491,
+    "inter_community_edges": 101,
+    "total_weight": 172,
+    "avg_edge_weight": 1
+  },
+  {
+    "community1": 2345,
+    "community2": 1541,
+    "inter_community_edges": 100,
+    "total_weight": 127,
+    "avg_edge_weight": 1
+  },
+  {
+    "community1": 1491,
+    "community2": 2257,
+    "inter_community_edges": 88,
+    "total_weight": 174,
+    "avg_edge_weight": 1
+  },
+  {
+    "community1": 2257,
+    "community2": 1541,
+    "inter_community_edges": 83,
+    "total_weight": 121,
+    "avg_edge_weight": 1
+  },
+  {
+    "community1": 1541,
+    "community2": 2257,
+    "inter_community_edges": 82,
+    "total_weight": 172,
+    "avg_edge_weight": 2
+  }
+]

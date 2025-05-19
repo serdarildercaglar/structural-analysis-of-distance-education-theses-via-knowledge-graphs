@@ -1,0 +1,202 @@
+﻿[
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "CONNECTED",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 385
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "INTER_COMMUNITY",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 385
+  },
+  {
+    "source_entity": "thesis",
+    "source_type": "STAKEHOLDER",
+    "relation_type": "EXAMINES",
+    "target_entity": "distance education",
+    "target_type": "FOCUS_AREA_THEME",
+    "weight": 364
+  },
+  {
+    "source_entity": "thesis",
+    "source_type": "STAKEHOLDER",
+    "relation_type": "EXAMINES",
+    "target_entity": "distance education",
+    "target_type": "SOLUTION_APPROACH",
+    "weight": 364
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "INTER_COMMUNITY",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 314
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "CONNECTED",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 314
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "INTER_COMMUNITY",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 277
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "CONNECTED",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 277
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "CONNECTED",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 268
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "INTER_COMMUNITY",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 268
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "CONNECTED",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 212
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "INTER_COMMUNITY",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 212
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "INTER_COMMUNITY",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 156
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "CONNECTED",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 156
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "CONNECTED",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 143
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "INTER_COMMUNITY",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 143
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "CONNECTED",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 142
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "INTER_COMMUNITY",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 142
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "INTER_COMMUNITY",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 131
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "CONNECTED",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 131
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "CONNECTED",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 105
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "INTER_COMMUNITY",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 105
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "CONNECTED",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 101
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "INTER_COMMUNITY",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 101
+  },
+  {
+    "source_entity": null,
+    "source_type": "Community",
+    "relation_type": "INTER_COMMUNITY",
+    "target_entity": null,
+    "target_type": "Community",
+    "weight": 100
+  }
+]

@@ -1,0 +1,107 @@
+﻿[
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "source_entity": "distance education",
+    "target_type": "FOCUS_AREA_THEME",
+    "target_entity": "student participation",
+    "frequency": 4
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "source_entity": "distance education",
+    "target_type": "PROBLEM_CHALLENGE",
+    "target_entity": "inefficient education",
+    "frequency": 4
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "source_entity": "distance education",
+    "target_type": "PROBLEM_CHALLENGE",
+    "target_entity": "inefficient education",
+    "frequency": 4
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "source_entity": "distance education",
+    "target_type": "FOCUS_AREA_THEME",
+    "target_entity": "student participation",
+    "frequency": 4
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "source_entity": "distance education",
+    "target_type": "PROBLEM_CHALLENGE",
+    "target_entity": "inequality of opportunity",
+    "frequency": 4
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "source_entity": "distance education",
+    "target_type": "PROBLEM_CHALLENGE",
+    "target_entity": "student participation problem",
+    "frequency": 4
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "source_entity": "distance education",
+    "target_type": "PROBLEM_CHALLENGE",
+    "target_entity": "student participation problem",
+    "frequency": 4
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "source_entity": "distance education",
+    "target_type": "PROBLEM_CHALLENGE",
+    "target_entity": "inequality of opportunity",
+    "frequency": 4
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "source_entity": "distance education",
+    "target_type": "PROBLEM_CHALLENGE",
+    "target_entity": "student academic lag",
+    "frequency": 3
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "source_entity": "distance education",
+    "target_type": "FOCUS_AREA_THEME",
+    "target_entity": "student socialization",
+    "frequency": 3
+  },
+  {
+    "source_type": "SOLUTION_APPROACH",
+    "source_entity": "distance education",
+    "target_type": "PROBLEM_CHALLENGE",
+    "target_entity": "infrastructure and accessibility problem",
+    "frequency": 3
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "source_entity": "distance education",
+    "target_type": "PROBLEM_CHALLENGE",
+    "target_entity": "student socialization",
+    "frequency": 3
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "source_entity": "distance education",
+    "target_type": "FOCUS_AREA_THEME",
+    "target_entity": "reading skill",
+    "frequency": 3
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "source_entity": "distance education",
+    "target_type": "PROBLEM_CHALLENGE",
+    "target_entity": "distance education negative effect on teaching and learning",
+    "frequency": 3
+  },
+  {
+    "source_type": "FOCUS_AREA_THEME",
+    "source_entity": "distance education",
+    "target_type": "PROBLEM_CHALLENGE",
+    "target_entity": "infrastructure and accessibility problem",
+    "frequency": 3
+  }
+]

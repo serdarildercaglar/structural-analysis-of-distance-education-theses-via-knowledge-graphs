@@ -1,0 +1,282 @@
+﻿[
+  {
+    "community_id": 493,
+    "total_size": 329,
+    "entity_distribution": [
+      {
+        "count": 47,
+        "entity_type": "FOCUS_AREA_THEME"
+      },
+      {
+        "count": 202,
+        "entity_type": "SOLUTION_APPROACH"
+      },
+      {
+        "count": 41,
+        "entity_type": "PROBLEM_CHALLENGE"
+      },
+      {
+        "count": 39,
+        "entity_type": "STAKEHOLDER"
+      }
+    ],
+    "distribution_summary": [
+      "FOCUS_AREA_THEME: 47",
+      "SOLUTION_APPROACH: 202",
+      "PROBLEM_CHALLENGE: 41",
+      "STAKEHOLDER: 39"
+    ]
+  },
+  {
+    "community_id": 1491,
+    "total_size": 296,
+    "entity_distribution": [
+      {
+        "count": 32,
+        "entity_type": "STAKEHOLDER"
+      },
+      {
+        "count": 52,
+        "entity_type": "PROBLEM_CHALLENGE"
+      },
+      {
+        "count": 158,
+        "entity_type": "SOLUTION_APPROACH"
+      },
+      {
+        "count": 54,
+        "entity_type": "FOCUS_AREA_THEME"
+      }
+    ],
+    "distribution_summary": [
+      "STAKEHOLDER: 32",
+      "PROBLEM_CHALLENGE: 52",
+      "SOLUTION_APPROACH: 158",
+      "FOCUS_AREA_THEME: 54"
+    ]
+  },
+  {
+    "community_id": 1541,
+    "total_size": 228,
+    "entity_distribution": [
+      {
+        "count": 29,
+        "entity_type": "STAKEHOLDER"
+      },
+      {
+        "count": 36,
+        "entity_type": "FOCUS_AREA_THEME"
+      },
+      {
+        "count": 120,
+        "entity_type": "SOLUTION_APPROACH"
+      },
+      {
+        "count": 43,
+        "entity_type": "PROBLEM_CHALLENGE"
+      }
+    ],
+    "distribution_summary": [
+      "STAKEHOLDER: 29",
+      "FOCUS_AREA_THEME: 36",
+      "SOLUTION_APPROACH: 120",
+      "PROBLEM_CHALLENGE: 43"
+    ]
+  },
+  {
+    "community_id": 2345,
+    "total_size": 153,
+    "entity_distribution": [
+      {
+        "count": 21,
+        "entity_type": "STAKEHOLDER"
+      },
+      {
+        "count": 33,
+        "entity_type": "PROBLEM_CHALLENGE"
+      },
+      {
+        "count": 82,
+        "entity_type": "SOLUTION_APPROACH"
+      },
+      {
+        "count": 17,
+        "entity_type": "FOCUS_AREA_THEME"
+      }
+    ],
+    "distribution_summary": [
+      "STAKEHOLDER: 21",
+      "PROBLEM_CHALLENGE: 33",
+      "SOLUTION_APPROACH: 82",
+      "FOCUS_AREA_THEME: 17"
+    ]
+  },
+  {
+    "community_id": 199,
+    "total_size": 119,
+    "entity_distribution": [
+      {
+        "count": 14,
+        "entity_type": "STAKEHOLDER"
+      },
+      {
+        "count": 31,
+        "entity_type": "PROBLEM_CHALLENGE"
+      },
+      {
+        "count": 67,
+        "entity_type": "SOLUTION_APPROACH"
+      },
+      {
+        "count": 7,
+        "entity_type": "FOCUS_AREA_THEME"
+      }
+    ],
+    "distribution_summary": [
+      "STAKEHOLDER: 14",
+      "PROBLEM_CHALLENGE: 31",
+      "SOLUTION_APPROACH: 67",
+      "FOCUS_AREA_THEME: 7"
+    ]
+  },
+  {
+    "community_id": 2257,
+    "total_size": 111,
+    "entity_distribution": [
+      {
+        "count": 7,
+        "entity_type": "STAKEHOLDER"
+      },
+      {
+        "count": 18,
+        "entity_type": "FOCUS_AREA_THEME"
+      },
+      {
+        "count": 67,
+        "entity_type": "SOLUTION_APPROACH"
+      },
+      {
+        "count": 19,
+        "entity_type": "PROBLEM_CHALLENGE"
+      }
+    ],
+    "distribution_summary": [
+      "STAKEHOLDER: 7",
+      "FOCUS_AREA_THEME: 18",
+      "SOLUTION_APPROACH: 67",
+      "PROBLEM_CHALLENGE: 19"
+    ]
+  },
+  {
+    "community_id": 418,
+    "total_size": 63,
+    "entity_distribution": [
+      {
+        "count": 12,
+        "entity_type": "PROBLEM_CHALLENGE"
+      },
+      {
+        "count": 39,
+        "entity_type": "SOLUTION_APPROACH"
+      },
+      {
+        "count": 5,
+        "entity_type": "STAKEHOLDER"
+      },
+      {
+        "count": 7,
+        "entity_type": "FOCUS_AREA_THEME"
+      }
+    ],
+    "distribution_summary": [
+      "PROBLEM_CHALLENGE: 12",
+      "SOLUTION_APPROACH: 39",
+      "STAKEHOLDER: 5",
+      "FOCUS_AREA_THEME: 7"
+    ]
+  },
+  {
+    "community_id": 1424,
+    "total_size": 49,
+    "entity_distribution": [
+      {
+        "count": 18,
+        "entity_type": "SOLUTION_APPROACH"
+      },
+      {
+        "count": 13,
+        "entity_type": "STAKEHOLDER"
+      },
+      {
+        "count": 10,
+        "entity_type": "PROBLEM_CHALLENGE"
+      },
+      {
+        "count": 8,
+        "entity_type": "FOCUS_AREA_THEME"
+      }
+    ],
+    "distribution_summary": [
+      "SOLUTION_APPROACH: 18",
+      "STAKEHOLDER: 13",
+      "PROBLEM_CHALLENGE: 10",
+      "FOCUS_AREA_THEME: 8"
+    ]
+  },
+  {
+    "community_id": 1281,
+    "total_size": 48,
+    "entity_distribution": [
+      {
+        "count": 10,
+        "entity_type": "PROBLEM_CHALLENGE"
+      },
+      {
+        "count": 25,
+        "entity_type": "SOLUTION_APPROACH"
+      },
+      {
+        "count": 8,
+        "entity_type": "STAKEHOLDER"
+      },
+      {
+        "count": 5,
+        "entity_type": "FOCUS_AREA_THEME"
+      }
+    ],
+    "distribution_summary": [
+      "PROBLEM_CHALLENGE: 10",
+      "SOLUTION_APPROACH: 25",
+      "STAKEHOLDER: 8",
+      "FOCUS_AREA_THEME: 5"
+    ]
+  },
+  {
+    "community_id": 73,
+    "total_size": 48,
+    "entity_distribution": [
+      {
+        "count": 21,
+        "entity_type": "SOLUTION_APPROACH"
+      },
+      {
+        "count": 11,
+        "entity_type": "PROBLEM_CHALLENGE"
+      },
+      {
+        "count": 12,
+        "entity_type": "STAKEHOLDER"
+      },
+      {
+        "count": 4,
+        "entity_type": "FOCUS_AREA_THEME"
+      }
+    ],
+    "distribution_summary": [
+      "SOLUTION_APPROACH: 21",
+      "PROBLEM_CHALLENGE: 11",
+      "STAKEHOLDER: 12",
+      "FOCUS_AREA_THEME: 4"
+    ]
+  }
+]
