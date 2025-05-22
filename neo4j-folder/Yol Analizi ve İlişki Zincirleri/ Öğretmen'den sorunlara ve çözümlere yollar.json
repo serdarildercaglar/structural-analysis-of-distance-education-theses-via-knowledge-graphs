@@ -1,0 +1,332 @@
+﻿[
+  {
+    "path_details": [
+      {
+        "name": "teacher",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "in-service training program",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "inadequate teaching material",
+        "type": "PROBLEM_CHALLENGE"
+      }
+    ],
+    "relationship_chain": [
+      "REQUIRES",
+      "ADDRESSES"
+    ],
+    "path_length": 2,
+    "target_type": "PROBLEM_CHALLENGE"
+  },
+  {
+    "path_details": [
+      {
+        "name": "teacher",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "in-service training program",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "professional development",
+        "type": "SOLUTION_APPROACH"
+      }
+    ],
+    "relationship_chain": [
+      "REQUIRES",
+      "ENHANCES"
+    ],
+    "path_length": 2,
+    "target_type": "SOLUTION_APPROACH"
+  },
+  {
+    "path_details": [
+      {
+        "name": "teacher",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "in-service training program",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "small group study",
+        "type": "SOLUTION_APPROACH"
+      }
+    ],
+    "relationship_chain": [
+      "REQUIRES",
+      "REQUIRES"
+    ],
+    "path_length": 2,
+    "target_type": "SOLUTION_APPROACH"
+  },
+  {
+    "path_details": [
+      {
+        "name": "teacher",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "in-service training program",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "need for professional development",
+        "type": "PROBLEM_CHALLENGE"
+      }
+    ],
+    "relationship_chain": [
+      "REQUIRES",
+      "ADDRESSES"
+    ],
+    "path_length": 2,
+    "target_type": "PROBLEM_CHALLENGE"
+  },
+  {
+    "path_details": [
+      {
+        "name": "teacher",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "in-service training program",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "variability in teacher competence",
+        "type": "PROBLEM_CHALLENGE"
+      }
+    ],
+    "relationship_chain": [
+      "REQUIRES",
+      "ADDRESSES"
+    ],
+    "path_length": 2,
+    "target_type": "PROBLEM_CHALLENGE"
+  },
+  {
+    "path_details": [
+      {
+        "name": "teacher",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "in-service training program",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "lack of technical knowledge",
+        "type": "PROBLEM_CHALLENGE"
+      }
+    ],
+    "relationship_chain": [
+      "REQUIRES",
+      "ADDRESSES"
+    ],
+    "path_length": 2,
+    "target_type": "PROBLEM_CHALLENGE"
+  },
+  {
+    "path_details": [
+      {
+        "name": "teacher",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "in-service training program",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "interactive exercise",
+        "type": "SOLUTION_APPROACH"
+      }
+    ],
+    "relationship_chain": [
+      "REQUIRES",
+      "REQUIRES"
+    ],
+    "path_length": 2,
+    "target_type": "SOLUTION_APPROACH"
+  },
+  {
+    "path_details": [
+      {
+        "name": "teacher",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "in-service training program",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "needs assessment",
+        "type": "SOLUTION_APPROACH"
+      }
+    ],
+    "relationship_chain": [
+      "REQUIRES",
+      "REQUIRES"
+    ],
+    "path_length": 2,
+    "target_type": "SOLUTION_APPROACH"
+  },
+  {
+    "path_details": [
+      {
+        "name": "teacher",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "in-service training program",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "distance education",
+        "type": "SOLUTION_APPROACH"
+      }
+    ],
+    "relationship_chain": [
+      "REQUIRES",
+      "REQUIRES"
+    ],
+    "path_length": 2,
+    "target_type": "SOLUTION_APPROACH"
+  },
+  {
+    "path_details": [
+      {
+        "name": "teacher",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "in-service training program",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "need for digital competency improvement",
+        "type": "PROBLEM_CHALLENGE"
+      }
+    ],
+    "relationship_chain": [
+      "REQUIRES",
+      "ADDRESSES"
+    ],
+    "path_length": 2,
+    "target_type": "PROBLEM_CHALLENGE"
+  },
+  {
+    "path_details": [
+      {
+        "name": "teacher",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "in-service training program",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "lack of in-service training",
+        "type": "PROBLEM_CHALLENGE"
+      }
+    ],
+    "relationship_chain": [
+      "REQUIRES",
+      "ADDRESSES"
+    ],
+    "path_length": 2,
+    "target_type": "PROBLEM_CHALLENGE"
+  },
+  {
+    "path_details": [
+      {
+        "name": "teacher",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "in-service training program",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "lack of family information and support education services",
+        "type": "PROBLEM_CHALLENGE"
+      }
+    ],
+    "relationship_chain": [
+      "REQUIRES",
+      "ADDRESSES"
+    ],
+    "path_length": 2,
+    "target_type": "PROBLEM_CHALLENGE"
+  },
+  {
+    "path_details": [
+      {
+        "name": "teacher",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "in-service training program",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "technostress",
+        "type": "PROBLEM_CHALLENGE"
+      }
+    ],
+    "relationship_chain": [
+      "REQUIRES",
+      "ADDRESSES"
+    ],
+    "path_length": 2,
+    "target_type": "PROBLEM_CHALLENGE"
+  },
+  {
+    "path_details": [
+      {
+        "name": "teacher",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "in-service training program",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "lack of digital literacy",
+        "type": "PROBLEM_CHALLENGE"
+      }
+    ],
+    "relationship_chain": [
+      "REQUIRES",
+      "ADDRESSES"
+    ],
+    "path_length": 2,
+    "target_type": "PROBLEM_CHALLENGE"
+  },
+  {
+    "path_details": [
+      {
+        "name": "teacher",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "in-service training program",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "classroom management",
+        "type": "SOLUTION_APPROACH"
+      }
+    ],
+    "relationship_chain": [
+      "REQUIRES",
+      "ENHANCES"
+    ],
+    "path_length": 2,
+    "target_type": "SOLUTION_APPROACH"
+  }
+]

@@ -1,0 +1,120 @@
+﻿[
+  {
+    "path_nodes": [
+      "student",
+      "distance education",
+      "hybrid education model"
+    ],
+    "relationship_types": [
+      "ENHANCES",
+      "REQUIRES"
+    ],
+    "path_length": 2
+  },
+  {
+    "path_nodes": [
+      "student",
+      "distance education technology"
+    ],
+    "relationship_types": [
+      "USES"
+    ],
+    "path_length": 1
+  },
+  {
+    "path_nodes": [
+      "student",
+      "distance education",
+      "new generation learning technology"
+    ],
+    "relationship_types": [
+      "ENHANCES",
+      "REQUIRES"
+    ],
+    "path_length": 2
+  },
+  {
+    "path_nodes": [
+      "student",
+      "faculty member",
+      "in-service training program"
+    ],
+    "relationship_types": [
+      "REQUIRES",
+      "USES"
+    ],
+    "path_length": 2
+  },
+  {
+    "path_nodes": [
+      "student",
+      "distance education",
+      "teaching technology"
+    ],
+    "relationship_types": [
+      "ENHANCES",
+      "REQUIRES"
+    ],
+    "path_length": 2
+  },
+  {
+    "path_nodes": [
+      "student",
+      "distance education",
+      "technology-supported in-service training program"
+    ],
+    "relationship_types": [
+      "ENHANCES",
+      "REQUIRES"
+    ],
+    "path_length": 2
+  },
+  {
+    "path_nodes": [
+      "student",
+      "student motivation",
+      "technological tool"
+    ],
+    "relationship_types": [
+      "FACES",
+      "ENHANCES"
+    ],
+    "path_length": 2
+  },
+  {
+    "path_nodes": [
+      "student",
+      "video support"
+    ],
+    "relationship_types": [
+      "USES"
+    ],
+    "path_length": 1
+  },
+  {
+    "path_nodes": [
+      "student",
+      "distance education",
+      "classroom teacher",
+      "slide presentation"
+    ],
+    "relationship_types": [
+      "ENHANCES",
+      "USES",
+      "USES"
+    ],
+    "path_length": 3
+  },
+  {
+    "path_nodes": [
+      "student",
+      "teacher",
+      "visual aid"
+    ],
+    "relationship_types": [
+      "ENHANCES",
+      "USES"
+    ],
+    "path_length": 2
+  }
+]

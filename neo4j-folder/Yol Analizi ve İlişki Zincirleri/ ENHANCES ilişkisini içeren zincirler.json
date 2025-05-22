@@ -1,0 +1,212 @@
+﻿[
+  {
+    "path_details": [
+      {
+        "name": "hybrid education model",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "distance education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "technology integration in education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "course permanence",
+        "type": "FOCUS_AREA_THEME"
+      }
+    ],
+    "chain_length": 3
+  },
+  {
+    "path_details": [
+      {
+        "name": "hybrid education model",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "distance education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "technology integration in education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student attitude",
+        "type": "FOCUS_AREA_THEME"
+      }
+    ],
+    "chain_length": 3
+  },
+  {
+    "path_details": [
+      {
+        "name": "hybrid education model",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "distance education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "higher education",
+        "type": "FOCUS_AREA_THEME"
+      }
+    ],
+    "chain_length": 3
+  },
+  {
+    "path_details": [
+      {
+        "name": "hybrid education model",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "distance education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "technology integration in education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "digital competency",
+        "type": "FOCUS_AREA_THEME"
+      }
+    ],
+    "chain_length": 3
+  },
+  {
+    "path_details": [
+      {
+        "name": "hybrid education model",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "distance education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "writing skill",
+        "type": "FOCUS_AREA_THEME"
+      }
+    ],
+    "chain_length": 3
+  },
+  {
+    "path_details": [
+      {
+        "name": "hybrid education model",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "distance education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "science education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "academic achievement",
+        "type": "FOCUS_AREA_THEME"
+      }
+    ],
+    "chain_length": 3
+  },
+  {
+    "path_details": [
+      {
+        "name": "hybrid education model",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "distance education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "science education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "academic achievement",
+        "type": "PROBLEM_CHALLENGE"
+      }
+    ],
+    "chain_length": 3
+  },
+  {
+    "path_details": [
+      {
+        "name": "hybrid education model",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "distance education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "speaking skill",
+        "type": "FOCUS_AREA_THEME"
+      }
+    ],
+    "chain_length": 3
+  },
+  {
+    "path_details": [
+      {
+        "name": "hybrid education model",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "distance education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "technology integration in education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "distance education",
+        "type": "FOCUS_AREA_THEME"
+      }
+    ],
+    "chain_length": 3
+  },
+  {
+    "path_details": [
+      {
+        "name": "hybrid education model",
+        "type": "SOLUTION_APPROACH"
+      },
+      {
+        "name": "distance education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "technology integration in education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "professional development",
+        "type": "SOLUTION_APPROACH"
+      }
+    ],
+    "chain_length": 3
+  }
+]

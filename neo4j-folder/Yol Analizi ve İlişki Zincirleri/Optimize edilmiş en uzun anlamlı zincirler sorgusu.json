@@ -1,0 +1,157 @@
+﻿[
+  {
+    "path_details": [
+      {
+        "name": "thesis",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "digital competency",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "distance education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education technology",
+        "type": "SOLUTION_APPROACH"
+      }
+    ],
+    "relationship_chain": [
+      "EXAMINES",
+      "ENHANCES",
+      "ENHANCES",
+      "USES"
+    ],
+    "chain_length": 4
+  },
+  {
+    "path_details": [
+      {
+        "name": "thesis",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "science education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "distance education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education technology",
+        "type": "SOLUTION_APPROACH"
+      }
+    ],
+    "relationship_chain": [
+      "EXAMINES",
+      "REQUIRES",
+      "ENHANCES",
+      "USES"
+    ],
+    "chain_length": 4
+  },
+  {
+    "path_details": [
+      {
+        "name": "thesis",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "technology integration in education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "distance education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education technology",
+        "type": "SOLUTION_APPROACH"
+      }
+    ],
+    "relationship_chain": [
+      "EXAMINES",
+      "ENHANCES",
+      "ENHANCES",
+      "USES"
+    ],
+    "chain_length": 4
+  },
+  {
+    "path_details": [
+      {
+        "name": "thesis",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education quality standard",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "distance education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education technology",
+        "type": "SOLUTION_APPROACH"
+      }
+    ],
+    "relationship_chain": [
+      "EXAMINES",
+      "ENHANCES",
+      "ENHANCES",
+      "USES"
+    ],
+    "chain_length": 4
+  },
+  {
+    "path_details": [
+      {
+        "name": "thesis",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "hybrid education system",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "distance education",
+        "type": "FOCUS_AREA_THEME"
+      },
+      {
+        "name": "student",
+        "type": "STAKEHOLDER"
+      },
+      {
+        "name": "distance education technology",
+        "type": "SOLUTION_APPROACH"
+      }
+    ],
+    "relationship_chain": [
+      "EXAMINES",
+      "ENHANCES",
+      "ENHANCES",
+      "USES"
+    ],
+    "chain_length": 4
+  }
+]

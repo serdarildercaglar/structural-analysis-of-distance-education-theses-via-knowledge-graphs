@@ -1,0 +1,92 @@
+﻿[
+  {
+    "stakeholder": "student",
+    "problem": "face-to-face education impossibility",
+    "solution": "distance education",
+    "chain_frequency": 1
+  },
+  {
+    "stakeholder": "student",
+    "problem": "face-to-face education impossibility",
+    "solution": "synchronous learning system",
+    "chain_frequency": 1
+  },
+  {
+    "stakeholder": "student",
+    "problem": "face-to-face education impossibility",
+    "solution": "flipped learning model",
+    "chain_frequency": 1
+  },
+  {
+    "stakeholder": "student",
+    "problem": "face-to-face education impossibility",
+    "solution": "live course",
+    "chain_frequency": 1
+  },
+  {
+    "stakeholder": "student",
+    "problem": "face-to-face education impossibility",
+    "solution": "Education Information Network",
+    "chain_frequency": 1
+  },
+  {
+    "stakeholder": "student",
+    "problem": "need for digital competency improvement",
+    "solution": "in-service training program",
+    "chain_frequency": 1
+  },
+  {
+    "stakeholder": "student",
+    "problem": "need for digital competency improvement",
+    "solution": "Self-Efficacy Perception Scale for Online Technologies",
+    "chain_frequency": 1
+  },
+  {
+    "stakeholder": "student",
+    "problem": "need for digital competency improvement",
+    "solution": "Scale of Competencies Required by School Principals by Distance Education",
+    "chain_frequency": 1
+  },
+  {
+    "stakeholder": "student",
+    "problem": "need for digital competency improvement",
+    "solution": "technology-supported case-based activity",
+    "chain_frequency": 1
+  },
+  {
+    "stakeholder": "student",
+    "problem": "systemic problem",
+    "solution": "distance education technology",
+    "chain_frequency": 1
+  },
+  {
+    "stakeholder": "student",
+    "problem": "systemic problem",
+    "solution": "cooperation",
+    "chain_frequency": 1
+  },
+  {
+    "stakeholder": "student",
+    "problem": "systemic problem",
+    "solution": "EBA Live Lesson",
+    "chain_frequency": 1
+  },
+  {
+    "stakeholder": "student",
+    "problem": "systemic problem",
+    "solution": "assessment and evaluation tools and methods",
+    "chain_frequency": 1
+  },
+  {
+    "stakeholder": "student",
+    "problem": "systemic problem",
+    "solution": "live course",
+    "chain_frequency": 1
+  },
+  {
+    "stakeholder": "student",
+    "problem": "face-to-face education impossibility",
+    "solution": "distance education technology",
+    "chain_frequency": 1
+  }
+]
